@@ -91,6 +91,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    align-items: center;
 }
 
 .left {
@@ -2326,6 +2327,10 @@ body {
 
     .hidden {
         display: none;
+    }
+
+    .language-dropdown {
+        width: 50px;
     }
 
     .home-content {
