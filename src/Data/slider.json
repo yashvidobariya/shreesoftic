@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "image": "/Images/p1.svg",
+        "title": "Results Wellness Lifestyle",
+        "description": "E-Commerce & Fitness Website",
+        "info": "RWL (Results Wellness Lifestyle) is a fitness and wellness platform offering on-demand home workouts, personalized meal plans, and expert guidance. It provides various workout programs, including strength, cardio, yoga, and dance, along with customizable nutrition plans and community support to help users achieve their health and fitness goals.",
+        "technology": "Reactjs , Nodejs",
+        "type": ""
+    },
+    {
+        "id": 2,
+        "image": "/Images/p5.svg",
+        "title": "Chaina Fab",
+        "description": "Work Finder Mobile Application",
+        "info": "China Fab is a Job seeker and giver mobile application and its specifically designed for Art & Entertainment field. Where people can find artist, painter, singer etc. and some people can post their requirements while other contact them via this app.",
+        "technology": "React native, Nodejs",
+        "type": "Job Finder Mobile App"
+    },
+    {
+        "id": 3,
+        "image": "/Images/p3.svg",
+        "title": "AllFive",
+        "description": "Native Mobile Application",
+        "info": "AllFive is a platform where users can discover & book offbeat experiences and hosting parters can create and serve curated experiences.",
+        "technology": "iOS- Swift, Android - JAVA",
+        "type": "Ticket Booking Platform"
+    },
+    {
+        "id": 4,
+        "image": "/Images/p4.svg",
+        "title": "Goodpix",
+        "description": "Business growth Website",
+        "info": "GoodPix is a styling and shopping platform designed for personal stylists to create shoppable style boards, digitize wardrobes, and manage client sites. It offers features like customizable lookbooks, private client sites, and the ability to earn commissions from recommended products. GoodPix aims to streamline the styling process and enhance client engagement through organized, professional tools and resources.",
+        "technology": "Angular, Node",
+        "type": "E-commerce"
+    },
+    {
+        "id": 5,
+        "image": "/Images/portfolio-four.png",
+        "title": "Keatov",
+        "description": "Food Delivery App",
+        "info": "Kosher food & groceries, pizza, chicken, shawarma, sushi, and more delivered directly to your door! KEATOV gives you kosher food directly from your favorite Kosher restaurants.",
+        "technology": "Flutter, Nodejs",
+        "type": ""
+    },
+    {
+        "id": 6,
+        "image": "/Images/portfolio-five.png",
+        "title": "SEO optimization",
+        "description": "Google Search Optimisation & Meta Ranking",
+        "type": ""
+    }
+]

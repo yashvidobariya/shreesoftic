@@ -1,0 +1,677 @@
+{
+    "shreesoftic": "shreesoftic",
+    "header": {
+        "home": "Home",
+        "about_us": "Over ons",
+        "services": "Diensten",
+        "career": "Carrière",
+        "contact_us": "Neem contact met ons op"
+    },
+    "home": {
+        "title": "Welkom bij Shreesoftic",
+        "description": "Welkom bij Shreesoftic, een toonaangevend bedrijf op het gebied van informatietechnologie, gespecialiseerd in de ontwikkeling van mobiele applicaties en websites. Ons team van ervaren ontwikkelaars is gepassioneerd over het creëren van innovatieve en intuïtieve oplossingen die bedrijven helpen slagen. We zijn er trots op producten en diensten van hoge kwaliteit aan onze klanten te leveren. Of u nu een op maat gemaakte mobiele applicatie of een complete website nodig heeft, wij hebben de expertise en middelen om dit te realiseren. Neem vandaag nog contact met ons op om te ontdekken hoe wij uw bedrijf naar nieuwe hoogten kunnen brengen.",
+        "cta_button": "Neem vandaag nog contact met ons op",
+        "data": {
+            "for business": "voor bedrijven",
+            "to sell online": "om online te verkopen",
+            "for your ideas": "voor uw ideeën"
+        }
+    },
+    "workflow": {
+        "header": "Eersteklas Diensten",
+        "subheader": "Ons Proces",
+        "steps": [
+            {
+                "id": 1,
+                "number": "01",
+                "icon": "Images/w1.png",
+                "title": "Conceptualisatie",
+                "description": "Werk samen met ons team om innovatieve ideeën te ontwikkelen die zijn afgestemd op uw zakelijke doelstellingen."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "icon": "Images/w2.png",
+                "title": "Ontwerp & Ontwikkeling",
+                "description": "Onze experts ontwerpen en ontwikkelen gebruiksvriendelijke oplossingen die de gebruikerservaring en functionaliteit prioriteren."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "icon": "Images/w3.png",
+                "title": "Kwaliteitsborging",
+                "description": "We testen grondig om ervoor te zorgen dat uw oplossing betrouwbaar, veilig en probleemloos werkt."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "icon": "Images/w4.png",
+                "title": "Lancering en verder",
+                "description": "We lanceren uw project succesvol en bieden continue ondersteuning voor optimale prestaties."
+            }
+        ]
+    },
+    "service": {
+        "header": "Onze Expertise",
+        "subheader": "Bij Shreesoftic bieden we een uitgebreide reeks digitale oplossingen die zijn ontworpen om uw bedrijf te laten groeien. Van geavanceerde webontwikkeling tot intuïtieve mobiele applicaties, ons team van experts zorgt voor excellentie in elke fase.",
+        "steps": [
+            {
+                "id": 1,
+                "icon": "RiComputerLine",
+                "title": "Webontwikkeling",
+                "description": "Bouw dynamische en schaalbare websites die boeien en converteren. Onze webontwikkelingsdiensten leveren krachtige online ervaringen."
+            },
+            {
+                "id": 2,
+                "icon": "RiAppleFill",
+                "title": "iPhone & iPad App",
+                "description": "Ontwikkel opvallende iOS-apps met Shreesoftic. Onze expertise in ontwerp en programmering garandeert naadloze functionaliteit en verbluffende visuals op iPhone en iPad."
+            },
+            {
+                "id": 3,
+                "icon": "TiVendorAndroid",
+                "title": "Android Applicatie",
+                "description": "Bouw dynamische en schaalbare websites die boeien en converteren. Onze webontwikkelingsdiensten leveren krachtige online ervaringen."
+            },
+            {
+                "id": 4,
+                "icon": "SiAltiumdesigner",
+                "title": "UI/UX Ontwerp",
+                "description": "Transformeer uw digitale interfaces met onze UI/UX ontwerp expertise. We richten ons op gebruikersonderzoek, testen en front-end ontwikkeling om intuïtieve en boeiende gebruikerservaringen te creëren."
+            }
+        ]
+    },
+    "team": {
+        "header": "Waarom Kiezen voor Shreesoftic?",
+        "subheader": "Uw Succes Bevorderen met Eersteklas IT Oplossingen!",
+        "description": "We hebben een bewezen staat van dienst in het tijdig en binnen budget leveren van hoogwaardige projecten. Ons team blinkt uit in verschillende programmeertalen en frameworks, waaronder Java, Kotlin, Swift, React/React Native, Flutter en Angular. Met uitgebreide ervaring in databaseontwerp, cloud computing en agile ontwikkelmethodologieën, zijn we in staat om elk project aan te pakken, van eenvoudige websites tot complexe mobiele apps. Werk samen met ons om uw visie werkelijkheid te maken. Neem vandaag nog contact met ons op om meer te weten te komen over hoe onze diensten uw bedrijf kunnen helpen floreren in de digitale wereld.",
+        "steps": [
+            {
+                "id": 1,
+                "number": "20",
+                "plus": "+",
+                "title": "Tevreden Klanten",
+                "description": "Ons bedrijf heeft consequent positieve feedback ontvangen van meer dan 20 tevreden klanten die hebben geprofiteerd van onze hoogwaardige diensten en resultaten."
+            },
+            {
+                "id": 2,
+                "number": "50",
+                "plus": "+",
+                "title": "Projecten",
+                "description": "Met meer dan 50 voltooide projecten heeft ons team een schat aan ervaring en expertise in het leveren van eersteklas oplossingen voor onze klanten."
+            },
+            {
+                "id": 3,
+                "number": "10",
+                "plus": "+",
+                "title": "Expert Teamleden",
+                "description": "Ons bedrijf is trots op een team van 10+ bekwame professionals die zich inzetten om de best mogelijke ondersteuning en resultaten voor onze klanten te bieden."
+            }
+        ]
+    },
+    "portfolio": {
+        "header": "Onze Portfolio",
+        "subheader": "Diverse reeks prestaties",
+        "button": "Meer weten",
+        "steps": [
+            {
+                "id": 1,
+                "image": "/Images/p1.svg",
+                "title": "Resultaten Wellness Levensstijl",
+                "description": "E-Commerce & Fitness Website",
+                "info": "RWL (Resultaten Wellness Levensstijl) is een fitness- en wellnessplatform dat on-demand thuistrainingen, gepersonaliseerde maaltijdplannen en deskundige begeleiding biedt. Het biedt verschillende trainingsprogramma's, waaronder krachttraining, cardio, yoga en dans, samen met aanpasbare voedingsplannen en gemeenschapsondersteuning om gebruikers te helpen hun gezondheids- en fitnessdoelen te bereiken.",
+                "technology": "Reactjs, Nodejs",
+                "type": ""
+            },
+            {
+                "id": 2,
+                "image": "/Images/p5.svg",
+                "title": "China Fab",
+                "description": "Werk Zoek Mobiele Applicatie",
+                "info": "China Fab is een mobiele applicatie voor werkzoekenden en aanbieders, speciaal ontworpen voor de kunst- en entertainmentsector. Mensen kunnen kunstenaars, schilders, zangers, enz. vinden, terwijl anderen hun vereisten kunnen plaatsen en contact met hen kunnen opnemen via deze app.",
+                "technology": "React native, Nodejs",
+                "type": "Job Finder Mobiele App"
+            },
+            {
+                "id": 3,
+                "image": "/Images/p3.svg",
+                "title": "Alle Vijf",
+                "description": "Native Mobiele Applicatie",
+                "info": "Alle Vijf is een platform waar gebruikers alternatieve ervaringen kunnen ontdekken en boeken, en gastgevers curated ervaringen kunnen creëren en aanbieden.",
+                "technology": "iOS- Swift, Android - JAVA",
+                "type": "Ticket Boekingsplatform"
+            },
+            {
+                "id": 4,
+                "image": "/Images/p4.svg",
+                "title": "Goedepix",
+                "description": "Website voor Bedrijfsgroei",
+                "info": "Goedepix is een styling- en winkelplatform dat is ontworpen voor persoonlijke stylisten om shopbare stijlboards te maken, garderobes te digitaliseren en klantensites te beheren. Het biedt functies zoals aanpasbare lookbooks, privé klantensites en de mogelijkheid om commissies te verdienen op aanbevolen producten. Goedepix heeft als doel het stylingproces te stroomlijnen en de betrokkenheid van klanten te verbeteren met georganiseerde, professionele tools en middelen.",
+                "technology": "Angular, Node",
+                "type": "E-commerce"
+            },
+            {
+                "id": 5,
+                "image": "/Images/portfolio-four.png",
+                "title": "Keatov",
+                "description": "Voedselbezorg App",
+                "info": "Kosher voedsel & boodschappen, pizza, kip, shawarma, sushi en meer, rechtstreeks bij u thuisbezorgd! KEATOV brengt u kosher voedsel rechtstreeks van uw favoriete kosher restaurants.",
+                "technology": "Flutter, Nodejs",
+                "type": ""
+            },
+            {
+                "id": 6,
+                "image": "/Images/portfolio-five.png",
+                "title": "SEO-optimalisatie",
+                "description": "Google Zoekoptimalisatie & Meta Ranking",
+                "type": ""
+            }
+        ]
+    },
+    "contactus": {
+        "header": "Neem contact met ons op",
+        "subheader": "We zouden graag over uw project willen praten. Neem vandaag nog contact met ons op om te zien hoe we u kunnen helpen bij het realiseren van uw ideeën.",
+        "button": "Contacteer ons"
+    },
+    "footer": {
+        "logo": {
+            "src": "/Images/footericon.png",
+            "alt": "footer-shreesoftic",
+            "width": 190
+        },
+        "link": {
+            "home": "Startpagina",
+            "about": "Over ons",
+            "service": "Diensten",
+            "career": "Carrière",
+            "contact": "Neem contact op"
+        },
+        "aboutUs": {
+            "header": "Over ons",
+            "description": "Bij Shreesoftic ondersteunen we kleine en middelgrote bedrijven door innovatieve IT-oplossingen te bieden die groei stimuleren en duurzaamheid waarborgen. We zijn toegewijd aan uw succes en vastbesloten om uitmuntendheid te leveren."
+        },
+        "socialMedia": {
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/"
+        },
+        "quickLinks": {
+            "home": "/",
+            "aboutUs": "/aboutus",
+            "services": "/services",
+            "career": "/career",
+            "contactUs": "/contactus"
+        },
+        "contactUs": {
+            "email": "contact@shreesoftic.com",
+            "phoneNumber": "+91 97242 83087",
+            "address": "4th Floor, 20, Shree Nilkanth Business Centre, Causeway Road, Opposite. D-Mart, Katargam, Surat, Gujarat 395004."
+        },
+        "privacyPolicy": {
+            "url": "/privacy",
+            "text": "Privacybeleid"
+        },
+        "termsAndConditions": {
+            "url": "/condition",
+            "text": "Algemene voorwaarden"
+        }
+    },
+    "aboutus": {
+        "header": "Over Ons",
+        "subheader": "Bij Shreesoftic, veranderen we ideeën in digitale meesterwerken. Sinds onze oprichting hebben we topprestaties geleverd op het gebied van web- en mobiele ontwikkeling. Ons team van experts maakt gebruik van de nieuwste technologieën om innovatieve, betrouwbare oplossingen te creëren die zijn afgestemd op uw unieke behoeften. Kom met ons mee op onze reis naar digitaal succes en opmerkelijke groei."
+    },
+    "contact": {
+        "header": "Neem Contact met Ons Op",
+        "subheader": "Klaar om uw bedrijf naar een hoger niveau te tillen? Neem vandaag nog contact met ons op om te ontdekken hoe onze expertise u kan helpen uw doelen te bereiken. Ons team staat klaar om uw vragen te beantwoorden en de ondersteuning te bieden die u nodig heeft.",
+        "detail_header": "Contactgegevens",
+        "details_subheader": "Wij staan klaar om u te helpen! Neem op één van de volgende manieren contact met ons op en ons team zal snel bij u terugkomen. Of u nu vragen heeft over onze diensten of ondersteuning nodig heeft, wij staan altijd voor u klaar.",
+        "form_header": "Neem Contact op",
+        "form_subheader": "Heeft u een vraag of wilt u uw project bespreken? Stuur ons een bericht en we nemen zo snel mogelijk contact met u op.",
+        "form_button": "Bericht Verzenden",
+        "steps": [
+            {
+                "icon": "IoLocationSharp",
+                "heading": "Bezoek onze locatie",
+                "content": "4e verdieping, 20, Shree Nilkanth Business Hub, Causeway Rd, tegenover D-Mart, Katargam, Surat, Gujarat 395004."
+            },
+            {
+                "icon": "BiMailSend",
+                "heading": "Stuur ons een e-mail",
+                "content": "contact@shreesoftic.com"
+            },
+            {
+                "icon": "TbPhoneCall",
+                "heading": "Bel ons voor projecten",
+                "content": "+91 97242 83087"
+            }
+        ],
+        "firstname": "Jouw naam",
+        "email": "E-mailadres",
+        "number": "Telefoonnummer",
+        "message": "Schrijf je bericht"
+    },
+    "career": {
+        "join_title": "Word lid van ons team",
+        "join_title_parent": " en vorm de toekomst",
+        "join_title_description": "Bij Shreesoftic zijn we gepassioneerd door innovatie en uitmuntendheid. We zijn op zoek naar getalenteerde individuen om ons dynamische team te versterken en bij te dragen aan baanbrekende projecten. Als je gedreven wordt door creativiteit en gedijt in een samenwerkende omgeving, laten we dan samen de toekomst bouwen.",
+        "header": "Zorg voor Medewerkers",
+        "subheader": "Bij Shreesoftic geloven we dat onze medewerkers onze grootste aanwinst zijn. We zetten ons in voor het creëren van een ondersteunende en verrijkende omgeving die groei, welzijn en tevredenheid bevordert. Ontdek de unieke voordelen die we onze teamleden bieden.",
+        "work_title": "Fancy werken voor",
+        "work_title_parent": "Shreesoftic?",
+        "work_subheader": "Word lid van Shreesoftic en breng je carrière naar een hoger niveau. We zijn op zoek naar getalenteerde, energieke individuen om deel uit te maken van ons innovatieve team. Bij Shreesoftic geniet je van een scala aan voordelen, waaronder concurrerende salarissen, carrièremogelijkheden en een positieve werkomgeving. We bieden flexibele werkuren, geavanceerde technologie en een ondersteunende teamcultuur. Ervaar professionele groei via onze trainingsprogramma's, werk aan impactvolle projecten en werk samen met een wereldwijde klantenkring. Met genereuze vakantietijd en een focus op de balans tussen werk en privéleven is Shreesoftic de ideale plek voor ambitieuze professionals.",
+        "steps": [
+            {
+                "id": "1",
+                "title": "Medewerkers Prioriteit",
+                "description": "Onze medewerkers komen eerst. We geven prioriteit aan hun behoeften en welzijn, en zorgen voor een gezonde werk-privébalans en een ondersteunende werkcultuur.",
+                "icon": "PiUserSwitchLight"
+            },
+            {
+                "id": "2",
+                "title": "Opleidingsprogramma's",
+                "description": "Toegang tot doorlopende leer- en ontwikkelingsmogelijkheden via onze uitgebreide opleidingsprogramma's die zijn ontworpen om uw vaardigheden en carrièreontwikkeling te verbeteren.",
+                "icon": "FcProcess"
+            },
+            {
+                "id": "3",
+                "title": "Positieve Werkomgeving",
+                "description": "Geniet van een samenwerkende en positieve werkomgeving waar uw bijdragen worden gewaardeerd en uw professionele groei wordt gekoesterd.",
+                "icon": "PiHandshakeLight"
+            },
+            {
+                "id": "4",
+                "title": "Feestelijke Vieringen",
+                "description": "Sluit je bij ons aan in het vieren van verschillende festivals en evenementen gedurende het jaar, wat een gevoel van gemeenschap en teamgeest bevordert.",
+                "icon": "MdOutlineCelebration"
+            }
+        ]
+    },
+    "servicepage": {
+        "header": "Onze Diensten",
+        "subheader": "Bij Shreesoftic bieden we een uitgebreide suite van digitale diensten die zijn ontworpen om te voldoen aan uw unieke zakelijke behoeften. Ons team van experts maakt gebruik van de nieuwste technologieën om innovatieve en betrouwbare oplossingen te leveren. Verken ons aanbod van diensten en ontdek hoe wij u kunnen helpen uw digitale doelen te bereiken.",
+        "servicetitle": "Ontdek Onze Expertise",
+        "seemore": "Zie meer",
+        "client_title": "Klantgetuigenissen",
+        "process": "proces",
+        "our": "ons",
+        "tech": "Technologieën en hulpmiddelen",
+        "steps": [
+            {
+                "id": "1",
+                "title": "Android Ontwikkeling",
+                "description": "Ontwikkel krachtige Android-apps die zijn afgestemd op uw zakelijke behoeften. Ons team blinkt uit in het creëren van intuïtieve en gebruiksvriendelijke applicaties voor de Google Play Store.",
+                "icon": "TiVendorAndroid",
+                "image": "/Images/anroid.png",
+                "subtitle": "Waarom kiezen voor Shreesoftic voor Android Ontwikkeling?",
+                "info": "Bij Shreesoftic zijn we gespecialiseerd in het maken van hoogwaardige Android-applicaties die zijn afgestemd op uw zakelijke behoeften. Ons ervaren team van ontwikkelaars combineert technische deskundigheid met creatief ontwerp om apps te leveren die niet alleen visueel aantrekkelijk zijn, maar ook zeer functioneel.",
+                "Technology": {
+                    "Talen": "Java, Kotlin",
+                    "Kaders": "Android SDK, Retrofit, Dagger",
+                    "Hulpmiddelen": "Android Studio, Firebase, Google Play Console, Gradle"
+                },
+                "Features": {
+                    "Aangepaste oplossingen": "We ontwikkelen Android-apps die zijn afgestemd op uw unieke zakelijke vereisten, zodat ze perfect aansluiten bij uw doelen.",
+                    "Gebruikergericht ontwerp": "Onze ontwerpfilosofie richt zich op het creëren van intuïtieve en boeiende gebruikersinterfaces die een uitzonderlijke gebruikerservaring bieden.",
+                    "Robuuste prestaties": "Onze apps zijn geoptimaliseerd voor prestaties, zodat ze snelle laadtijden en een soepele werking op alle Android-apparaten garanderen.",
+                    "Beveiliging": "We geven prioriteit aan beveiliging om de gegevens van uw gebruikers te beschermen en ervoor te zorgen dat uw app voldoet aan de richtlijnen van Google.",
+                    "Voortdurende ondersteuning": "Onze toewijding eindigt niet bij de lancering. We bieden voortdurende onderhoud en ondersteuning om ervoor te zorgen dat uw app soepel draait en up-to-date is met de nieuwste Android-functies."
+                },
+                "DevelopmentProcess": {
+                    "Ontdekking en planning": "We beginnen met het begrijpen van uw visie en vereisten. Dit omvat gedetailleerde gesprekken om de functionaliteit en doelstellingen van de app te definiëren.",
+                    "Ontwerp": "Ons ontwerpteam maakt wireframes en mockups, zodat de app gebruiksvriendelijk en visueel aantrekkelijk is.",
+                    "Ontwikkeling": "Onze bekwame ontwikkelaars geven leven aan het ontwerp door de app te coderen met behulp van de nieuwste technologieën en best practices.",
+                    "Testen": "Er wordt rigoureus getest om eventuele problemen te identificeren en op te lossen, zodat de app vrij is van bugs en vlekkeloos presteert.",
+                    "Inzet": "Eenmaal goedgekeurd, lanceren we de app op de Google Play Store en monitoren we de prestaties om een succesvolle release te waarborgen.",
+                    "Onderhoud en updates": "We bieden voortdurende ondersteuning en updates om uw app actueel te houden en optimaal te laten functioneren."
+                }
+            },
+            {
+                "id": "2",
+                "title": "iPhone Ontwikkeling",
+                "description": "Creëer uitzonderlijke iOS-apps met verbluffend ontwerp en naadloze functionaliteit. Onze expertise in iPhone-ontwikkeling zorgt voor een premium gebruikerservaring op Apple-apparaten.",
+                "icon": "RiAppleFill",
+                "image": "/Images/iphone.png",
+                "subtitle": "Waarom kiezen voor Shreesoftic voor iPhone Ontwikkeling?",
+                "info": "Bij Shreesoftic zijn we gespecialiseerd in het maken van hoogwaardige iPhone-applicaties die zijn afgestemd op uw zakelijke behoeften. Ons ervaren team van ontwikkelaars combineert technische deskundigheid met creatief ontwerp om apps te leveren die niet alleen visueel aantrekkelijk zijn, maar ook zeer functioneel.",
+                "Technology": {
+                    "Talen": "Swift, Objective-C",
+                    "Kaders": "UIKit, SwiftUI, CoreData, Combine",
+                    "Hulpmiddelen": "TestFlight, Firebase, Cocoapods, Fastlane"
+                },
+                "Features": {
+                    "Aangepaste oplossingen": "We ontwikkelen iOS-apps die zijn afgestemd op uw unieke zakelijke vereisten, zodat ze perfect aansluiten bij uw doelen.",
+                    "Gebruikergericht ontwerp": "Onze ontwerpfilosofie richt zich op het creëren van intuïtieve en boeiende gebruikersinterfaces die een uitzonderlijke gebruikerservaring bieden.",
+                    "Robuuste prestaties": "Onze apps zijn geoptimaliseerd voor prestaties, zodat ze snelle laadtijden en een soepele werking op alle iPhone-modellen garanderen.",
+                    "Beveiliging": "We geven prioriteit aan beveiliging om de gegevens van uw gebruikers te beschermen en ervoor te zorgen dat uw app voldoet aan de strenge richtlijnen van Apple.",
+                    "Voortdurende ondersteuning": "Onze toewijding eindigt niet bij de lancering. We bieden voortdurende onderhoud en ondersteuning om ervoor te zorgen dat uw app soepel draait en up-to-date is met de nieuwste iOS-functies."
+                },
+                "DevelopmentProcess": {
+                    "Ontdekkingsplanning": "We beginnen met het begrijpen van uw visie en vereisten. Dit omvat gedetailleerde gesprekken om de functionaliteit en doelstellingen van de app te definiëren.",
+                    "Ontwerp": "Ons ontwerpteam maakt wireframes en mockups, zodat de app gebruiksvriendelijk en visueel aantrekkelijk is.",
+                    "Ontwikkeling": "Onze bekwame ontwikkelaars geven leven aan het ontwerp door de app te coderen met behulp van de nieuwste technologieën en best practices.",
+                    "Testen": "Er wordt rigoureus getest om eventuele problemen te identificeren en op te lossen, zodat de app vrij is van bugs en vlekkeloos presteert.",
+                    "Inzet": "Eenmaal goedgekeurd, lanceren we de app in de Apple App Store en monitoren we de prestaties om een succesvolle release te waarborgen.",
+                    "Onderhoudsupdates": "We bieden voortdurende ondersteuning en updates om uw app actueel te houden en optimaal te laten functioneren."
+                }
+            },
+            {
+                "id": "3",
+                "title": "Web Ontwikkeling",
+                "description": "Bouw dynamische en schaalbare websites die boeien en converteren. Onze webontwikkelingsdiensten leveren impactvolle online ervaringen die zijn afgestemd op uw merk.",
+                "icon": "RiComputerLine",
+                "image": "/Images/web.png",
+                "subtitle": "Waarom kiezen voor Shreesoftic voor Web Ontwikkeling?",
+                "info": "Bij Shreesoftic zijn we gespecialiseerd in het maken van hoogwaardige websites die zijn afgestemd op uw zakelijke behoeften. Ons ervaren team van ontwikkelaars combineert technische deskundigheid met creatief ontwerp om websites te leveren die niet alleen visueel aantrekkelijk zijn, maar ook zeer functioneel.",
+                "Technology": {
+                    "Talen": "HTML, CSS, JavaScript, PHP, Python, Ruby",
+                    "Kaders": "React, Angular, Vue.js, Django, Flask, Ruby on Rails",
+                    "CMS": "WordPress, Joomla, Drupal",
+                    "E-commerce": "WooCommerce, Shopify, Magento",
+                    "Hulpmiddelen": "Git, Webpack, npm, Docker, AWS, Azure, Google Cloud"
+                },
+                "Features": {
+                    "Aangepaste oplossingen": "We ontwikkelen websites die zijn afgestemd op uw unieke zakelijke vereisten, zodat ze perfect aansluiten bij uw doelen.",
+                    "Gebruikergericht ontwerp": "Onze ontwerpfilosofie richt zich op het creëren van intuïtieve en boeiende gebruikersinterfaces die een uitzonderlijke gebruikerservaring bieden.",
+                    "Robuuste prestaties": "Onze websites zijn geoptimaliseerd voor prestaties, zodat ze snelle laadtijden en een soepele werking op alle apparaten garanderen.",
+                    "Beveiliging": "We geven prioriteit aan beveiliging om uw gegevens te beschermen en ervoor te zorgen dat uw website voldoet aan de laatste normen.",
+                    "Voortdurende ondersteuning": "Onze toewijding eindigt niet bij de lancering. We bieden voortdurende onderhoud en ondersteuning om uw website soepel te laten draaien en up-to-date te blijven met de nieuwste trends."
+                },
+                "DevelopmentProcess": {
+                    "Overzicht en planning": "We beginnen met het begrijpen van uw visie en vereisten. Dit omvat gedetailleerde gesprekken om de functionaliteit en doelstellingen van de website te definiëren.",
+                    "Ontwerp": "Ons ontwerpteam maakt wireframes en mockups, zodat de website gebruiksvriendelijk en visueel aantrekkelijk is.",
+                    "Ontwikkeling": "Onze bekwame ontwikkelaars geven leven aan het ontwerp door de website te coderen met behulp van de nieuwste technologieën en best practices.",
+                    "Testen": "Er wordt rigoureus getest om eventuele problemen te identificeren en op te lossen, zodat de website vrij is van bugs en vlekkeloos presteert.",
+                    "Inzet": "Eenmaal goedgekeurd, lanceren we de website en monitoren we de prestaties om een succesvolle release te waarborgen.",
+                    "Onderhoud en updates": "We bieden voortdurende ondersteuning en updates om uw website actueel te houden en optimaal te laten functioneren."
+                }
+            },
+            {
+                "id": "4",
+                "title": "UI/UX & Grafisch Ontwerp",
+                "description": "Versterk uw digitale aanwezigheid met onze deskundige UI/UX- en grafisch ontwerpdiensten. We richten ons op gebruiksgericht ontwerp om visueel aantrekkelijke en intuïtieve interfaces te creëren.",
+                "icon": "SiAntdesign",
+                "image": "/Images/ui-ux.png",
+                "subtitle": "Waarom kiezen voor Shreesoftic voor UI/UX & Grafisch Ontwerp?",
+                "info": "Bij Shreesoftic zijn we gespecialiseerd in het maken van hoogwaardige UI/UX-ontwerpen die zijn afgestemd op uw zakelijke behoeften. Ons ervaren team van ontwerpers combineert creatief ontwerp met gebruiksgerichte principes om interfaces te leveren die niet alleen visueel aantrekkelijk zijn, maar ook zeer functioneel.",
+                "Technology": {
+                    "Ontwerptools": "Adobe XD, Sketch, Figma, InVision, Photoshop, Illustrator",
+                    "Prototyping": "Marvel, Axure RP",
+                    "Testing": "UserTesting, Hotjar, Optimizely"
+                },
+                "Features": {
+                    "Aangepaste Oplossingen": "We ontwerpen interfaces die zijn afgestemd op de unieke vereisten van uw bedrijf en zorgen ervoor dat ze perfect aansluiten bij uw doelstellingen.",
+                    "Gebruikersgerichte Ontwerpen": "Onze ontwerpfilosofie richt zich op het creëren van intuïtieve en boeiende gebruikersinterfaces die een uitzonderlijke gebruikerservaring bieden.",
+                    "Visuele Aantrekkingskracht": "We zorgen voor consistentie op alle platforms en apparaten, waardoor een naadloze gebruikerservaring wordt geboden.",
+                    "Consistentie": "We zorgen voor consistentie op alle platforms en apparaten, waardoor een naadloze gebruikerservaring wordt geboden.",
+                    "Doorlopende Ondersteuning": "Onze toewijding eindigt niet met de lancering. We bieden doorlopende onderhouds- en ondersteuningsdiensten om uw ontwerp fris en up-to-date te houden met de nieuwste trends."
+                },
+                "DevelopmentProcess": {
+                    "Ontdekking & Planning": "We beginnen met het begrijpen van uw visie en vereisten. Dit omvat gedetailleerde discussies om de functionaliteit en doelstellingen van het ontwerp te definiëren.",
+                    "Wireframing": "Ons ontwerpteam maakt wireframes om ervoor te zorgen dat het ontwerp gebruiksvriendelijk en visueel aantrekkelijk is.",
+                    "Prototyping": "We ontwikkelen prototypes om het ontwerp tot leven te brengen, zodat er feedback kan worden gegeven en aanpassingen kunnen worden gedaan.",
+                    "Ontwerp": "Onze ervaren ontwerpers voltooien het ontwerp en creëren visueel verbluffende en intuïtieve interfaces.",
+                    "Testen": "Grondig testen wordt uitgevoerd om eventuele problemen te identificeren en op te lossen, zodat het ontwerp functioneel en gebruiksvriendelijk is.",
+                    "Implementatie": "Na goedkeuring implementeren we het ontwerp en houden we de prestaties in de gaten om een succesvolle release te waarborgen.",
+                    "Onderhoud & Updates": "We bieden doorlopende ondersteuning en updates om uw ontwerp up-to-date en optimaal functionerend te houden."
+                }
+            },
+            {
+                "id": "5",
+                "title": "SEO & Digitale Marketing",
+                "description": "Verhoog uw online zichtbaarheid en genereer gerichte verkeer met onze SEO- en digitale marketingdiensten. We maken gebruik van de nieuwste strategieën om ervoor te zorgen dat uw merk opvalt.",
+                "icon": "FaFileInvoiceDollar",
+                "image": "/Images/marketing.png",
+                "subtitle": "Waarom kiezen voor Shreesoftic voor SEO & Digitale Marketing?",
+                "info": "Bij Shreesoftic zijn we gespecialiseerd in het opstellen van eersteklas SEO- en digitale marketingstrategieën die zijn afgestemd op uw bedrijfsbehoeften. Ons ervaren team combineert technische deskundigheid met creatieve strategieën om campagnes te leveren die niet alleen effectief zijn, maar ook zeer boeiend.",
+                "Technology": {
+                    "SEO-hulpmiddelen": "Google Analytics, Google Search Console, SEMrush, Ahrefs, Moz",
+                    "Inhoudsbeheer": "WordPress, HubSpot, Joomla",
+                    "Marketingautomatisering": "Mailchimp, HubSpot, Marketo",
+                    "beheer van sociale media": "Hootsuite, Buffer, Sprout Social",
+                    "Adverteren": "Google Ads, Facebook Ads, LinkedIn Ads, Twitter Ads"
+                },
+                "Features": {
+                    "Aangepaste Oplossingen": "Wij ontwikkelen SEO- en digitale marketingstrategieën die zijn afgestemd op de unieke behoeften van uw bedrijf, zodat ze perfect aansluiten bij uw doelstellingen.",
+                    "Data-gedreven Aanpak": "Onze strategieën zijn gebaseerd op data en analyses, wat zorgt voor effectieve en meetbare resultaten.",
+                    "Uitmuntende Inhoud": "Wij creëren hoogwaardige content die uw publiek betrekt en de online aanwezigheid van uw merk versterkt.",
+                    "Technische Expertise": "Ons team is bekwaam in de nieuwste SEO-technieken en digitale marketingtools om uw succes te garanderen.",
+                    "Doorlopende Ondersteuning": "Onze betrokkenheid eindigt niet bij de lancering van de campagne. We bieden voortdurende monitoring en optimalisatie om uw strategie effectief en up-to-date te houden."
+                },
+                "DevelopmentProcess": {
+                    "Ontdekking & Planning": "We beginnen met het begrijpen van uw visie en vereisten. Dit omvat gedetailleerde discussies om de doelstellingen van de campagne en de doelgroep te definiëren.",
+                    "Onderzoek & Analyse": "Ons team voert grondig onderzoek en analyse uit om een effectieve strategie te ontwikkelen.",
+                    "Strategie Ontwikkeling": "We creëren een uitgebreide SEO- en digitale marketingstrategie die is afgestemd op de behoeften van uw bedrijf.",
+                    "Implementatie": "Ons bekwame team voert de strategie uit met behulp van de nieuwste tools en technieken.",
+                    "Monitoring & Optimalisatie": "Strenge monitoring wordt uitgevoerd om de prestaties van de campagne te volgen, met voortdurende optimalisatie om succes te waarborgen.",
+                    "Rapportage": "We bieden gedetailleerde rapporten over de voortgang en resultaten van de campagne, wat zorgt voor transparantie en verantwoordelijkheid."
+                }
+            }
+        ],
+        "review": [
+            {
+                "no": 1,
+                "img": "images/r1.jpg",
+                "name": "Ron Mears",
+                "line": "Mobiele applicatie",
+                "detail": "Shreesoftic leverde consequent hoge kwaliteit, gebruiksvriendelijke applicaties op tijd en binnen budget.",
+                "rating": 5
+            },
+            {
+                "no": 2,
+                "img": "images/r3.jpg",
+                "name": "Fraer Booth",
+                "line": "Webontwikkeling",
+                "detail": "Het Shreesoftic-team is gespecialiseerd in het creëren van visueel aantrekkelijke en functionele websites die voldoen aan de behoeften en doelen van de klant en op tijd worden geleverd.",
+                "rating": 5
+            },
+            {
+                "no": 3,
+                "img": "images/r2.jpg",
+                "name": "Heuy Freeman",
+                "line": "Frete Mobiele applicatie",
+                "detail": "De door Shreesoftic ontwikkelde Frete-logistieke leveringsmobiele app stroomlijnde onze operaties, verbeterde de klanttevredenheid en overtrof onze verwachtingen.",
+                "rating": 4.5
+            },
+            {
+                "no": 4,
+                "img": "images/r4.jpg",
+                "name": "Gabriel Musiello",
+                "line": "TrakMD - Arts/Patiëntplatform",
+                "detail": "Goede communicatie en efficiënte ontwikkeling. Biedt oplossingen, geen problemen. Zeer tevreden met het werk en zal blijven werken met Shreesoftic",
+                "rating": 4
+            },
+            {
+                "no": 5,
+                "img": "images/r5.jpg",
+                "name": "Farrukh Atabekov",
+                "line": "Full stack Webontwikkeling",
+                "detail": "Het project verliep soepel en werd op tijd geleverd. Ik zou 6 sterren geven als de responstijd beter was.",
+                "rating": 4.5
+            },
+            {
+                "no": 6,
+                "img": "images/header-bg.jpg",
+                "name": "Valeria Albashiti",
+                "line": "UI/UX-prototype van website & mobiele applicatie",
+                "detail": "Het UI/UX-prototype van het team voor onze website en mobiele applicatie was intuïtief, visueel aantrekkelijk en overtrof onze verwachtingen.",
+                "rating": 5
+            }
+        ],
+        "service_contact_header": "Heeft u vereisten om met ons te delen?",
+        "service_contact_button": "Neem contact met ons op"
+    },
+    "condition": {
+        "title": "Algemene Voorwaarden",
+        "description": "Shreesoftic onderhoudt deze site voor informatie over onze producten en diensten. Voel je vrij om de site te verkennen.",
+        "steps": [
+            {
+                "title": "Informatie die we verzamelen",
+                "description": "Uw toegang tot en gebruik van de site is ook onderworpen aan de volgende voorwaarden en eventuele toekomstige wijzigingen ('Algemene Voorwaarden') en alle toepasselijke wetten. Door toegang te krijgen tot en het verkennen van de site, accepteert u de onderstaande voorwaarden.",
+                "terms": [
+                    {
+                        "id": 1,
+                        "description": "De site, en alle inhoud, materialen, informatie, software, producten en diensten die op de site worden aangeboden, worden aangeboden op een 'as is' en 'zoals beschikbaar' basis. NISL wijst uitdrukkelijk alle garanties van welke aard dan ook af, hetzij uitdrukkelijk of impliciet, inclusief maar niet beperkt tot de impliciete garantie van verkoopbaarheid, geschiktheid voor een bepaald doel en niet-inbreuk."
+                    },
+                    {
+                        "id": 2,
+                        "description": "De inhoud en de projecten die op de site worden beschreven of afgebeeld, kunnen zonder voorafgaande kennisgeving worden gewijzigd. Op toekomstige materialen kan auteursrecht rusten. Het zonder toestemming opnemen van dergelijke materialen zou in strijd zijn met de toepasselijke auteursrechtwetten."
+                    },
+                    {
+                        "id": 3,
+                        "description": "NISL aanvaardt geen verantwoordelijkheid en is niet aansprakelijk voor schade aan, of virussen die uw computer, apparatuur of andere eigendommen kunnen infecteren, als gevolg van uw toegang tot, gebruik van of het verkennen van de site of uw download van materialen, gegevens, teksten, afbeeldingen, video's of audio van de site."
+                    },
+                    {
+                        "id": 4,
+                        "description": "Materialen die op de site worden weergegeven, zijn eigendom van of worden met toestemming gebruikt door NISL. Het gebruik van deze materialen door u of iemand anders die door u is geautoriseerd, is verboden, tenzij uitdrukkelijk toegestaan door deze voorwaarden of schriftelijke toestemming van NISL. Elk ongeautoriseerd gebruik van de afbeeldingen kan in strijd zijn met auteursrechtwetten, merkenrechtwetten, privacy- en publiciteitswetten."
+                    },
+                    {
+                        "id": 5,
+                        "description": "NISL is niet verantwoordelijk voor de inhoud van andere websites die zijn gelinkt aan of vanaf de site. Het koppelen aan een andere site is volledig op eigen risico. Hoewel NISL links naar andere sites op de site kan verstrekken, zijn dergelijke links alleen voor uw gemak en mogen ze niet worden geïnterpreteerd als een goedkeuring van de eigenaar/sponsor van de site of de inhoud van de andere sites. Onder voorbehoud van de niet-uitsluitbare rechten (zoals hierboven), wijst NISL alle uitdrukkelijke en impliciete garanties af met betrekking tot de nauwkeurigheid, geldigheid, wettigheid of anderszins van materialen of informatie die op dergelijke sites staan."
+                    },
+                    {
+                        "id": 6,
+                        "description": "Het is u verboden onwettig, bedreigend, intimiderend, lasterlijk, smadelijk, obsceen, pornografisch of godslasterlijk materiaal te plaatsen of te verzenden, of enig materiaal dat zou kunnen aanzetten tot gedrag dat als een strafbaar feit zou worden beschouwd, aanleiding zou geven tot civiele aansprakelijkheid of anderszins de wet zou schenden."
+                    },
+                    {
+                        "id": 7,
+                        "description": "NISL kan deze voorwaarden op elk moment herzien door deze post bij te werken. Aangezien u gebonden bent aan deze voorwaarden, bezoekt u deze pagina regelmatig om te leren over eventuele herziene voorwaarden."
+                    }
+                ]
+            }
+        ]
+    },
+    "privacy": {
+        "title": "Privacybeleid",
+        "subtitle": "Bedankt dat u ervoor heeft gekozen om deel uit te maken van onze gemeenschap bij Shreesoftic (“Bedrijf”, “wij”, “ons”, “onze”). Wij zetten ons in voor de bescherming van uw persoonlijke informatie en uw recht op privacy.",
+        "privacy_details": "Als u vragen of opmerkingen heeft over deze privacyverklaring of onze praktijken met betrekking tot uw persoonlijke informatie, neem dan contact met ons op via: ",
+        "email": "contact@shreesoftic.com",
+        "link": "Wanneer u onze website bezoekt ",
+        "shresoftic": "www.shreesoftic.com",
+        "shresoftic_after": " (de “Website”), en meer in het algemeen, wanneer u een van onze diensten (de “Diensten”, inclusief de Website) gebruikt, waarderen wij dat u ons vertrouwt met uw persoonlijke informatie.",
+        "p1": "Wij nemen uw privacy zeer serieus. In deze privacyverklaring proberen wij u zo duidelijk mogelijk uit te leggen welke informatie wij verzamelen, hoe wij deze gebruiken en welke rechten u heeft met betrekking tot deze informatie.",
+        "p2": "Wij hopen dat u de tijd neemt om deze zorgvuldig door te lezen, aangezien dit belangrijk is. Als er voorwaarden in deze privacyverklaring zijn waarmee u het niet eens bent, stop dan onmiddellijk met het gebruik van onze diensten.",
+        "p3": "Deze privacyverklaring is van toepassing op alle informatie die wordt verzameld via onze Diensten (die, zoals hierboven beschreven, ook onze Website omvatten), evenals op eventuele gerelateerde diensten, verkoop, marketing of evenementen. Lees deze privacyverklaring zorgvuldig door om te begrijpen wat wij met de informatie die wij verzamelen doen.",
+        "title1": "1. Welke informatie verzamelen we?",
+        "description1": "De persoonlijke informatie die u aan ons verstrekt. Kort gezegd: We verzamelen persoonlijke informatie die u aan ons verstrekt. We verzamelen persoonlijke informatie die u vrijwillig aan ons verstrekt wanneer u interesse toont in het verkrijgen van informatie over ons of onze producten en diensten, wanneer u deelneemt aan activiteiten op de website of wanneer u anderszins contact met ons opneemt.",
+        "description2": "De persoonlijke informatie die we verzamelen, hangt af van de context van uw interacties met ons en de website, de keuzes die u maakt en de producten en functies die u gebruikt. De persoonlijke informatie die we verzamelen, kan het volgende omvatten:",
+        "header": "Persoonlijke informatie die u verstrekt.",
+        "description3": "We verzamelen namen; telefoonnummers; e-mailadressen; postadressen; en andere vergelijkbare informatie.",
+        "description4": "Alle persoonlijke informatie die u aan ons verstrekt, moet waar, volledig en nauwkeurig zijn, en u moet ons op de hoogte stellen van eventuele wijzigingen in deze persoonlijke informatie.",
+        "title2": "Automatisch verzamelde informatie",
+        "description21": "Sommige informatie - zoals uw Internet Protocol (IP) adres en/of browser- en apparaateigenschappen - wordt automatisch verzameld wanneer u onze website bezoekt. We verzamelen automatisch bepaalde informatie wanneer u de website bezoekt, gebruikt of navigeert. Deze informatie onthult niet uw specifieke identiteit (zoals uw naam of contactgegevens), maar kan apparaatinformatie en gebruiksinformatie bevatten, zoals uw IP-adres, browser- en apparaateigenschappen, besturingssysteem, taalvoorkeuren, verwijzende URL's, apparaatsnaam, land, locatie, informatie over hoe en wanneer u onze website gebruikt en andere technische informatie. Deze informatie is voornamelijk nodig om de veiligheid en werking van onze website te waarborgen, en voor onze interne analyses en rapportagedoeleinden.",
+        "description22": "Net als veel bedrijven verzamelen we ook informatie via cookies en vergelijkbare technologieën.",
+        "header2": "De informatie die we verzamelen omvat:",
+        "subheader2": "Log- en gebruiksgegevens",
+        "description23": "Log- en gebruiksgegevens zijn servicegerelateerde, diagnostische, gebruiks- en prestatiegegevens die onze servers automatisch verzamelen wanneer u toegang krijgt tot of gebruik maakt van onze website en die we opslaan in logbestanden. Afhankelijk van hoe u met ons communiceert, kunnen deze loggegevens uw IP-adres, apparaatinformatie, browsertype en instellingen, en informatie over uw activiteit op de website bevatten (zoals datum/tijdstempels gekoppeld aan uw gebruik, bekeken pagina's en bestanden, zoekopdrachten en andere acties die u onderneemt, zoals de functies die u gebruikt), apparaatgebeurtenisinformatie (zoals systeemactiviteit, foutmeldingen (soms 'crash dumps' genoemd) en hardware-instellingen).",
+        "title22": "Apparaatgegevens",
+        "description24": "We verzamelen apparaatgegevens, zoals informatie over uw computer, telefoon, tablet of andere apparaten die u gebruikt om toegang te krijgen tot de website. Afhankelijk van het gebruikte apparaat kunnen deze apparaatgegevens informatie bevatten zoals uw IP-adres (of proxyserver), apparaat- en applicatie-identificatienummers, locatie, browsertype, hardwaremodel, internetprovider en/of mobiele aanbieder, besturingssysteem en systeemconfiguratie-informatie.",
+        "title23": "Locatiegegevens",
+        "description25": "We verzamelen locatiegegevens, zoals informatie over de locatie van uw apparaat, die nauwkeurig of onnauwkeurig kan zijn. Hoeveel informatie we verzamelen, hangt af van het type en de instellingen van het apparaat dat u gebruikt om toegang te krijgen tot de website. Bijvoorbeeld, we kunnen GPS en andere technologieën gebruiken om geolocatiegegevens te verzamelen die ons uw huidige locatie vertellen (gebaseerd op uw IP-adres). U kunt ervoor kiezen om ons geen toegang te geven tot deze informatie door de toegang te weigeren of door de locatie-instelling op uw apparaat uit te schakelen.",
+        "note": "Opmerking: als u ervoor kiest om uit te schrijven, kunt u mogelijk bepaalde aspecten van de diensten niet gebruiken.",
+        "steps": [
+            {
+                "title": "2. Hoe gebruiken we uw informatie?",
+                "paragraphs": [
+                    "We verwerken uw informatie voor doeleinden die zijn gebaseerd op legitieme zakelijke belangen, de uitvoering van ons contract met u, de naleving van onze wettelijke verplichtingen en/of uw toestemming. We gebruiken persoonlijke informatie die via onze website is verzameld voor verschillende zakelijke doeleinden die hieronder zijn beschreven. We verwerken uw persoonlijke informatie voor deze doeleinden op basis van onze legitieme zakelijke belangen om een contract met u aan te gaan of uit te voeren, met uw toestemming en/of voor de naleving van onze wettelijke verplichtingen. We geven de specifieke verwerkingsgronden waarop we ons baseren naast elk hieronder vermeld doel aan.",
+                    "Om administratieve informatie naar u te verzenden. We kunnen uw persoonlijke informatie gebruiken om u product-, service- en nieuwe functie-informatie te sturen, en/of informatie over wijzigingen in onze voorwaarden, condities en beleid.",
+                    "Om onze diensten te beschermen. We kunnen uw informatie gebruiken als onderdeel van onze inspanningen om onze website veilig en beveiligd te houden (bijvoorbeeld voor fraudemonitoring en -preventie).",
+                    "Om onze voorwaarden, condities en beleid voor zakelijke doeleinden af te dwingen, te voldoen aan wettelijke en regelgevende vereisten, of om in contact te komen met ons contract.",
+                    "Om te reageren op juridische verzoeken en schade te voorkomen. Als we een dagvaarding of ander juridisch verzoek ontvangen, moeten we mogelijk de gegevens die we hebben inspecteren om te bepalen hoe te reageren.",
+                    "Om u marketing- en promotionele communicatie te sturen. Wij en/of onze derde marketingpartners kunnen de persoonlijke informatie die u naar ons verzendt voor onze marketingdoeleinden gebruiken als dit in overeenstemming is met uw marketingvoorkeuren. Bijvoorbeeld, wanneer u interesse toont in het verkrijgen van informatie over ons of onze website, u zich abonneert op marketing, of anderszins contact met ons opneemt, zullen we persoonlijke informatie van u verzamelen.",
+                    "U kunt zich op elk moment afmelden voor onze marketing-e-mails (zie de sectie 'WAT ZIJN UW PRIVACYRECHTEN?' hieronder).",
+                    "Geleverde gerichte advertenties aan u. We kunnen uw informatie gebruiken om gepersonaliseerde inhoud en advertenties te ontwikkelen en weer te geven (en samen te werken met derden die dat doen) die zijn afgestemd op uw interesses en/of locatie en om de effectiviteit ervan te meten."
+                ]
+            },
+            {
+                "title": "3. Wordt uw informatie met iemand gedeeld?",
+                "paragraphs": [
+                    "We delen informatie alleen met uw toestemming, om te voldoen aan de wetgeving, om u van diensten te voorzien, om uw rechten te beschermen, of om zakelijke verplichtingen na te komen.",
+                    "We kunnen uw gegevens verwerken of delen die we hebben op basis van de volgende juridische gronden:",
+                    "Toestemming: We kunnen uw gegevens verwerken als u ons specifieke toestemming hebt gegeven om uw persoonlijke informatie voor een specifiek doel te gebruiken.",
+                    "Legitieme belangen: We kunnen uw gegevens verwerken wanneer dit redelijk noodzakelijk is om onze legitieme zakelijke belangen te realiseren.",
+                    "Uitvoering van een contract: Wanneer we een contract met u zijn aangegaan, kunnen we uw persoonlijke informatie verwerken om de voorwaarden van ons contract na te komen.",
+                    "Wettelijke verplichtingen: We kunnen uw informatie openbaar maken wanneer we wettelijk verplicht zijn dit te doen om te voldoen aan toepasselijke wetgeving, overheidsverzoeken, een gerechtelijke procedure, gerechtelijk bevel of juridische processen, zoals in antwoord op een gerechtelijk bevel of een dagvaarding (inclusief in reactie op openbare autoriteiten om te voldoen aan nationale veiligheids- of wetshandhavingsvereisten).",
+                    "Levensbelangen: We kunnen uw informatie openbaar maken wanneer we geloven dat dit nodig is om mogelijke schendingen van ons beleid te onderzoeken, te voorkomen of actie te ondernemen met betrekking tot vermoedelijke fraude, situaties die een potentiële bedreiging voor de veiligheid van een persoon inhouden en illegale activiteiten, of als bewijs in juridische procedures waarin we betrokken zijn.",
+                    "Specifieker gezegd, kunnen we uw gegevens moeten verwerken of uw persoonlijke informatie delen in de volgende situaties:",
+                    "Bedrijfsoverdrachten. We kunnen uw informatie delen of overdragen in verband met, of tijdens onderhandelingen over, enige fusie, verkoop van bedrijfsactiva, financiering, of overname van geheel of een deel van ons bedrijf door een ander bedrijf."
+                ]
+            }
+        ],
+        "steps1": [
+            {
+                "title": "4. Gebruiken we cookies en andere trackingtechnologieën?",
+                "paragraphs": [
+                    "We kunnen cookies en andere trackingtechnologieën gebruiken om uw informatie te verzamelen en op te slaan.",
+                    "We kunnen cookies en vergelijkbare trackingtechnologieën (zoals webbeacons en pixels) gebruiken om toegang te krijgen tot of informatie op te slaan. Specifieke informatie over hoe we dergelijke technologieën gebruiken en hoe u bepaalde cookies kunt weigeren, is opgenomen in onze Cookieverklaring."
+                ]
+            },
+            {
+                "title": "5. Hoelang bewaren we uw informatie?",
+                "paragraphs": [
+                    "We bewaren uw informatie zolang als nodig is om de doeleinden in deze privacyverklaring te vervullen, tenzij anders vereist door de wet.",
+                    "We zullen uw persoonlijke informatie alleen bewaren zolang als nodig is voor de doeleinden die in deze privacyverklaring zijn uiteengezet, tenzij een langere bewaartermijn vereist of toegestaan is door de wet (zoals belasting-, boekhoud- of andere wettelijke vereisten). Geen enkel doel in deze verklaring vereist dat we uw persoonlijke informatie langer dan 2 jaar bewaren."
+                ]
+            },
+            {
+                "title": "6. Hoe houden we uw informatie veilig?",
+                "paragraphs": [
+                    "We streven ernaar uw persoonlijke informatie te beschermen door middel van een systeem van organisatorische en technische beveiligingsmaatregelen.",
+                    "We hebben passende technische en organisatorische beveiligingsmaatregelen geïmplementeerd die zijn ontworpen om de veiligheid van alle persoonlijke informatie die we verwerken te beschermen. Ondanks onze beveiligingsmaatregelen en inspanningen om uw informatie te beveiligen, kan geen enkele elektronische transmissie via het internet of informatieopslagtechnologie gegarandeerd 100% veilig zijn. We kunnen dus niet beloven of garanderen dat hackers, cybercriminelen of andere onbevoegde derden niet in staat zijn om onze beveiliging te doorbreken en uw informatie ongeoorloofd te verzamelen, toegang te krijgen, te stelen of te wijzigen.",
+                    "Hoewel we ons best zullen doen om uw persoonlijke informatie te beschermen, is de overdracht van persoonlijke informatie naar en van onze website op eigen risico. U dient de website alleen binnen een veilige omgeving te openen."
+                ]
+            },
+            {
+                "title": "7. Verzamelen we informatie van minderjarigen?",
+                "paragraphs": [
+                    "We vragen niet bewust om gegevens van of richten ons niet op kinderen onder de 18 jaar. Door de website te gebruiken, verklaart u dat u ten minste 18 jaar oud bent of dat u de ouder of voogd bent van een minderjarige en toestemming geeft voor het gebruik van de website door die minderjarige. Als we vernemen dat persoonlijke informatie van gebruikers jonger dan 18 jaar is verzameld, zullen we het account deactiveren en redelijke maatregelen nemen om dergelijke gegevens snel uit onze administratie te verwijderen. Als u op de hoogte bent van gegevens die we mogelijk van kinderen onder de 18 jaar hebben verzameld, neem dan contact met ons op via info[.at.]shreesoftic[.dot.]email."
+                ]
+            },
+            {
+                "title": "8. Wat zijn uw privacyrechten?",
+                "paragraphs": [
+                    "In sommige regio's, zoals de Europese Economische Ruimte (EER) en het Verenigd Koninkrijk (VK), heeft u rechten die u meer toegang en controle over uw persoonlijke informatie geven. U kunt uw account op elk moment bekijken, wijzigen of beëindigen.",
+                    "In sommige regio's (zoals de EER en VK) heeft u bepaalde rechten onder toepasselijke gegevensbeschermingswetten. Deze kunnen het recht omvatten (i) om toegang te vragen en een kopie van uw persoonlijke informatie te verkrijgen, (ii) om rectificatie of verwijdering te verzoeken; (iii) om de verwerking van uw persoonlijke informatie te beperken; en (iv) indien van toepassing, tot gegevensoverdraagbaarheid. In bepaalde omstandigheden heeft u ook het recht om bezwaar te maken tegen de verwerking van uw persoonlijke informatie. Om een dergelijk verzoek te doen, kunt u de contactgegevens hieronder gebruiken. We zullen elk verzoek in overweging nemen en erop handelen in overeenstemming met de toepasselijke gegevensbeschermingswetten.",
+                    "Als we vertrouwen op uw toestemming om uw persoonlijke informatie te verwerken, heeft u het recht om uw toestemming op elk moment in te trekken. Houd er echter rekening mee dat dit de rechtmatigheid van de verwerking vóór de intrekking niet zal beïnvloeden, noch zal het de verwerking van uw persoonlijke informatie beïnvloeden die is uitgevoerd op basis van rechtmatige verwerkingsgronden anders dan toestemming.",
+                    "Als u een inwoner bent van de EER of het VK en u denkt dat we uw persoonlijke informatie onrechtmatig verwerken, heeft u ook het recht om een klacht in te dienen bij uw lokale gegevensbeschermingsautoriteit. U kunt hun contactgegevens hier vinden: Nationale Gegevensbeschermingsautoriteiten."
+                ]
+            },
+            {
+                "title": "9. Regelingen voor do-not-track functies",
+                "paragraphs": [
+                    "De meeste webbrowsers en sommige mobiele besturingssystemen en mobiele applicaties bevatten een Do-Not-Track (“DNT”) functie of instelling die u kunt activeren om uw privacyvoorkeur aan te geven om geen gegevens over uw online browseactiviteiten te laten volgen en verzamelen. Op dit moment is er nog geen uniforme technologiestandaard voor het herkennen en implementeren van DNT-signalen vastgesteld.",
+                    "Aangezien we op dit moment niet reageren op DNT-browser signalen of enige andere mechanismen die automatisch uw keuze communiceren om niet online gevolgd te worden, zullen we u informeren over die praktijk in een herziene versie van deze privacyverklaring als een standaard voor online tracking wordt aangenomen die we moeten volgen."
+                ]
+            },
+            {
+                "title": "10. Maken we updates aan deze verklaring?",
+                "paragraphs": [
+                    "Ja, we zullen deze verklaring bijwerken indien nodig om te voldoen aan de relevante wetten.",
+                    "We kunnen deze privacyverklaring van tijd tot tijd bijwerken. De bijgewerkte versie wordt aangeduid met een bijgewerkte 'Herzien' datum en de bijgewerkte versie is van kracht zodra deze toegankelijk is. Als we materiële wijzigingen aan deze privacyverklaring aanbrengen, kunnen we u hiervan op de hoogte stellen door een melding van dergelijke wijzigingen prominent te plaatsen of door u rechtstreeks een melding te sturen. We moedigen u aan om deze privacyverklaring regelmatig te bekijken om op de hoogte te blijven van hoe we uw informatie beschermen."
+                ]
+            },
+            {
+                "title": "11. Hoe kunt u contact met ons opnemen over deze verklaring?",
+                "paragraphs": [
+                    "Als u vragen of opmerkingen heeft over deze verklaring, kunt u ons een e-mail sturen op contact@shreesoftic.com.",
+                    "Shreesoftic",
+                    "4e verdieping, 20, Shree Nilkanth Business hub",
+                    "Causeway Rd, tegenover D-Mart,",
+                    "Katargam, Surat, Gujarat 395004."
+                ]
+            },
+            {
+                "title": "3. Zal uw informatie met iemand worden gedeeld?",
+                "paragraphs": [
+                    "We delen informatie alleen met uw toestemming, om te voldoen aan de wetgeving, om u diensten te verlenen, om uw rechten te beschermen, of om zakelijke verplichtingen na te komen.",
+                    "We kunnen uw gegevens verwerken of delen die we hebben op basis van de volgende wettelijke grondslagen:",
+                    "Toestemming: We kunnen uw gegevens verwerken als u ons specifieke toestemming heeft gegeven om uw persoonlijke informatie voor een specifiek doel te gebruiken.",
+                    "Legitieme belangen: We kunnen uw gegevens verwerken wanneer dit redelijkerwijs noodzakelijk is om onze legitieme zakelijke belangen te bereiken.",
+                    "Nakoming van een contract: Wanneer we een contract met u zijn aangegaan, kunnen we uw persoonlijke informatie verwerken om te voldoen aan de voorwaarden van ons contract.",
+                    "Wettelijke verplichtingen: We kunnen uw informatie openbaar maken waar we wettelijk verplicht zijn dit te doen om te voldoen aan toepasselijke wetgeving, overheidsverzoeken, een gerechtelijke procedure, gerechtelijk bevel of juridische processen, zoals in reactie op een gerechtelijk bevel of een dagvaarding (inclusief in reactie op publieke autoriteiten om aan nationale veiligheids- of wetshandhavingseisen te voldoen).",
+                    "Vitale belangen: We kunnen uw informatie openbaar maken waar we geloven dat dit nodig is om mogelijke schendingen van onze beleidslijnen te onderzoeken, te voorkomen of actie te ondernemen, verdachte fraude, situaties waarbij potentiële bedreigingen voor de veiligheid van personen of illegale activiteiten betrokken zijn, of als bewijs in rechtszaken waarin we betrokken zijn.",
+                    "Meer specifiek kunnen we uw gegevens moeten verwerken of uw persoonlijke informatie delen in de volgende situaties:",
+                    "Bedrijfsoverdrachten. We kunnen uw informatie delen of overdragen in verband met of tijdens onderhandelingen over enige fusie, verkoop van bedrijfsactiva, financiering of verwerving van geheel of een deel van ons bedrijf door een ander bedrijf."
+                ]
+            }
+        ]
+    }
+}

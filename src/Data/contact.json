@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "IoLocationSharp",
+        "heading": "Visit Our Location",
+        "content": "4th floor, 20, Shree Nilkanth Business Hub, Causeway Rd, opp. D-Mart, Katargam, Surat, Gujarat 395004."
+    },
+    {
+        "icon": "BiMailSend",
+        "heading": "Send Us Email",
+        "content": "contact@shreesoftic.com"
+    },
+    {
+        "icon": "TbPhoneCall",
+        "heading": " Call Us for Projects",
+        "content": "+91 97242 83087"
+    }
+]

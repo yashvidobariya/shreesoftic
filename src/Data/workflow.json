@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "number": "01",
+        "icon": "Images/w1.png",
+        "title": "Conceptualization",
+        "description": "Collaborate with our team to develop innovative ideas tailored to your business goals."
+    },
+    {
+        "id": 2,
+        "number": "02",
+        "icon": "Images/w2.png",
+        "title": "Crafting & Coding",
+        "description": "Our experts design and develop user-friendly solutions that prioritize experience and functionality."
+    },
+    {
+        "id": 3,
+        "number": "03",
+        "icon": "Images/w3.png",
+        "title": "Quality Assurance",
+        "description": "We rigorously test to ensure your solution is reliable, secure, and performs seamlessly."
+    },
+    {
+        "id": 4,
+        "number": "04",
+        "icon": "Images/w4.png",
+        "title": "Go Live & Beyond",
+        "description": "We launch your project successfully and provide ongoing support for optimal performance."
+    }
+]

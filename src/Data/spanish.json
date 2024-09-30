@@ -1,0 +1,676 @@
+{
+    "shreesoftic": "shreesoftic",
+    "header": {
+        "home": "Inicio",
+        "about_us": "Acerca de nosotros",
+        "services": "Servicios",
+        "career": "Carrera",
+        "contact_us": "Contáctenos"
+    },
+    "home": {
+        "title": "Bienvenido a Shreesoftic",
+        "description": "Bienvenido a Shreesoftic, una empresa líder en el campo de la tecnología de la información, especializada en el desarrollo de aplicaciones móviles y sitios web. Nuestro equipo de desarrolladores experimentados está apasionado por crear soluciones innovadoras e intuitivas que ayudan a las empresas a tener éxito. Nos enorgullecemos de ofrecer productos y servicios de alta calidad a nuestros clientes. Ya sea que necesite una aplicación móvil personalizada o un sitio web completo, tenemos la experiencia y los recursos para hacerlo realidad. Contáctenos hoy para aprender más sobre cómo podemos ayudar a llevar su negocio al siguiente nivel.",
+        "cta_button": "Contáctenos hoy",
+        "data": {
+            "for business": "para negocios",
+            "to sell online": "para vender en línea",
+            "for your ideas": "para tus ideas"
+        }
+    },
+    "workflow": {
+        "header": "Servicios de primera clase",
+        "subheader": "Nuestro Proceso",
+        "steps": [
+            {
+                "id": 1,
+                "number": "01",
+                "icon": "Images/w1.png",
+                "title": "Conceptualización",
+                "description": "Colabore con nuestro equipo para desarrollar ideas innovadoras adaptadas a sus objetivos comerciales."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "icon": "Images/w2.png",
+                "title": "Creación y Codificación",
+                "description": "Nuestros expertos diseñan y desarrollan soluciones fáciles de usar que priorizan la experiencia y la funcionalidad."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "icon": "Images/w3.png",
+                "title": "Aseguramiento de Calidad",
+                "description": "Realizamos pruebas rigurosas para garantizar que su solución sea confiable, segura y funcione sin problemas."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "icon": "Images/w4.png",
+                "title": "Lanzamiento y Más Allá",
+                "description": "Lanzamos su proyecto con éxito y proporcionamos soporte continuo para un rendimiento óptimo."
+            }
+        ]
+    },
+    "service": {
+        "header": "Nuestra Experiencia",
+        "subheader": "En Shreesótico, ofrecemos una suite integral de soluciones digitales diseñadas para elevar su negocio. Desde el desarrollo web de vanguardia hasta aplicaciones móviles intuitivas, nuestro equipo de expertos garantiza la excelencia en cada etapa.",
+        "steps": [
+            {
+                "id": 1,
+                "icon": "RiComputerLine",
+                "title": "Desarrollo Web",
+                "description": "Construir sitios web dinámicos y escalables que cautivan y conviertan. Nuestros servicios de desarrollo web ofrecen experiencias impactantes en línea."
+            },
+            {
+                "id": 2,
+                "icon": "RiAppleFill",
+                "title": "Aplicaciones para iPhone y iPad",
+                "description": "Desarrolle aplicaciones destacadas para iOS con Shreesótico. Nuestra experiencia en diseño y programación garantiza funcionalidad perfecta y visuales impresionantes en iPhone y iPad."
+            },
+            {
+                "id": 3,
+                "icon": "TiVendorAndroid",
+                "title": "Aplicaciones para Android",
+                "description": "Construya sitios web dinámicos y escalables que cautiven y conviertan. Nuestros servicios de desarrollo web ofrecen experiencias impactantes en línea."
+            },
+            {
+                "id": 4,
+                "icon": "SiAltiumdesigner",
+                "title": "Diseño UI/UX",
+                "description": "Transforme sus interfaces digitales con nuestra experiencia en diseño UI/UX. Nos enfocamos en la investigación de usuarios, pruebas y desarrollo front-end para crear experiencias intuitivas y atractivas."
+            }
+        ]
+    },
+    "team": {
+        "header": "¿Por qué Elegir Shreesoftic?",
+        "subheader": "¡Impulsando Su Éxito con Soluciones de TI de Primer Nivel!",
+        "description": "Contamos con un historial comprobado de entregar proyectos de alta calidad a tiempo y dentro del presupuesto. Nuestro equipo se destaca en una variedad de lenguajes de programación y marcos, incluidos Java, Kotlin, Swift, React/React Native, Flutter y Angular. Con amplia experiencia en diseño de bases de datos, computación en la nube y metodologías de desarrollo ágil, estamos equipados para manejar cualquier proyecto, desde sitios web simples hasta aplicaciones móviles complejas. Asóciese con nosotros para hacer realidad su visión. Contáctenos hoy para obtener más información sobre cómo nuestros servicios pueden ayudar a su empresa a prosperar en el mundo digital.",
+        "steps": [
+            {
+                "id": 1,
+                "number": "20",
+                "plus": "+",
+                "title": "Clientes Satisfechos",
+                "description": "Nuestra empresa ha recibido constantemente comentarios positivos de más de 20 clientes satisfechos que se han beneficiado de nuestros servicios y resultados de alta calidad."
+            },
+            {
+                "id": 2,
+                "number": "50",
+                "plus": "+",
+                "title": "Proyectos",
+                "description": "Con más de 50 proyectos completados, nuestro equipo tiene una gran experiencia y conocimientos en ofrecer soluciones de primera categoría para nuestros clientes."
+            },
+            {
+                "id": 3,
+                "number": "10",
+                "plus": "+",
+                "title": "Miembros Expertos del Equipo",
+                "description": "Nuestra empresa se enorgullece de contar con un equipo de más de 10 profesionales capacitados que están dedicados a brindar el mejor soporte y resultados posibles para nuestros clientes."
+            }
+        ]
+    },
+    "portfolio": {
+        "header": "Nuestro Portafolio",
+        "subheader": "Una variedad de logros",
+        "button": "Saber más",
+        "steps": [
+            {
+                "id": 1,
+                "image": "/Images/p1.svg",
+                "title": "Resultados Wellness Lifestyle",
+                "description": "Sitio web de E-Commerce y Fitness",
+                "info": "RWL (Resultados Wellness Lifestyle) es una plataforma de fitness y bienestar que ofrece entrenamientos a domicilio bajo demanda, planes de comidas personalizados y orientación experta. Ofrece varios programas de entrenamiento, incluyendo fuerza, cardio, yoga y danza, junto con planes de nutrición personalizables y apoyo comunitario para ayudar a los usuarios a alcanzar sus objetivos de salud y fitness.",
+                "technology": "Reactjs, Nodejs",
+                "type": ""
+            },
+            {
+                "id": 2,
+                "image": "/Images/p5.svg",
+                "title": "China fabulosa",
+                "description": "Aplicación Móvil de Búsqueda de Empleo",
+                "info": "China fabulosa es una aplicación móvil para buscadores de empleo y empleadores, diseñada específicamente para el campo de las Artes y el Entretenimiento. Donde las personas pueden encontrar artistas, pintores, cantantes, etc., y algunas personas pueden publicar sus requisitos mientras que otros pueden contactarlos a través de esta aplicación.",
+                "technology": "React native, Nodejs",
+                "type": "Aplicación Móvil de Búsqueda de Empleo"
+            },
+            {
+                "id": 3,
+                "image": "/Images/p3.svg",
+                "title": "Todos los cinco",
+                "description": "Aplicación Móvil Nativa",
+                "info": "Todos los cinco es una plataforma donde los usuarios pueden descubrir y reservar experiencias únicas y los socios anfitriones pueden crear y ofrecer experiencias curadas.",
+                "technology": "iOS- Swift, Android - JAVA",
+                "type": "Plataforma de Reserva de Entradas"
+            },
+            {
+                "id": 4,
+                "image": "/Images/p4.svg",
+                "title": "buenapix",
+                "description": "Sitio web de Crecimiento Empresarial",
+                "info": "buenapix es una plataforma de estilo y compras diseñada para que estilistas personales creen tableros de estilo comprables, digitalicen armarios y gestionen sitios de clientes. Ofrece características como lookbooks personalizables, sitios privados para clientes y la capacidad de ganar comisiones de productos recomendados. GoodPix busca agilizar el proceso de estilismo y mejorar el compromiso del cliente a través de herramientas y recursos organizados y profesionales.",
+                "technology": "Angular, Node",
+                "type": "Comercio electrónico"
+            },
+            {
+                "id": 5,
+                "image": "/Images/portfolio-four.png",
+                "title": "Keatov",
+                "description": "Aplicación de Entrega de Comida",
+                "info": "Alimentos kosher y comestibles, pizza, pollo, shawarma, sushi y más entregados directamente a tu puerta. ¡KEATOV te trae comida kosher directamente de tus restaurantes kosher favoritos!",
+                "technology": "Flutter, Nodejs",
+                "type": ""
+            },
+            {
+                "id": 6,
+                "image": "/Images/portfolio-five.png",
+                "title": "Optimización SEO",
+                "description": "Optimización de Búsqueda en Google y Clasificación Meta",
+                "type": ""
+            }
+        ]
+    },
+    "contactus": {
+        "header": "Conecta con Nosotros",
+        "subheader": "Nos encantaría saber sobre tu proyecto. Ponte en contacto con nosotros hoy para discutir cómo podemos ayudarte a llevar tus ideas a la vida.",
+        "button": "Contáctanos"
+    },
+    "footer": {
+        "logo": {
+            "src": "/Images/footericon.png",
+            "alt": "footer-shreesoftic",
+            "width": 190
+        },
+        "aboutUs": {
+            "header": "Acerca de nosotros",
+            "description": "En Shreesoftic, ayudamos a las pequeñas y medianas empresas proporcionándoles soluciones de TI innovadoras que impulsan el crecimiento y garantizan la sostenibilidad. Estamos comprometidos con su éxito y dedicados a brindar excelencia."
+        },
+        "link": {
+            "home": "Inicio",
+            "about": "Sobre Nosotros",
+            "service": "Servicios",
+            "career": "Carrera",
+            "contact": "Contáctenos"
+        },
+        "socialMedia": {
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/"
+        },
+        "quickLinks": {
+            "home": "/",
+            "aboutUs": "/aboutus",
+            "services": "/services",
+            "career": "/career",
+            "contactUs": "/contactus"
+        },
+        "contactUs": {
+            "email": "contact@shreesoftic.com",
+            "phoneNumber": "+91 97242 83087",
+            "address": "4th Floor, 20, Shree Nilkanth Business Centre, Causeway Road, Opposite. D-Mart, Katargam, Surat, Gujarat 395004."
+        },
+        "privacyPolicy": {
+            "url": "/privacy",
+            "text": "Política de privacidad"
+        },
+        "termsAndConditions": {
+            "url": "/condition",
+            "text": "Términos y condiciones"
+        }
+    },
+    "aboutus": {
+        "header": "Sobre Nosotros",
+        "subheader": "En Shreesoftic, transformamos ideas en obras maestras digitales. Desde nuestra fundación, hemos proporcionado servicios de desarrollo web y móvil de alta calidad. Nuestro equipo de especialistas utiliza las tecnologías más recientes para crear soluciones innovadoras y confiables, adaptadas a sus necesidades únicas. Únete a nosotros en nuestro camino hacia el éxito digital y el crecimiento impresionante."
+    },
+    "contact": {
+        "header": "Ponte en Contacto con Nosotros",
+        "subheader": "¿Listo para llevar tu negocio al siguiente nivel? Contáctanos hoy mismo para descubrir cómo nuestra experiencia puede ayudarte a alcanzar tus metas. Nuestro equipo está aquí para responder a tus preguntas y brindarte el soporte necesario.",
+        "detail_header": "Detalles de Contacto",
+        "details_subheader": "¡Estamos aquí para ayudarte! Ponte en contacto con nosotros a través de cualquiera de los siguientes métodos, y nuestro equipo te responderá rápidamente. Si tienes preguntas sobre nuestros servicios o necesitas asistencia, siempre estamos listos para ayudarte.",
+        "form_header": "Ponte en Contacto",
+        "form_subheader": "¿Tienes una pregunta o quieres discutir tu proyecto? Envíanos un mensaje y te responderemos lo antes posible.",
+        "form_button": "Enviar Mensaje",
+        "steps": [
+            {
+                "icon": "IoLocationSharp",
+                "heading": "Visítanos",
+                "content": "4º piso, 20, Shree Nilkanth Business Hub, Causeway Rd, frente a D-Mart, Katargam, Surat, Gujarat 395004."
+            },
+            {
+                "icon": "BiMailSend",
+                "heading": "Envíanos un Correo Electrónico",
+                "content": "contact@shreesoftic.com"
+            },
+            {
+                "icon": "TbPhoneCall",
+                "heading": "Llámanos para Proyectos",
+                "content": "+91 97242 83087"
+            }
+        ],
+        "firstname": "Tu nombre",
+        "email": "Dirección de correo electrónico",
+        "number": "Número de teléfono",
+        "message": "Escribe tu mensaje"
+    },
+    "career": {
+        "join_title": "Únete a nuestro equipo",
+        "join_title_parent": " y da forma al futuro",
+        "join_title_description": "En Shreesoftic, somos apasionados por la innovación y la excelencia. Buscamos personas talentosas que se unan a nuestro equipo dinámico y contribuyan a proyectos innovadores. Si te impulsa la creatividad y prosperas en un entorno colaborativo, construyamos el futuro juntos.",
+        "header": "Cuidado de los Empleados",
+        "subheader": "En Shreesoftic, creemos que nuestros empleados son nuestro mayor activo. Estamos comprometidos a crear un entorno de apoyo y enriquecimiento que fomente el crecimiento, el bienestar y la satisfacción. Descubre los beneficios únicos que ofrecemos a nuestros miembros del equipo.",
+        "work_title": "¿Te gustaría trabajar en",
+        "work_title_parent": "Shreesoftic?",
+        "work_subheader": "Únete a Shreesoftic y lleva tu carrera al siguiente nivel. Buscamos individuos talentosos y enérgicos para formar parte de nuestro equipo innovador. En Shreesoftic, disfrutarás de una variedad de beneficios, incluyendo salarios competitivos, oportunidades de avance profesional y un entorno de trabajo positivo. Ofrecemos horarios flexibles, tecnología de vanguardia y una cultura de equipo de apoyo. Experimenta el crecimiento profesional a través de nuestros programas de capacitación, trabaja en proyectos impactantes y colabora con una base de clientes global. Con un generoso tiempo de vacaciones y un enfoque en el equilibrio entre la vida laboral y personal, Shreesoftic es el lugar ideal para profesionales ambiciosos.",
+        "steps": [
+            {
+                "id": "1",
+                "title": "Prioridad a los Empleados",
+                "description": "Nuestros empleados son lo primero. Priorizamos sus necesidades y bienestar, asegurando un equilibrio saludable entre trabajo y vida y una cultura laboral de apoyo.",
+                "icon": "PiUserSwitchLight"
+            },
+            {
+                "id": "2",
+                "title": "Programas de Capacitación",
+                "description": "Accede a oportunidades continuas de aprendizaje y desarrollo a través de nuestros programas de capacitación integrales diseñados para mejorar tus habilidades y progreso profesional.",
+                "icon": "FcProcess"
+            },
+            {
+                "id": "3",
+                "title": "Ambiente Laboral Positivo",
+                "description": "Disfruta de un ambiente laboral colaborativo y positivo donde tus contribuciones son valoradas y tu crecimiento profesional es fomentado.",
+                "icon": "PiHandshakeLight"
+            },
+            {
+                "id": "4",
+                "title": "Celebraciones Festivas",
+                "description": "Únete a nosotros para celebrar diversos festivales y eventos a lo largo del año, fomentando un sentido de comunidad y espíritu de equipo.",
+                "icon": "MdOutlineCelebration"
+            }
+        ]
+    },
+    "servicepage": {
+        "header": "Nuestros Servicios",
+        "subheader": "En Shreesoftic, ofrecemos una suite integral de servicios digitales diseñados para satisfacer sus necesidades empresariales únicas. Nuestro equipo de expertos aprovecha las últimas tecnologías para entregar soluciones innovadoras y confiables. Explore nuestra gama de servicios y descubre cómo podemos ayudarte a alcanzar tus objetivos digitales.",
+        "servicetitle": "Explora Nuestra Experticia",
+        "seemore": "Ver más",
+        "client_title": "Testimonios de Clientes",
+        "process": "proceso",
+        "our": "nuestro",
+        "tech": "Tecnologías y herramientas",
+        "steps": [
+            {
+                "id": "1",
+                "title": "Desarrollo de Android",
+                "description": "Desarrolla aplicaciones de Android de alto rendimiento adaptadas a las necesidades de tu negocio. Nuestro equipo se destaca en la creación de aplicaciones intuitivas y fáciles de usar para la tienda Google Play.",
+                "icon": "TiVendorAndroid",
+                "image": "/Images/anroid.png",
+                "subtitle": "¿Por qué elegir Shreesoftic para el desarrollo de Android?",
+                "info": "En Shreesoftic, nos especializamos en crear aplicaciones de Android de primera calidad adaptadas a las necesidades de tu negocio. Nuestro experimentado equipo de desarrolladores combina competencia técnica con diseño creativo para ofrecer aplicaciones que no solo son visualmente atractivas, sino también altamente funcionales.",
+                "Technology": {
+                    "Idiomas": "Java, Kotlin",
+                    "Marcos": "Android SDK, Retrofit, Dagger",
+                    "Herramientas": "Android Studio, Firebase, Google Play Console, Gradle"
+                },
+                "Features": {
+                    "Soluciones personalizadas": "Desarrollamos aplicaciones de Android que están adaptadas a tus requisitos comerciales únicos, asegurando que se alineen perfectamente con tus objetivos.",
+                    "Diseño centrado en el usuario": "Nuestra filosofía de diseño se centra en crear interfaces de usuario intuitivas y atractivas que proporcionen una experiencia excepcional.",
+                    "Rendimiento sólido": "Nuestras aplicaciones están optimizadas para el rendimiento, asegurando tiempos de carga rápidos y un funcionamiento fluido en todos los dispositivos Android.",
+                    "Seguridad": "Priorizamos la seguridad para proteger los datos de tus usuarios y garantizar que tu aplicación cumpla con las directrices de Google.",
+                    "Soporte continuo": "Nuestro compromiso no termina con el lanzamiento. Ofrecemos mantenimiento y soporte continuos para mantener tu aplicación funcionando sin problemas y actualizada con las últimas funciones de Android."
+                },
+                "DevelopmentProcess": {
+                    "Descubrimiento y planificación": "Comenzamos por comprender tu visión y requisitos. Esto implica discusiones detalladas para definir la funcionalidad y objetivos de la aplicación.",
+                    "Diseño": "Nuestro equipo de diseño crea wireframes y maquetas, asegurando que la aplicación sea fácil de usar y visualmente atractiva.",
+                    "Desarrollo": "Nuestros hábiles desarrolladores dan vida al diseño, programando la aplicación utilizando las últimas tecnologías y mejores prácticas.",
+                    "Pruebas": "Se realizan pruebas rigurosas para identificar y corregir cualquier problema, asegurando que la aplicación esté libre de errores y funcione a la perfección.",
+                    "Despliegue": "Una vez aprobada, lanzamos la aplicación en Google Play Store y monitoreamos su rendimiento para asegurar un lanzamiento exitoso.",
+                    "Mantenimiento y actualizaciones": "Proporcionamos soporte continuo y actualizaciones para mantener tu aplicación actual y funcionando de manera óptima."
+                }
+            },
+            {
+                "id": "2",
+                "title": "Desarrollo de iPhone",
+                "description": "Crea aplicaciones iOS excepcionales con un diseño impresionante y una funcionalidad perfecta. Nuestra experiencia en desarrollo de iPhone garantiza una experiencia de usuario premium en dispositivos Apple.",
+                "icon": "RiAppleFill",
+                "image": "/Images/iphone.png",
+                "subtitle": "¿Por qué elegir Shreesoftic para el desarrollo de iPhone?",
+                "info": "En Shreesoftic, nos especializamos en crear aplicaciones de iPhone de primera calidad adaptadas a las necesidades de tu negocio. Nuestro experimentado equipo de desarrolladores combina competencia técnica con diseño creativo para ofrecer aplicaciones que no solo son visualmente atractivas, sino también altamente funcionales.",
+                "Technology": {
+                    "Idiomas": "Swift, Objective-C",
+                    "Marcos": "UIKit, SwiftUI, CoreData, Combine",
+                    "Herramientas": "TestFlight, Firebase, Cocoapods, Fastlane"
+                },
+                "Features": {
+                    "Soluciones personalizadas": "Desarrollamos aplicaciones iOS que están adaptadas a tus requisitos comerciales únicos, asegurando que se alineen perfectamente con tus objetivos.",
+                    "Diseño centrado en el usuario": "Nuestra filosofía de diseño se centra en crear interfaces de usuario intuitivas y atractivas que proporcionen una experiencia excepcional.",
+                    "Rendimiento sólido": "Nuestras aplicaciones están optimizadas para el rendimiento, asegurando tiempos de carga rápidos y un funcionamiento fluido en todos los modelos de iPhone.",
+                    "Seguridad": "Priorizamos la seguridad para proteger los datos de tus usuarios y garantizar que tu aplicación cumpla con las estrictas directrices de Apple.",
+                    "Soporte continuo": "Nuestro compromiso no termina con el lanzamiento. Ofrecemos mantenimiento y soporte continuos para mantener tu aplicación funcionando sin problemas y actualizada con las últimas funciones de iOS."
+                },
+                "DevelopmentProcess": {
+                    "Planificación del descubrimiento": "Comenzamos por comprender tu visión y requisitos. Esto implica discusiones detalladas para definir la funcionalidad y objetivos de la aplicación.",
+                    "Diseño": "Nuestro equipo de diseño crea wireframes y maquetas, asegurando que la aplicación sea fácil de usar y visualmente atractiva.",
+                    "Desarrollo": "Nuestros hábiles desarrolladores dan vida al diseño, programando la aplicación utilizando las últimas tecnologías y mejores prácticas.",
+                    "Pruebas": "Se realizan pruebas rigurosas para identificar y corregir cualquier problema, asegurando que la aplicación esté libre de errores y funcione a la perfección.",
+                    "Despliegue": "Una vez aprobada, lanzamos la aplicación en la App Store de Apple y monitoreamos su rendimiento para asegurar un lanzamiento exitoso.",
+                    "Actualizaciones de mantenimiento": "Proporcionamos soporte continuo y actualizaciones para mantener tu aplicación actual y funcionando de manera óptima."
+                }
+            },
+            {
+                "id": "3",
+                "title": "Desarrollo Web",
+                "description": "Construye sitios web dinámicos y escalables que cautiven y conviertan. Nuestros servicios de desarrollo web ofrecen experiencias impactantes en línea adaptadas a tu marca.",
+                "icon": "RiComputerLine",
+                "image": "/Images/web.png",
+                "subtitle": "¿Por qué elegir Shreesoftic para el desarrollo web?",
+                "info": "En Shreesoftic, nos especializamos en crear sitios web de primera calidad adaptados a las necesidades de tu negocio. Nuestro experimentado equipo de desarrolladores combina competencia técnica con diseño creativo para ofrecer sitios web que no solo son visualmente atractivos, sino también altamente funcionales.",
+                "Technology": {
+                    "Idiomas": "HTML, CSS, JavaScript, PHP, Python, Ruby",
+                    "Marcos": "React, Angular, Vue.js, Django, Flask, Ruby on Rails",
+                    "CMS": "WordPress, Joomla, Drupal",
+                    "Comercio electrónico": "WooCommerce, Shopify, Magento",
+                    "Herramientas": "Git, Webpack, npm, Docker, AWS, Azure, Google Cloud"
+                },
+                "Features": {
+                    "Soluciones personalizadas": "Desarrollamos sitios web que están adaptados a tus requisitos comerciales únicos, asegurando que se alineen perfectamente con tus objetivos.",
+                    "Diseño centrado en el usuario": "Nuestra filosofía de diseño se centra en crear interfaces de usuario intuitivas y atractivas que proporcionen una experiencia excepcional.",
+                    "Rendimiento sólido": "Nuestros sitios web están optimizados para el rendimiento, asegurando tiempos de carga rápidos y un funcionamiento fluido en todos los dispositivos.",
+                    "Seguridad": "Priorizamos la seguridad para proteger tus datos y garantizar que tu sitio web cumpla con los últimos estándares.",
+                    "Soporte continuo": "Nuestro compromiso no termina con el lanzamiento. Ofrecemos mantenimiento y soporte continuos para mantener tu sitio web funcionando sin problemas y actualizado con las últimas tendencias."
+                },
+                "DevelopmentProcess": {
+                    "Descubrimiento y planificación": "Comenzamos por comprender tu visión y requisitos. Esto implica discusiones detalladas para definir la funcionalidad y objetivos del sitio web.",
+                    "Diseño": "Nuestro equipo de diseño crea wireframes y maquetas, asegurando que el sitio web sea fácil de usar y visualmente atractivo.",
+                    "Desarrollo": "Nuestros hábiles desarrolladores dan vida al diseño, programando el sitio web utilizando las últimas tecnologías y mejores prácticas.",
+                    "Pruebas": "Se realizan pruebas rigurosas para identificar y corregir cualquier problema, asegurando que el sitio web esté libre de errores y funcione a la perfección.",
+                    "Despliegue": "Una vez aprobada, lanzamos el sitio web y monitoreamos su rendimiento para asegurar un lanzamiento exitoso.",
+                    "Mantenimiento y actualizaciones": "Proporcionamos soporte continuo y actualizaciones para mantener tu sitio web actual y funcionando de manera óptima."
+                }
+            },
+            {
+                "id": "4",
+                "title": "Diseño UI/UX y Gráfico",
+                "description": "Mejora tu presencia digital con nuestros servicios de diseño UI/UX y gráfico. Nos enfocamos en el diseño centrado en el usuario para crear interfaces visualmente atractivas e intuitivas.",
+                "icon": "SiAntdesign",
+                "image": "/Images/ui-ux.png",
+                "subtitle": "¿Por qué elegir Shreesoftic para el diseño UI/UX y gráfico?",
+                "info": "En Shreesoftic, nos especializamos en crear diseños UI/UX de primera calidad adaptados a las necesidades de tu negocio. Nuestro experimentado equipo de diseñadores combina diseño creativo con principios centrados en el usuario para ofrecer interfaces que no solo son visualmente atractivas, sino también altamente funcionales.",
+                "Technology": {
+                    "Herramientas de diseño": "Adobe XD, Sketch, Figma, InVision, Adobe Photoshop, Adobe Illustrator",
+                    "Creación de prototipos": "Marvel, Axure RP",
+                    "Pruebas": "UserTesting, Hotjar, Optimizely"
+                },
+                "Features": {
+                    "Soluciones personalizadas": "Desarrollamos diseños que están adaptados a tus requisitos comerciales únicos, asegurando que se alineen perfectamente con tus objetivos.",
+                    "Diseño centrado en el usuario": "Nuestra filosofía de diseño se centra en crear interfaces de usuario intuitivas y atractivas que proporcionen una experiencia excepcional.",
+                    "Rendimiento sólido": "Nuestros diseños están optimizados para el rendimiento, asegurando tiempos de carga rápidos y un funcionamiento fluido en todos los dispositivos.",
+                    "Seguridad": "Priorizamos la seguridad para proteger tus datos y garantizar que tu diseño cumpla con los últimos estándares.",
+                    "Soporte continuo": "Nuestro compromiso no termina con el lanzamiento. Ofrecemos mantenimiento y soporte continuos para mantener tu diseño actualizado con las últimas tendencias."
+                },
+                "DevelopmentProcess": {
+                    "Descubrimiento y planificación": "Comenzamos por comprender tu visión y requisitos. Esto implica discusiones detalladas para definir la funcionalidad y objetivos del diseño.",
+                    "Diseño": "Nuestro equipo de diseño crea wireframes y maquetas, asegurando que el diseño sea fácil de usar y visualmente atractivo.",
+                    "Desarrollo": "Nuestros hábiles diseñadores dan vida al diseño, programando la interfaz utilizando las últimas tecnologías y mejores prácticas.",
+                    "Pruebas": "Se realizan pruebas rigurosas para identificar y corregir cualquier problema, asegurando que el diseño esté libre de errores y funcione a la perfección.",
+                    "Despliegue": "Una vez aprobada, lanzamos el diseño y monitoreamos su rendimiento para asegurar un lanzamiento exitoso.",
+                    "Mantenimiento y actualizaciones": "Proporcionamos soporte continuo y actualizaciones para mantener tu diseño actual y funcionando de manera óptima."
+                }
+            },
+            {
+                "id": "5",
+                "title": "SEO Marketing Digital",
+                "description": "Aumenta tu visibilidad en línea y atrae tráfico dirigido con nuestros servicios de SEO y marketing digital. Empleamos las últimas estrategias para asegurar que tu marca se destaque.",
+                "icon": "FaFileInvoiceDollar",
+                "image": "/Images/marketing.png",
+                "subtitle": "¿Por qué elegir Shreesoftic para SEO y Marketing Digital?",
+                "info": "En Shreesoftic, nos especializamos en crear estrategias de SEO y marketing digital de primera calidad adaptadas a las necesidades de tu negocio. Nuestro equipo experimentado combina competencia técnica con estrategias creativas para ofrecer campañas que no solo son efectivas, sino también altamente atractivas.",
+                "Technology": {
+                    "Herramientas SEO": "Google Analytics, Google Search Console, SEMrush, Ahrefs, Moz",
+                    "Gestión de contenidos": "WordPress, HubSpot, Joomla",
+                    "Automatización de marketing": "Mailchimp, HubSpot, Marketo",
+                    "Gestión de redes sociales": "Hootsuite, Buffer, Sprout Social",
+                    "Publicidad": "Google Ads, Facebook Ads, LinkedIn Ads, Twitter Ads"
+                },
+                "Features": {
+                    "Soluciones personalizadas": "Desarrollamos estrategias de SEO y marketing digital que se adaptan a los requisitos únicos de tu negocio, asegurando que se alineen perfectamente con tus objetivos.",
+                    "Enfoque basado en datos": "Nuestras estrategias se basan en datos y análisis, asegurando resultados efectivos y medibles.",
+                    "Excelencia en el contenido": "Creamos contenido de alta calidad que involucra a tu audiencia y mejora la presencia en línea de tu marca.",
+                    "Experiencia técnica": "Nuestro equipo está capacitado en las últimas técnicas de SEO y herramientas de marketing digital para garantizar tu éxito.",
+                    "Soporte continuo": "Nuestro compromiso no termina con el lanzamiento de la campaña. Ofrecemos monitoreo y optimización continuos para mantener tu estrategia efectiva y actualizada."
+                },
+                "DevelopmentProcess": {
+                    "Descubrimiento y planificación": "Comenzamos entendiendo tu visión y requisitos. Esto implica discusiones detalladas para definir los objetivos de la campaña y el público objetivo.",
+                    "Investigación y análisis": "Nuestro equipo realiza una investigación y análisis exhaustivos para desarrollar una estrategia efectiva.",
+                    "Desarrollo de estrategia": "Creamos un plan integral de SEO y marketing digital adaptado a las necesidades de tu negocio.",
+                    "Implementación": "Nuestro equipo calificado implementa la estrategia utilizando las últimas herramientas y técnicas.",
+                    "Monitoreo y optimización": "Se lleva a cabo un monitoreo riguroso para rastrear el rendimiento de la campaña, con optimización continua para asegurar el éxito.",
+                    "Informes": "Proporcionamos informes detallados sobre el progreso y los resultados de la campaña, asegurando transparencia y responsabilidad."
+                }
+            }
+        ],
+        "review": [
+            {
+                "no": 1,
+                "img": "images/r1.jpg",
+                "name": "Ron Mears",
+                "line": "Aplicación Móvil",
+                "detail": "Shreesoftic siempre entrega aplicaciones de alta calidad, amigables con el usuario, en tiempo y dentro del presupuesto.",
+                "rating": 5
+            },
+            {
+                "no": 2,
+                "img": "images/r3.jpg",
+                "name": "Fraer Booth",
+                "line": "Desarrollo Web",
+                "detail": "El equipo de Shreesoftic se especializa en crear sitios web visuales y funcionales que se ajustan a las necesidades y objetivos del cliente y se entregan en tiempo.",
+                "rating": 5
+            },
+            {
+                "no": 3,
+                "img": "images/r2.jpg",
+                "name": "Heuy Freeman",
+                "line": "Aplicación Móvil Frete",
+                "detail": "La aplicación móvil de entrega logística Frete desarrollada por Shreesoftic optimizó nuestras operaciones, mejoró la satisfacción del cliente y superó nuestras expectativas.",
+                "rating": 4.5
+            },
+            {
+                "no": 4,
+                "img": "images/r4.jpg",
+                "name": "Gabriel Musiello",
+                "line": "TrakMD - Plataforma Médico/Paciente",
+                "detail": "Buena comunicación y desarrollo eficiente. Ofrece soluciones, no problemas. Muy satisfecho con el trabajo y seguiré trabajando con Shreesoftic",
+                "rating": 4
+            },
+            {
+                "no": 5,
+                "img": "images/r5.jpg",
+                "name": "Farrukh Atabekov",
+                "line": "Desarrollo Web Full Stack",
+                "detail": "El proyecto se ejecutó sin problemas y se entregó en tiempo. Pondría 6 estrellas si el tiempo de respuesta fuera mejor.",
+                "rating": 4.5
+            },
+            {
+                "no": 6,
+                "img": "images/header-bg.jpg",
+                "name": "Valeria Albashiti",
+                "line": "Prototipo de UI/UX del sitio web y aplicación móvil",
+                "detail": "El prototipo de UI/UX del equipo para nuestro sitio web y aplicación móvil fue intuitivo, visualmente atractivo y superó nuestras expectativas.",
+                "rating": 5
+            }
+        ],
+        "service_contact_header": "¿Tiene algún requisito para compartir con nosotros?",
+        "service_contact_button": "Contáctenos"
+    },
+    "condition": {
+        "title": "Términos y Condiciones",
+        "description": "Shreesoftic mantiene este sitio para proporcionar información sobre nuestros productos y servicios. Por favor, siéntete libre de navegar por el sitio.",
+        "steps": [
+            {
+                "title": "Información que Recopilamos",
+                "description": "Tu acceso y uso del sitio también están sujetos a los siguientes términos y condiciones, y futuras revisiones si las hubiere (“Términos y Condiciones”), y a todas las leyes aplicables. Al acceder y navegar por el sitio, aceptas los siguientes Términos y Condiciones.",
+                "terms": [
+                    {
+                        "id": 1,
+                        "description": "El sitio, junto con todo su contenido, materiales, información, software, productos y servicios proporcionados, se ofrece 'tal cual' y 'según disponibilidad'. NISL renuncia expresamente a cualquier garantía de cualquier tipo, ya sea expresa o implícita, incluyendo, pero no limitándose a, la garantía implícita de comerciabilidad, idoneidad para un propósito particular y no infracción."
+                    },
+                    {
+                        "id": 2,
+                        "description": "El contenido y los proyectos descritos o representados en el sitio están sujetos a cambios sin previo aviso. Pueden existir derechos de autor sobre cualquier material futuro. La grabación no autorizada de dichos materiales sería contraria a las leyes de derechos de autor aplicables."
+                    },
+                    {
+                        "id": 3,
+                        "description": "NISL no asume responsabilidad alguna, y no será responsable de ningún daño a, o virus que puedan infectar, tu computadora, equipo u otra propiedad como resultado de tu acceso, uso o navegación por el sitio, o de la descarga de cualquier material, datos, texto, imágenes, videos o audios desde el sitio."
+                    },
+                    {
+                        "id": 4,
+                        "description": "Los materiales mostrados en el sitio son propiedad de NISL o se usan con permiso. El uso de estos materiales por ti o por cualquier otra persona autorizada está prohibido a menos que esté expresamente permitido por estos Términos y Condiciones o se obtenga permiso por escrito de NISL. Cualquier uso no autorizado de las imágenes puede violar las leyes de derechos de autor, marcas registradas y las leyes de privacidad y publicidad."
+                    },
+                    {
+                        "id": 5,
+                        "description": "NISL no es responsable del contenido de cualquier otro sitio enlazado desde o hacia el sitio. El enlace a otros sitios es bajo tu propio riesgo. Aunque NISL puede proporcionar enlaces a otros sitios, la inclusión de estos enlaces es solo por tu conveniencia y no debe interpretarse como un respaldo al propietario/patrocinador del sitio o al contenido de otros sitios. Sujeto a los derechos no excluibles (arriba mencionados), NISL renuncia a todas las garantías, expresas e implícitas, sobre la exactitud, validez, legalidad o cualquier otro aspecto de los materiales o información contenidos en dichos sitios."
+                    },
+                    {
+                        "id": 6,
+                        "description": "Se te prohíbe publicar o transmitir cualquier material ilegal, amenazante, acosador, difamatorio, calumnioso, obsceno, pornográfico o profano, o cualquier material que pueda constituir o fomentar una conducta que sería considerada un delito o daría lugar a responsabilidad civil, o que de otro modo violaría cualquier ley."
+                    },
+                    {
+                        "id": 7,
+                        "description": "NISL puede revisar estos Términos y Condiciones en cualquier momento actualizando esta publicación. Ya que estás sujeto a estos Términos y Condiciones, por favor visita esta página regularmente para conocer las revisiones si las hubiere."
+                    }
+                ]
+            }
+        ]
+    },
+    "privacy": {
+        "title": "Política de Privacidad",
+        "subtitle": "Gracias por elegir ser parte de nuestra comunidad en Shreesoftic (“Compañía”, “nosotros”, “nos”, “nuestro”). Estamos comprometidos a proteger su información personal y su derecho a la privacidad.",
+        "privacy_details": "Si tiene alguna pregunta o inquietud sobre este aviso de privacidad o nuestras prácticas con respecto a su información personal, comuníquese con nosotros a ",
+        "email": "contact@shreesoftic.com",
+        "link": "Cuando visite nuestro sitio web ",
+        "shresoftic": "www.shreesoftic.com",
+        "shresoftic_after": " (el “Sitio web”), y de manera más general, al usar cualquiera de nuestros servicios (los “Servicios”, que incluyen el Sitio web), agradecemos que confíe en nosotros con su información personal.",
+        "p1": "Tomamos su privacidad muy en serio. En este aviso de privacidad, buscamos explicarle de la manera más clara posible qué información recopilamos, cómo la usamos y qué derechos tiene en relación con ella.",
+        "p2": "Esperamos que se tome un tiempo para leerlo detenidamente, ya que es importante. Si hay algún término en este aviso de privacidad con el que no esté de acuerdo, por favor, deje de usar nuestros servicios de inmediato.",
+        "p3": "Este aviso de privacidad se aplica a toda la información recopilada a través de nuestros Servicios (que, como se describió anteriormente, incluyen nuestro Sitio web), así como a cualquier servicio relacionado, ventas, marketing o eventos. Por favor, lea atentamente este aviso de privacidad para ayudarle a entender qué hacemos con la información que recopilamos.",
+        "title1": "1. ¿Qué información recopilamos?",
+        "description1": "La información personal que nos proporcionas. En resumen: Recopilamos información personal que nos proporcionas. Recopilamos información personal que nos proporcionas de manera voluntaria cuando muestras interés en obtener información sobre nosotros o nuestros productos y servicios, cuando participas en actividades en el sitio web o cuando te pones en contacto con nosotros de otra manera.",
+        "description2": "La información personal que recopilamos depende del contexto de tus interacciones con nosotros y el sitio web, las decisiones que tomes y los productos y características que utilices. La información personal que recopilamos puede incluir lo siguiente:",
+        "header": "Información personal proporcionada por ti.",
+        "description3": "Recopilamos nombres; números de teléfono; direcciones de correo electrónico; direcciones postales y otra información similar.",
+        "description4": "Toda la información personal que nos proporciones debe ser verdadera, completa y precisa. Debes notificarnos de cualquier cambio en dicha información personal.",
+        "title2": "Información Recopilada Automáticamente",
+        "description21": "Se recopila automáticamente cierta información, como su dirección de Protocolo de Internet (IP) y/o las características del navegador y del dispositivo, cuando visita nuestro sitio web. Recopilamos automáticamente información cuando visita, utiliza o navega por el sitio. Esta información no revela su identidad específica (como su nombre o información de contacto), pero puede incluir información sobre el dispositivo y el uso, como su dirección IP, características del navegador y del dispositivo, sistema operativo, preferencias de idioma, URL de referencia, nombre del dispositivo, país, ubicación, información sobre cómo y cuándo utiliza nuestro sitio web y otra información técnica. Esta información es necesaria principalmente para mantener la seguridad y el funcionamiento de nuestro sitio web, así como para nuestros fines internos de análisis e informes.",
+        "description22": "Como muchas empresas, también recopilamos información a través de cookies y tecnologías similares.",
+        "header2": "La información que recopilamos incluye:",
+        "subheader2": "Datos de Registro y Uso",
+        "description23": "Los datos de registro y uso son información relacionada con el servicio, diagnóstica, de uso y de rendimiento que nuestros servidores recopilan automáticamente cuando accede o utiliza nuestro sitio web y que registramos en archivos de registro. Dependiendo de cómo interactúe con nosotros, estos datos de registro pueden incluir su dirección IP, información del dispositivo, tipo de navegador y configuraciones, así como información sobre su actividad en el sitio (como las fechas/hora asociadas con su uso, páginas y archivos visualizados, búsquedas y otras acciones que realiza, como qué funciones utiliza), información de eventos del dispositivo (como actividad del sistema, informes de errores (a veces llamados volcados de fallos) y configuraciones de hardware).",
+        "title22": "Datos del Dispositivo",
+        "description24": "Recopilamos datos del dispositivo, como información sobre su computadora, teléfono, tableta u otros dispositivos que utiliza para acceder al sitio. Dependiendo del dispositivo utilizado, estos datos del dispositivo pueden incluir información como su dirección IP (o servidor proxy), números de identificación del dispositivo y de la aplicación, ubicación, tipo de navegador, modelo de hardware, proveedor de servicios de Internet y/o operador móvil, sistema operativo e información sobre la configuración del sistema.",
+        "title23": "Datos de Ubicación",
+        "description25": "Recopilamos datos de ubicación, como información sobre la ubicación de su dispositivo, que puede ser precisa o imprecisa. La cantidad de información que recopilamos depende del tipo y la configuración del dispositivo que utiliza para acceder al sitio. Por ejemplo, podemos utilizar GPS y otras tecnologías para recopilar datos de geolocalización que nos indican su ubicación actual (basada en su dirección IP). Puede optar por no permitirnos recopilar esta información, ya sea negando el acceso a la misma o desactivando la configuración de ubicación en su dispositivo.",
+        "note": "Nota: sin embargo, si decide optar por no participar, es posible que no pueda utilizar ciertos aspectos de los servicios.",
+        "steps": [
+            {
+                "title": "2. ¿Cómo utilizamos sus datos?",
+                "paragraphs": [
+                    "Procesamos sus datos sobre la base de intereses comerciales legítimos, cumplimiento de nuestro contrato con usted, cumplimiento de nuestras obligaciones legales y/o con su consentimiento. Utilizamos los datos personales recopilados a través de nuestro sitio web para una variedad de fines comerciales que se describen a continuación. Procesamos sus datos personales para estos fines sobre la base de nuestros intereses comerciales legítimos en entrar o ejecutar un contrato con usted, con su consentimiento y/o para cumplir con nuestras obligaciones legales. Indicamos las bases específicas de procesamiento en las que nos apoyamos junto a cada finalidad enumerada a continuación.",
+                    "Para enviarle información administrativa. Podemos utilizar sus datos personales para enviarle información sobre productos, servicios y nuevas funcionalidades y/o información sobre cambios en nuestros términos, condiciones y políticas.",
+                    "Para proteger nuestros servicios. Podemos usar sus datos como parte de nuestros esfuerzos para mantener nuestro sitio seguro y protegido (por ejemplo, para monitorear y prevenir fraudes).",
+                    "Para hacer cumplir nuestros términos, condiciones y políticas con fines comerciales, cumplir con requisitos legales y regulatorios o conectar con nuestro contrato.",
+                    "Para responder a solicitudes legales y prevenir daños. Si recibimos una citación u otra solicitud legal, es posible que necesitemos revisar los datos que poseemos para determinar cómo responder.",
+                    "Para enviarle comunicaciones de marketing y promocionales. Nosotros y/o nuestros socios de marketing de terceros podemos utilizar los datos personales que nos envía para nuestros fines de marketing, si esto está de acuerdo con sus preferencias de marketing. Por ejemplo, al expresar interés en obtener información sobre nosotros o nuestro sitio, al inscribirse en comunicaciones de marketing o al contactarnos de otra manera, recopilaremos información personal sobre usted.",
+                    "Puede optar por no recibir nuestros correos electrónicos de marketing en cualquier momento (consulte la sección “¿CUÁLES SON SUS DERECHOS DE PRIVACIDAD?” a continuación).",
+                    "Para proporcionar publicidad dirigida. Podemos utilizar sus datos para desarrollar y mostrar contenido y publicidad personalizados (y colaborar con terceros que lo hacen) adaptados a sus intereses y/o ubicación, así como para medir su eficacia."
+                ]
+            },
+            {
+                "title": "3. ¿Se compartirán sus datos con alguien?",
+                "paragraphs": [
+                    "Compartimos datos solo con su consentimiento, para cumplir con la legislación, para proporcionar servicios, para proteger sus derechos o para cumplir con nuestras obligaciones comerciales.",
+                    "Podemos procesar o compartir sus datos que poseemos sobre la base de las siguientes bases legales:",
+                    "Consentimiento: Podemos procesar sus datos si nos proporciona un consentimiento específico para utilizar sus datos personales para un propósito específico.",
+                    "Intereses legítimos: Podemos procesar sus datos cuando sea razonablemente necesario para lograr nuestros intereses comerciales legítimos.",
+                    "Cumplimiento de un contrato: Cuando tenemos un contrato con usted, podemos procesar sus datos personales para cumplir con los términos de nuestro contrato.",
+                    "Obligaciones legales: Podemos divulgar sus datos cuando estemos legalmente obligados a hacerlo para cumplir con la legislación aplicable, solicitudes gubernamentales, procedimientos judiciales, órdenes judiciales o procesos legales, como en respuesta a una orden judicial o citación (incluidas las respuestas a solicitudes gubernamentales para cumplir con requisitos de seguridad nacional o de aplicación de la ley).",
+                    "Intereses vitales: Podemos divulgar sus datos cuando consideremos necesario investigar, prevenir o tomar medidas en relación con posibles violaciones de nuestras políticas, fraudes sospechosos, situaciones que involucren amenazas potenciales a la seguridad de cualquier persona y actividades ilegales, o como evidencia en litigios en los que estemos involucrados.",
+                    "Más específicamente, podemos necesitar procesar sus datos o compartir sus datos personales en las siguientes situaciones:",
+                    "Transacciones comerciales. Podemos compartir o transferir sus datos en conexión con, o durante negociaciones de, cualquier fusión, venta de activos de la empresa, financiación o adquisición de todo o parte de nuestro negocio por otra empresa."
+                ]
+            }
+        ],
+        "steps1": [
+            {
+                "title": "4. ¿Usamos cookies y otras tecnologías de seguimiento?",
+                "paragraphs": [
+                    "Podemos usar cookies y otras tecnologías de seguimiento para recopilar y almacenar su información.",
+                    "Podemos usar cookies y tecnologías de seguimiento similares (como balizas web y píxeles) para acceder o almacenar información. Información específica sobre cómo usamos estas tecnologías y cómo puede rechazar ciertas cookies se incluye en nuestra Política de cookies."
+                ]
+            },
+            {
+                "title": "5. ¿Cuánto tiempo mantenemos su información?",
+                "paragraphs": [
+                    "Mantenemos su información durante el tiempo necesario para cumplir con los propósitos de esta declaración de privacidad, a menos que la ley exija un período diferente.",
+                    "No mantendremos su información personal por más tiempo del necesario para los propósitos establecidos en esta declaración de privacidad, a menos que se exija o permita un período de retención más largo por ley (como requisitos fiscales, contables u otros requisitos legales). Ningún propósito en esta declaración exige que mantengamos su información personal por más de 2 años."
+                ]
+            },
+            {
+                "title": "6. ¿Cómo protegemos su información?",
+                "paragraphs": [
+                    "Nos esforzamos por proteger su información personal mediante un sistema de medidas de seguridad organizativas y técnicas.",
+                    "Implementamos medidas de seguridad técnicas y organizativas adecuadas diseñadas para proteger la seguridad de toda la información personal que procesamos. A pesar de nuestras medidas de seguridad y esfuerzos para proteger su información, ninguna transmisión electrónica a través de Internet o tecnología de almacenamiento de información puede garantizarse como 100% segura. Por lo tanto, no podemos prometer ni garantizar que hackers, ciberdelincuentes u otros terceros no autorizados no puedan comprometer nuestra seguridad y recopilar, acceder, robar o modificar su información de manera no autorizada.",
+                    "Aunque hacemos nuestro mejor esfuerzo para proteger su información personal, la transferencia de información personal hacia y desde nuestro sitio se realiza bajo su propio riesgo. Debe acceder al sitio solo en un entorno seguro."
+                ]
+            },
+            {
+                "title": "7. ¿Recopilamos información de menores?",
+                "paragraphs": [
+                    "No solicitamos intencionalmente datos ni dirigimos a niños menores de 18 años. Al utilizar el sitio, usted declara que tiene al menos 18 años o que es el padre o tutor de un menor y consiente que ese menor use el sitio. Si nos damos cuenta de que hemos recopilado información personal de usuarios menores de 18 años, desactivaremos la cuenta y tomaremos medidas razonables para eliminar rápidamente esos datos de nuestros registros. Si está al tanto de datos que podemos haber recopilado de niños menores de 18 años, comuníquese con nosotros por correo electrónico a info[.at.]shreesoftic[.dot.]email."
+                ]
+            },
+            {
+                "title": "8. ¿Cuáles son sus derechos de privacidad?",
+                "paragraphs": [
+                    "En algunas regiones, como el Espacio Económico Europeo (EEE) y el Reino Unido (UK), tiene derechos que le otorgan mayor acceso y control sobre su información personal. Puede, en cualquier momento, consultar, modificar o cerrar su cuenta.",
+                    "En algunas regiones (como el EEE y el Reino Unido), tiene ciertos derechos bajo las leyes de protección de datos aplicables. Esto puede incluir el derecho (i) a solicitar y obtener una copia de su información personal, (ii) a solicitar la rectificación o eliminación; (iii) a solicitar la limitación del procesamiento de su información personal; y (iv) si corresponde, a la portabilidad de datos. En ciertas circunstancias, también tiene derecho a oponerse al procesamiento de su información personal. Para hacer tal solicitud, puede utilizar la información de contacto a continuación. Evaluaremos cada solicitud y actuaremos de acuerdo con las leyes de protección de datos aplicables.",
+                    "Si confiamos en su consentimiento para procesar su información personal, tiene derecho a retirar su consentimiento en cualquier momento. Sin embargo, tenga en cuenta que esto no afectará la legalidad del procesamiento realizado antes de la retirada, ni el procesamiento de su información personal realizado en base a motivos de procesamiento legítimos diferentes al consentimiento.",
+                    "Si es residente del EEE o del Reino Unido y cree que estamos procesando su información personal ilegalmente, también tiene derecho a presentar una queja ante su autoridad local de protección de datos. Puede encontrar la información de contacto aquí: Autoridades nacionales de protección de datos."
+                ]
+            },
+            {
+                "title": "9. Regulación para funciones do-not-track",
+                "paragraphs": [
+                    "La mayoría de los navegadores web y algunos sistemas operativos móviles y aplicaciones móviles tienen una función o configuración Do-Not-Track (“DNT”) que puede activar para indicar sus preferencias de privacidad, de modo que sus datos de navegación en línea no sean rastreados ni recopilados. Actualmente, no se ha establecido un estándar tecnológico uniforme para reconocer e implementar las señales DNT.",
+                    "Como no respondemos actualmente a las señales de navegador DNT ni a otros mecanismos que comunican automáticamente su elección de no ser rastreado en línea, informaremos de esta práctica en una versión revisada de esta declaración de privacidad si se adopta un estándar de seguimiento en línea que debamos seguir."
+                ]
+            },
+            {
+                "title": "10. ¿Hacemos actualizaciones a esta declaración?",
+                "paragraphs": [
+                    "Sí, actualizaremos esta declaración según sea necesario para cumplir con las leyes relevantes.",
+                    "Podemos actualizar esta declaración de privacidad de vez en cuando. La versión actualizada se indicará con una fecha de 'Revisión' actualizada y la versión actualizada entrará en vigor tan pronto como esté accesible. Si hacemos cambios materiales a esta declaración de privacidad, podemos notificarle publicando una notificación de esos cambios de manera visible o enviando directamente una notificación. Le animamos a revisar regularmente esta declaración de privacidad para mantenerse informado sobre cómo protegemos su información."
+                ]
+            },
+            {
+                "title": "11. ¿Cómo puede contactarnos sobre esta declaración?",
+                "paragraphs": [
+                    "Si tiene preguntas o comentarios sobre esta declaración, puede enviarnos un correo electrónico a contact@shreesoftic.com.",
+                    "Shreesoftic",
+                    "4° piso, 20, Shree Nilkanth Business hub",
+                    "Causeway Rd, frente a D-Mart,",
+                    "Katargam, Surat, Gujarat 395004."
+                ]
+            },
+            {
+                "title": "3. ¿Se compartirán sus datos con alguien?",
+                "paragraphs": [
+                    "No compartimos información sin su consentimiento, para cumplir con la legislación, para proporcionar servicios, para proteger sus derechos o para cumplir con obligaciones comerciales.",
+                    "Podemos procesar o compartir sus datos en base a las siguientes bases legales:",
+                    "Consentimiento: Podemos procesar sus datos si nos ha dado su consentimiento específico para usar su información personal para un propósito específico.",
+                    "Intereses legítimos: Podemos procesar sus datos cuando sea razonablemente necesario para alcanzar nuestros intereses comerciales legítimos.",
+                    "Ejecución de un contrato: Cuando celebramos un contrato con usted, podemos procesar su información personal para cumplir con los términos de nuestro contrato.",
+                    "Obligaciones legales: Podemos divulgar su información cuando estemos legalmente obligados a hacerlo para cumplir con las leyes aplicables, solicitudes gubernamentales, procesos judiciales, órdenes judiciales o procedimientos legales, como en respuesta a una orden judicial o citación (incluyendo en respuesta a autoridades públicas para cumplir con los requisitos de seguridad nacional o aplicación de la ley).",
+                    "Intereses vitales: Podemos divulgar su información cuando creamos que esto es necesario para investigar, prevenir o tomar medidas en relación con posibles violaciones de nuestras políticas, fraudes sospechosas, situaciones que impliquen amenazas potenciales a la seguridad de las personas o actividades ilegales, o como prueba en litigios en los que estamos involucrados.",
+                    "Más específicamente, podemos necesitar procesar sus datos o compartir su información personal en las siguientes situaciones:",
+                    "Transferencias comerciales. Podemos compartir o transferir su información en relación con o durante negociaciones relacionadas con cualquier fusión, venta de activos comerciales, financiamiento o adquisición de toda o parte de nuestra empresa por otra empresa."
+                ]
+            }
+        ]
+    }
+}

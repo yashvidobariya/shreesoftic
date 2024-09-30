@@ -1,0 +1,152 @@
+[
+    {
+        "id": "1",
+        "title": "Android Development",
+        "description": "Develop high-performance Android apps tailored to your business needs. Our team excels in creating intuitive and user-friendly applications for the Google Play store.",
+        "icon": "TiVendorAndroid",
+        "image": "/Images/anroid.png",
+        "subtitle": "Why Choose Shreesoftic for Android Development?",
+        "info": "At Shreesoftic, we specialize in crafting top-notch Android applications tailored to your business needs. Our experienced team of developers combines technical proficiency with creative design to deliver apps that are not only visually appealing but also highly functional.",
+        "Technology": {
+            "Languages": "Java, Kotlin",
+            "Frameworks": "Android SDK, Retrofit, Dagger",
+            "Tools": "Android Studio, Firebase, Google Play Console, Gradle"
+        },
+        "Features": {
+            "Custom Solutions": "We develop Android apps that are tailored to your unique business requirements, ensuring they align perfectly with your goals.",
+            "User-Centric Design": "Our design philosophy focuses on creating intuitive and engaging user interfaces that provide an exceptional user experience.",
+            "Robust Performance": "Our apps are optimized for performance, ensuring fast load times and smooth operation across all Android devices.",
+            "Security": "We prioritize security to protect your users' data and ensure your app complies with Google's guidelines.",
+            "Ongoing Support": "Our commitment doesn't end with the launch. We offer ongoing maintenance and support to keep your app running smoothly and up-to-date with the latest Android features."
+        },
+        "DevelopmentProcess": {
+            "Discovery & Planning": "We start by understanding your vision and requirements. This involves detailed discussions to define the app's functionality and objectives.",
+            "Design": "Our design team creates wireframes and mockups, ensuring the app is user-friendly and visually appealing.",
+            "Development": "Our skilled developers bring the design to life, coding the app using the latest technologies and best practices.",
+            "Testing": "Rigorous testing is conducted to identify and fix any issues, ensuring the app is bug-free and performs flawlessly.",
+            "Deployment": " Once approved, we launch the app on the Google Play Store and monitor its performance to ensure a successful release.",
+            "Maintenance & Updates": "We provide ongoing support and updates to keep your app current and functioning optimally."
+        }
+    },
+    {
+        "id": "2",
+        "title": "iPhone Development",
+        "description": "Create exceptional iOS apps with stunning design and seamless functionality. Our expertise in iPhone development ensures a premium user experience on Apple devices.",
+        "icon": "RiAppleFill",
+        "image": "/Images/iphone.png",
+        "subtitle": "Why Choose Shreesoftic for iPhone Development?",
+        "info": "At Shreesoftic, we specialize in crafting top-notch iPhone applications tailored to your business needs. Our experienced team of developers combines technical proficiency with creative design to deliver apps that are not only visually appealing but also highly functional.",
+        "Technology": {
+            "Languages": "Swift, Objective-C",
+            "Frameworks": "UIKit, SwiftUI, CoreData, Combine",
+            "Tools": "TestFlight, Firebase, Cocoapods, Fastlane"
+        },
+        "Features": {
+            "CustomSolutions": "We develop iOS apps that are tailored to your unique business requirements, ensuring they align perfectly with your goals.",
+            "UserCentricDesign": " Our design philosophy focuses on creating intuitive and engaging user interfaces that provide an exceptional user experience.",
+            "RobustPerformance": "Our apps are optimized for performance, ensuring fast load times and smooth operation across all iPhone models.",
+            "Security": "We prioritize security to protect your users' data and ensure your app complies with Apple's stringent guidelines.",
+            "OngoingSupport": "Our commitment doesn't end with the launch. We offer ongoing maintenance and support to keep your app running smoothly and up-to-date with the latest iOS features."
+        },
+        "DevelopmentProcess": {
+            "DiscoveryPlanning": "We start by understanding your vision and requirements. This involves detailed discussions to define the app's functionality and objectives.",
+            "Design": "Our design team creates wireframes and mockups, ensuring the app is user-friendly and visually appealing.",
+            "Development": " Our skilled developers bring the design to life, coding the app using the latest technologies and best practices.",
+            "Testing": "Rigorous testing is conducted to identify and fix any issues, ensuring the app is bug-free and performs flawlessly.",
+            "Deployment": "Once approved, we launch the app on the Apple App Store and monitor its performance to ensure a successful release.",
+            "MaintenanceUpdates": "We provide ongoing support and updates to keep your app current and functioning optimally."
+        }
+    },
+    {
+        "id": "3",
+        "title": "Web Development",
+        "description": "Build dynamic and scalable websites that captivate and convert. Our web development services deliver impactful online experiences tailored to your brand.",
+        "icon": "RiComputerLine",
+        "image": "/Images/web.png",
+        "subtitle": "Why Choose Shreesoftic for Web Development?",
+        "info": "At Shreesoftic, we specialize in crafting top-notch websites tailored to your business needs. Our experienced team of developers combines technical proficiency with creative design to deliver websites that are not only visually appealing but also highly functional.",
+        "Technology": {
+            "Languages": " HTML, CSS, JavaScript, PHP, Python, Ruby",
+            "Frameworks": "React, Angular, Vue.js, Django, Flask, Ruby on Rails",
+            "CMS": "WordPress, Joomla, Drupal",
+            "E-commerce": "WooCommerce, Shopify, Magento",
+            "Tools": "Git, Webpack, npm, Docker, AWS, Azure, Google Cloud"
+        },
+        "Features": {
+            "Custom Solutions": " We develop websites that are tailored to your unique business requirements, ensuring they align perfectly with your goals.",
+            "User-Centric Design": " Our design philosophy focuses on creating intuitive and engaging user interfaces that provide an exceptional user experience.",
+            "Robust Performance": "Our websites are optimized for performance, ensuring fast load times and smooth operation across all devices.",
+            "Security": "We prioritize security to protect your data and ensure your website complies with the latest standards.",
+            "Ongoing Support": "Our commitment doesn't end with the launch. We offer ongoing maintenance and support to keep your website running smoothly and up-to-date with the latest trends."
+        },
+        "DevelopmentProcess": {
+            "Iscovery & Planning": "We start by understanding your vision and requirements. This involves detailed discussions to define the website's functionality and objectives.",
+            "Design": "Our design team creates wireframes and mockups, ensuring the website is user-friendly and visually appealing.",
+            "Development": " Our skilled developers bring the design to life, coding the website using the latest technologies and best practices.",
+            "Testing": "Rigorous testing is conducted to identify and fix any issues, ensuring the website is bug-free and performs flawlessly.",
+            "Deployment": "Once approved, we launch the website and monitor its performance to ensure a successful release.",
+            "Maintenance & Updates": "We provide ongoing support and updates to keep your website current and functioning optimally."
+        }
+    },
+    {
+        "id": "4",
+        "title": "UI/UX & Graphic Design",
+        "description": "Enhance your digital presence with our expert UI/UX and graphic design services. We focus on user-centered design to create visually appealing and intuitive interfaces.",
+        "icon": "SiAntdesign",
+        "image": "/Images/ui-ux.png",
+        "subtitle": "Why Choose Shreesoftic for UI/UX & Graphic Design?",
+        "info": "At Shreesoftic, we specialize in crafting top-notch UI/UX designs tailored to your business needs. Our experienced team of designers combines creative design with user-centered principles to deliver interfaces that are not only visually appealing but also highly functional.",
+        "Technology": {
+            "Design Tools": "Adobe XD, Sketch, Figma, InVision, Adobe Photoshop, Adobe Illustrator",
+            "Prototyping": "Marvel, Axure RP",
+            "Testing": "UserTesting, Hotjar, Optimizely"
+        },
+        "Features": {
+            "Custom Solutions": " We design interfaces that are tailored to your unique business requirements, ensuring they align perfectly with your goals.",
+            "User-Centric Design": "Our design philosophy focuses on creating intuitive and engaging user interfaces that provide an exceptional user experience.",
+            "Visual Appeal": "We ensure consistency across all platforms and devices, providing a seamless user experience.",
+            "Consistency": "We ensure consistency across all platforms and devices providing a seamless user experience.",
+            "Ongoing Support": "Our commitment doesn't end with the launch. We offer ongoing maintenance and support to keep your design fresh and up-to-date with the latest trends"
+        },
+        "DevelopmentProcess": {
+            "Discovery & Planning": "We start by understanding your vision and requirements. This involves detailed discussions to define the design's functionality and objectives.",
+            "Wireframing": " Our design team creates wireframes, ensuring the design is user-friendly and visually appealing.",
+            "Prototyping": "We develop prototypes to bring the design to life, allowing for feedback and adjustments.",
+            "Design": "Our skilled designers finalize the design, creating visually stunning and intuitive interfaces.",
+            "Testing": "Rigorous testing is conducted to identify and fix any issues, ensuring the design is functional and user-friendly.",
+            "Deployment": "Once approved, we implement the design and monitor its performance to ensure a successful release.",
+            "Maintenance & Updates": "We provide ongoing support and updates to keep your design current and functioning optimally"
+        }
+    },
+    {
+        "id": "5",
+        "title": "SEO & Digital Marketing",
+        "description": "Boost your online visibility and drive targeted traffic with our SEO and digital marketing services. We employ the latest strategies to ensure your brand stands out.",
+        "icon": "FaFileInvoiceDollar",
+        "image": "/Images/marketing.png",
+        "subtitle": "Why Choose Shreesoftic for SEO & Digital Marketing?",
+        "info": "At Shreesoftic, we specialize in crafting top-notch SEO and digital marketing strategies tailored to your business needs. Our experienced team combines technical proficiency with creative strategies to deliver campaigns that are not only effective but also highly engaging.",
+        "Technology": {
+            "SEO Tools": "Google Analytics, Google Search Console, SEMrush, Ahrefs, Moz",
+            "Content Management": "WordPress, HubSpot, Joomla",
+            "Marketing Automation": "Mailchimp, HubSpot, Marketo",
+            "Social Media Management": " Hootsuite, Buffer, Sprout Social",
+            "Advertising": "Google Ads, Facebook Ads, LinkedIn Ads, Twitter Ads"
+        },
+        "Features": {
+            "Custom Solutions": " We develop SEO and digital marketing strategies that are tailored to your unique business requirements, ensuring they align perfectly with your goals.",
+            "Data-Driven Approach": "Our strategies are based on data and analytics, ensuring effective and measurable results.",
+            "Content Excellence": "We create high-quality content that engages your audience and enhances your brand's online presence.",
+            "Technical Expertise": "Our team is skilled in the latest SEO techniques and digital marketing tools to ensure your success.",
+            "Ongoing Support": "Our commitment doesn't end with the campaign launch. We offer ongoing monitoring and optimization to keep your strategy effective and up-to-date."
+        },
+        "DevelopmentProcess": {
+            "Discovery & Plannin": "We start by understanding your vision and requirements. This involves detailed discussions to define the campaign's objectives and target audience.",
+            "Research & Analysis": "Our team conducts thorough research and analysis to develop an effective strategy..",
+            "Strategy Development": "We create a comprehensive SEO and digital marketing plan tailored to your business needs.",
+            "Implementation": "Our skilled team implements the strategy using the latest tools and techniques.",
+            "Monitoring & Optimization": "Rigorous monitoring is conducted to track the campaign's performance, with ongoing optimization to ensure success.",
+            "Reporting": "We provide detailed reports on the campaign's progress and results, ensuring transparency and accountability."
+        }
+    }
+]

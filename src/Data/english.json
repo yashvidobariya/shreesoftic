@@ -1,0 +1,677 @@
+{
+    "shreesoftic": "shreesoftic",
+    "header": {
+        "home": "Home",
+        "about_us": "About Us",
+        "services": "Services",
+        "career": "Career",
+        "contact_us": "Contact Us"
+    },
+    "home": {
+        "title": "Welcome to Shreesoftic",
+        "description": "Welcome to Shreesoftic, a leading company in the field of information technology, specializing in mobile application and website development. Our team of experienced developers is passionate about creating innovative and intuitive solutions that help businesses succeed. We pride ourselves on delivering high-quality products and services to our clients. Whether you need a custom mobile application or a complete website, we have the expertise and resources to make it happen. Contact us today to learn more about how we can help take your business to the next level.",
+        "cta_button": "Contact us today",
+        "data": {
+            "for business": "for business",
+            "to sell online": "to sell online",
+            "for your ideas": "for your ideas"
+        }
+    },
+    "workflow": {
+        "header": "Best in class services",
+        "subheader": "Our Process",
+        "steps": [
+            {
+                "id": 1,
+                "number": "01",
+                "icon": "Images/w1.png",
+                "title": "Conceptualization",
+                "description": "Collaborate with our team to develop innovative ideas tailored to your business goals."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "icon": "Images/w2.png",
+                "title": "Crafting & Coding",
+                "description": "Our experts design and develop user-friendly solutions that prioritize experience and functionality."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "icon": "Images/w3.png",
+                "title": "Quality Assurance",
+                "description": "We rigorously test to ensure your solution is reliable, secure, and performs seamlessly."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "icon": "Images/w4.png",
+                "title": "Go Live & Beyond",
+                "description": "We launch your project successfully and provide ongoing support for optimal performance."
+            }
+        ]
+    },
+    "service": {
+        "header": "Our Expertise",
+        "subheader": "At Shreesoftic, we offer a comprehensive suite of digital solutions designed to elevate your business. From cutting-edge web development to intuitive mobile applications, our expert team ensures excellence at every stage.",
+        "steps": [
+            {
+                "id": 1,
+                "icon": "RiComputerLine",
+                "title": "Web Development",
+                "description": "Build dynamic and scalable websites that captivate and convert. Our web development services deliver impactful online experiences."
+            },
+            {
+                "id": 2,
+                "icon": "RiAppleFill",
+                "title": "iPhone & iPad App",
+                "description": "Develop standout iOS apps with Shreesoftic. Our expertise in design and programming ensures seamless functionality and stunning visuals on iPhone and iPad."
+            },
+            {
+                "id": 3,
+                "icon": "TiVendorAndroid",
+                "title": "Android Application",
+                "description": "Build dynamic and scalable websites that captivate and convert. Our web development services deliver impactful online experiences."
+            },
+            {
+                "id": 4,
+                "icon": "SiAltiumdesigner",
+                "title": "UI/UX Design",
+                "description": "Transform your digital interfaces with our UI/UX design expertise. We focus on user research, testing, and front-end development to create intuitive and engaging user experiences."
+            }
+        ]
+    },
+    "team": {
+        "header": "Why Choose Shreesoftic?",
+        "subheader": "Empowering Your Success with Premier IT Solutions!",
+        "description": "We have a proven track record of delivering high-quality projects on time and within budget. Our team excels in a variety of programming languages and frameworks, including Java, Kotlin, Swift, React/React Native, Flutter, and Angular. With extensive experience in database design, cloud computing, and agile development methodologies, we are equipped to handle any project, from simple websites to complex mobile apps. Partner with us to turn your vision into reality. Contact us today to learn more about how our services can help your business thrive in the digital world.",
+        "steps": [
+            {
+                "id": 1,
+                "number": "20",
+                "plus": "+",
+                "title": "Happy Clients",
+                "description": "Our company has consistently received positive feedback from over 20 satisfied clients who have benefited from our high-quality services and results."
+            },
+            {
+                "id": 2,
+                "number": "50",
+                "plus": "+",
+                "title": "Projects",
+                "description": "With over 50 completed projects under our belt, our team has a wealth of experience and expertise in delivering best-in-class solutions for our clients."
+            },
+            {
+                "id": 3,
+                "number": "10",
+                "plus": "+",
+                "title": "Expert Team Members",
+                "description": "Our company is proud to have a team of 10+ skilled professionals who are dedicated to providing the best possible support and outcomes for our clients."
+            }
+        ]
+    },
+    "portfolio": {
+        "header": "Our Portfolio",
+        "subheader": "Diverse range of achievements",
+        "button": "Know More",
+        "steps": [
+            {
+                "id": 1,
+                "image": "/Images/p1.svg",
+                "title": "Results Wellness Lifestyle",
+                "description": "E-Commerce & Fitness Website",
+                "info": "RWL (Results Wellness Lifestyle) is a fitness and wellness platform offering on-demand home workouts, personalized meal plans, and expert guidance. It provides various workout programs, including strength, cardio, yoga, and dance, along with customizable nutrition plans and community support to help users achieve their health and fitness goals.",
+                "technology": "Reactjs , Nodejs",
+                "type": ""
+            },
+            {
+                "id": 2,
+                "image": "/Images/p5.svg",
+                "title": "Chaina Fab",
+                "description": "Work Finder Mobile Application",
+                "info": "China Fab is a Job seeker and giver mobile application and its specifically designed for Art & Entertainment field. Where people can find artist, painter, singer etc. and some people can post their requirements while other contact them via this app.",
+                "technology": "React native, Nodejs",
+                "type": "Job Finder Mobile App"
+            },
+            {
+                "id": 3,
+                "image": "/Images/p3.svg",
+                "title": "AllFive",
+                "description": "Native Mobile Application",
+                "info": "AllFive is a platform where users can discover & book offbeat experiences and hosting parters can create and serve curated experiences.",
+                "technology": "iOS- Swift, Android - JAVA",
+                "type": "Ticket Booking Platform"
+            },
+            {
+                "id": 4,
+                "image": "/Images/p4.svg",
+                "title": "Goodpix",
+                "description": "Business growth Website",
+                "info": "GoodPix is a styling and shopping platform designed for personal stylists to create shoppable style boards, digitize wardrobes, and manage client sites. It offers features like customizable lookbooks, private client sites, and the ability to earn commissions from recommended products. GoodPix aims to streamline the styling process and enhance client engagement through organized, professional tools and resources.",
+                "technology": "Angular, Node",
+                "type": "E-commerce"
+            },
+            {
+                "id": 5,
+                "image": "/Images/portfolio-four.png",
+                "title": "Keatov",
+                "description": "Food Delivery App",
+                "info": "Kosher food & groceries, pizza, chicken, shawarma, sushi, and more delivered directly to your door! KEATOV gives you kosher food directly from your favorite Kosher restaurants.",
+                "technology": "Flutter, Nodejs",
+                "type": ""
+            },
+            {
+                "id": 6,
+                "image": "/Images/portfolio-five.png",
+                "title": "SEO optimization",
+                "description": "Google Search Optimisation & Meta Ranking",
+                "type": ""
+            }
+        ]
+    },
+    "contactus": {
+        "header": "Connect with Us",
+        "subheader": "We'd love to hear about your project. Reach out today to discuss how we can help bring your ideas to life.",
+        "button": "Contact Us"
+    },
+    "footer": {
+        "logo": {
+            "src": "/Images/footericon.png",
+            "alt": "footer-shreesoftic",
+            "width": 190
+        },
+        "link": {
+            "home": "home",
+            "about": " About Us",
+            "service": "Services",
+            "career": "career",
+            "contact": "contact Us"
+        },
+        "aboutUs": {
+            "header": "About Us",
+            "description": "At Shreesoftic, we empower small to mid-sized businesses by providing innovative IT solutions that drive growth and ensure sustainability. We are dedicated to your success and committed to delivering excellence."
+        },
+        "socialMedia": {
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/"
+        },
+        "quickLinks": {
+            "home": "/",
+            "aboutUs": "/aboutus",
+            "services": "/services",
+            "career": "/career",
+            "contactUs": "/contactus"
+        },
+        "contactUs": {
+            "email": "contact@shreesoftic.com",
+            "phoneNumber": "+91 97242 83087",
+            "address": "4th Floor, 20, Shree Nilkanth Business Centre, Causeway Road, Opposite. D-Mart, Katargam, Surat, Gujarat 395004."
+        },
+        "privacyPolicy": {
+            "url": "/privacy",
+            "text": "Privacy Policy"
+        },
+        "termsAndConditions": {
+            "url": "/condition",
+            "text": "Terms & Conditions"
+        }
+    },
+    "aboutus": {
+        "header": "About Us",
+        "subheader": "At Shreesoftic, we transform ideas into digital masterpieces. Since our inception, we’ve delivered top-notch web and mobile development services. Our expert team leverages the latest technologies to create innovative, reliable solutions tailored to your unique needs. Join us on our journey to achieve digital success and remarkable growth."
+    },
+    "contact": {
+        "header": "Get in Touch with Us",
+        "subheader": "Ready to take your business to the next level? Contact us today to discover how our expertise can help you achieve your goals. Our team is here to answer your questions and provide the support you need.",
+        "detail_header": "Contact Details",
+        "details_subheader": "We’re here to help! Reach out to us through any of the following methods, and our team will get back to you promptly. Whether you have questions about our services or need support, we’re always ready to assist.",
+        "form_header": "Get in Touch",
+        "form_subheader": "Have a question or want to discuss your project? Drop us a message, and we'll get back to you as soon as possible.",
+        "form_button": "Send Message",
+        "steps": [
+            {
+                "icon": "IoLocationSharp",
+                "heading": "Visit Our Location",
+                "content": "4th floor, 20, Shree Nilkanth Business Hub, Causeway Rd, opp. D-Mart, Katargam, Surat, Gujarat 395004."
+            },
+            {
+                "icon": "BiMailSend",
+                "heading": "Send Us Email",
+                "content": "contact@shreesoftic.com"
+            },
+            {
+                "icon": "TbPhoneCall",
+                "heading": " Call Us for Projects",
+                "content": "+91 97242 83087"
+            }
+        ],
+        "firstname": "Your name",
+        "email": "Email Address",
+        "number": "Phone Number",
+        "message": "Write Your Message"
+    },
+    "career": {
+        "join_title": "Join Our Team",
+        "join_title_parent": " and Shape the Future",
+        "join_title_description": "At Shreesoftic, we're passionate about innovation and excellence. We're looking for talented individuals to join our dynamic team and contribute to groundbreaking projects. If you're driven by creativity and thrive in a collaborative environment, let's build the future together.",
+        "header": "Care of Employees",
+        "subheader": "At Shreesoftic, we believe that our employees are our greatest asset. We are committed to creating a supportive and enriching environment that fosters growth, well-being, and satisfaction. Explore the unique benefits we offer to our team members.",
+        "work_title": "Fancy Working for",
+        "work_title_parent": "Shreesoftic?",
+        "work_subheader": "Join Shreesoftic and take your career to the next level. We’re looking for talented, energetic individuals to be part of our innovative team. At Shreesoftic, you’ll enjoy a range of benefits, including competitive salaries, career advancement opportunities, and a positive work environment. We offer flexible working hours, cutting-edge technology, and a supportive team culture. Experience professional growth through our training programs, work on impactful projects, and collaborate with a global client base. With generous vacation time and a focus on work-life balance, Shreesoftic is the ideal place for ambitious professionals.",
+        "steps": [
+            {
+                "id": "1",
+                "title": "Employee Priority",
+                "description": "Our employees come first. We prioritize their needs and well-being, ensuring a healthy work-life balance and a supportive work culture.",
+                "icon": "PiUserSwitchLight"
+            },
+            {
+                "id": "2",
+                "title": "Training Programs",
+                "description": "Access continuous learning and development opportunities through our comprehensive training programs designed to enhance your skills and career progression.",
+                "icon": "FcProcess"
+            },
+            {
+                "id": "3",
+                "title": "Positive Work Environment",
+                "description": "Enjoy a collaborative and positive work environment where your contributions are valued, and your professional growth is nurtured.",
+                "icon": "PiHandshakeLight"
+            },
+            {
+                "id": "4",
+                "title": "Festive Celebrations",
+                "description": "Join us in celebrating various festivals and events throughout the year, fostering a sense of community and team spirit.",
+                "icon": "MdOutlineCelebration"
+            }
+        ]
+    },
+    "servicepage": {
+        "header": "Our Services",
+        "subheader": "At Shreesoftic, we offer a comprehensive suite of digital services designed to meet your unique business needs. Our team of experts leverages the latest technologies to deliver innovative and reliable solutions. Explore our range of services and discover how we can help you achieve your digital goals.",
+        "servicetitle": "Explore Our Expertise",
+        "seemore": "See more",
+        "client_title": "Client Testimonials",
+        "process": "process",
+        "our": "Our",
+        "tech": "Technologies & Tools",
+        "steps": [
+            {
+                "id": "1",
+                "title": "Android Development",
+                "description": "Develop high-performance Android apps tailored to your business needs. Our team excels in creating intuitive and user-friendly applications for the Google Play store.",
+                "icon": "TiVendorAndroid",
+                "image": "/Images/anroid.png",
+                "subtitle": "Why Choose Shreesoftic for Android Development?",
+                "info": "At Shreesoftic, we specialize in crafting top-notch Android applications tailored to your business needs. Our experienced team of developers combines technical proficiency with creative design to deliver apps that are not only visually appealing but also highly functional.",
+                "Technology": {
+                    "Languages": "Java, Kotlin",
+                    "Frameworks": "Android SDK, Retrofit, Dagger",
+                    "Tools": "Android Studio, Firebase, Google Play Console, Gradle"
+                },
+                "Features": {
+                    "Custom Solutions": "We develop Android apps that are tailored to your unique business requirements, ensuring they align perfectly with your goals.",
+                    "User-Centric Design": "Our design philosophy focuses on creating intuitive and engaging user interfaces that provide an exceptional user experience.",
+                    "Robust Performance": "Our apps are optimized for performance, ensuring fast load times and smooth operation across all Android devices.",
+                    "Security": "We prioritize security to protect your users' data and ensure your app complies with Google's guidelines.",
+                    "Ongoing Support": "Our commitment doesn't end with the launch. We offer ongoing maintenance and support to keep your app running smoothly and up-to-date with the latest Android features."
+                },
+                "DevelopmentProcess": {
+                    "Discovery & Planning": "We start by understanding your vision and requirements. This involves detailed discussions to define the app's functionality and objectives.",
+                    "Design": "Our design team creates wireframes and mockups, ensuring the app is user-friendly and visually appealing.",
+                    "Development": "Our skilled developers bring the design to life, coding the app using the latest technologies and best practices.",
+                    "Testing": "Rigorous testing is conducted to identify and fix any issues, ensuring the app is bug-free and performs flawlessly.",
+                    "Deployment": " Once approved, we launch the app on the Google Play Store and monitor its performance to ensure a successful release.",
+                    "Maintenance & Updates": "We provide ongoing support and updates to keep your app current and functioning optimally."
+                }
+            },
+            {
+                "id": "2",
+                "title": "iPhone Development",
+                "description": "Create exceptional iOS apps with stunning design and seamless functionality. Our expertise in iPhone development ensures a premium user experience on Apple devices.",
+                "icon": "RiAppleFill",
+                "image": "/Images/iphone.png",
+                "subtitle": "Why Choose Shreesoftic for iPhone Development?",
+                "info": "At Shreesoftic, we specialize in crafting top-notch iPhone applications tailored to your business needs. Our experienced team of developers combines technical proficiency with creative design to deliver apps that are not only visually appealing but also highly functional.",
+                "Technology": {
+                    "Languages": "Swift, Objective-C",
+                    "Frameworks": "UIKit, SwiftUI, CoreData, Combine",
+                    "Tools": "TestFlight, Firebase, Cocoapods, Fastlane"
+                },
+                "Features": {
+                    "CustomSolutions": "We develop iOS apps that are tailored to your unique business requirements, ensuring they align perfectly with your goals.",
+                    "UserCentricDesign": " Our design philosophy focuses on creating intuitive and engaging user interfaces that provide an exceptional user experience.",
+                    "RobustPerformance": "Our apps are optimized for performance, ensuring fast load times and smooth operation across all iPhone models.",
+                    "Security": "We prioritize security to protect your users' data and ensure your app complies with Apple's stringent guidelines.",
+                    "OngoingSupport": "Our commitment doesn't end with the launch. We offer ongoing maintenance and support to keep your app running smoothly and up-to-date with the latest iOS features."
+                },
+                "DevelopmentProcess": {
+                    "DiscoveryPlanning": "We start by understanding your vision and requirements. This involves detailed discussions to define the app's functionality and objectives.",
+                    "Design": "Our design team creates wireframes and mockups, ensuring the app is user-friendly and visually appealing.",
+                    "Development": " Our skilled developers bring the design to life, coding the app using the latest technologies and best practices.",
+                    "Testing": "Rigorous testing is conducted to identify and fix any issues, ensuring the app is bug-free and performs flawlessly.",
+                    "Deployment": "Once approved, we launch the app on the Apple App Store and monitor its performance to ensure a successful release.",
+                    "MaintenanceUpdates": "We provide ongoing support and updates to keep your app current and functioning optimally."
+                }
+            },
+            {
+                "id": "3",
+                "title": "Web Development",
+                "description": "Build dynamic and scalable websites that captivate and convert. Our web development services deliver impactful online experiences tailored to your brand.",
+                "icon": "RiComputerLine",
+                "image": "/Images/web.png",
+                "subtitle": "Why Choose Shreesoftic for Web Development?",
+                "info": "At Shreesoftic, we specialize in crafting top-notch websites tailored to your business needs. Our experienced team of developers combines technical proficiency with creative design to deliver websites that are not only visually appealing but also highly functional.",
+                "Technology": {
+                    "Languages": " HTML, CSS, JavaScript, PHP, Python, Ruby",
+                    "Frameworks": "React, Angular, Vue.js, Django, Flask, Ruby on Rails",
+                    "CMS": "WordPress, Joomla, Drupal",
+                    "E-commerce": "WooCommerce, Shopify, Magento",
+                    "Tools": "Git, Webpack, npm, Docker, AWS, Azure, Google Cloud"
+                },
+                "Features": {
+                    "Custom Solutions": " We develop websites that are tailored to your unique business requirements, ensuring they align perfectly with your goals.",
+                    "User-Centric Design": " Our design philosophy focuses on creating intuitive and engaging user interfaces that provide an exceptional user experience.",
+                    "Robust Performance": "Our websites are optimized for performance, ensuring fast load times and smooth operation across all devices.",
+                    "Security": "We prioritize security to protect your data and ensure your website complies with the latest standards.",
+                    "Ongoing Support": "Our commitment doesn't end with the launch. We offer ongoing maintenance and support to keep your website running smoothly and up-to-date with the latest trends."
+                },
+                "DevelopmentProcess": {
+                    "Iscovery & Planning": "We start by understanding your vision and requirements. This involves detailed discussions to define the website's functionality and objectives.",
+                    "Design": "Our design team creates wireframes and mockups, ensuring the website is user-friendly and visually appealing.",
+                    "Development": " Our skilled developers bring the design to life, coding the website using the latest technologies and best practices.",
+                    "Testing": "Rigorous testing is conducted to identify and fix any issues, ensuring the website is bug-free and performs flawlessly.",
+                    "Deployment": "Once approved, we launch the website and monitor its performance to ensure a successful release.",
+                    "Maintenance & Updates": "We provide ongoing support and updates to keep your website current and functioning optimally."
+                }
+            },
+            {
+                "id": "4",
+                "title": "UI/UX & Graphic Design",
+                "description": "Enhance your digital presence with our expert UI/UX and graphic design services. We focus on user-centered design to create visually appealing and intuitive interfaces.",
+                "icon": "SiAntdesign",
+                "image": "/Images/ui-ux.png",
+                "subtitle": "Why Choose Shreesoftic for UI/UX & Graphic Design?",
+                "info": "At Shreesoftic, we specialize in crafting top-notch UI/UX designs tailored to your business needs. Our experienced team of designers combines creative design with user-centered principles to deliver interfaces that are not only visually appealing but also highly functional.",
+                "Technology": {
+                    "Design Tools": "Adobe XD, Sketch, Figma, InVision, Adobe Photoshop, Adobe Illustrator",
+                    "Prototyping": "Marvel, Axure RP",
+                    "Testing": "UserTesting, Hotjar, Optimizely"
+                },
+                "Features": {
+                    "Custom Solutions": " We design interfaces that are tailored to your unique business requirements, ensuring they align perfectly with your goals.",
+                    "User-Centric Design": "Our design philosophy focuses on creating intuitive and engaging user interfaces that provide an exceptional user experience.",
+                    "Visual Appeal": "We ensure consistency across all platforms and devices, providing a seamless user experience.",
+                    "Consistency": "We ensure consistency across all platforms and devices providing a seamless user experience.",
+                    "Ongoing Support": "Our commitment doesn't end with the launch. We offer ongoing maintenance and support to keep your design fresh and up-to-date with the latest trends"
+                },
+                "DevelopmentProcess": {
+                    "Discovery & Planning": "We start by understanding your vision and requirements. This involves detailed discussions to define the design's functionality and objectives.",
+                    "Wireframing": " Our design team creates wireframes, ensuring the design is user-friendly and visually appealing.",
+                    "Prototyping": "We develop prototypes to bring the design to life, allowing for feedback and adjustments.",
+                    "Design": "Our skilled designers finalize the design, creating visually stunning and intuitive interfaces.",
+                    "Testing": "Rigorous testing is conducted to identify and fix any issues, ensuring the design is functional and user-friendly.",
+                    "Deployment": "Once approved, we implement the design and monitor its performance to ensure a successful release.",
+                    "Maintenance & Updates": "We provide ongoing support and updates to keep your design current and functioning optimally"
+                }
+            },
+            {
+                "id": "5",
+                "title": "SEO & Digital Marketing",
+                "description": "Boost your online visibility and drive targeted traffic with our SEO and digital marketing services. We employ the latest strategies to ensure your brand stands out.",
+                "icon": "FaFileInvoiceDollar",
+                "image": "/Images/marketing.png",
+                "subtitle": "Why Choose Shreesoftic for SEO & Digital Marketing?",
+                "info": "At Shreesoftic, we specialize in crafting top-notch SEO and digital marketing strategies tailored to your business needs. Our experienced team combines technical proficiency with creative strategies to deliver campaigns that are not only effective but also highly engaging.",
+                "Technology": {
+                    "SEO Tools": "Google Analytics, Google Search Console, SEMrush, Ahrefs, Moz",
+                    "Content Management": "WordPress, HubSpot, Joomla",
+                    "Marketing Automation": "Mailchimp, HubSpot, Marketo",
+                    "Social Media Management": " Hootsuite, Buffer, Sprout Social",
+                    "Advertising": "Google Ads, Facebook Ads, LinkedIn Ads, Twitter Ads"
+                },
+                "Features": {
+                    "Custom Solutions": " We develop SEO and digital marketing strategies that are tailored to your unique business requirements, ensuring they align perfectly with your goals.",
+                    "Data-Driven Approach": "Our strategies are based on data and analytics, ensuring effective and measurable results.",
+                    "Content Excellence": "We create high-quality content that engages your audience and enhances your brand's online presence.",
+                    "Technical Expertise": "Our team is skilled in the latest SEO techniques and digital marketing tools to ensure your success.",
+                    "Ongoing Support": "Our commitment doesn't end with the campaign launch. We offer ongoing monitoring and optimization to keep your strategy effective and up-to-date."
+                },
+                "DevelopmentProcess": {
+                    "Discovery & Plannin": "We start by understanding your vision and requirements. This involves detailed discussions to define the campaign's objectives and target audience.",
+                    "Research & Analysis": "Our team conducts thorough research and analysis to develop an effective strategy..",
+                    "Strategy Development": "We create a comprehensive SEO and digital marketing plan tailored to your business needs.",
+                    "Implementation": "Our skilled team implements the strategy using the latest tools and techniques.",
+                    "Monitoring & Optimization": "Rigorous monitoring is conducted to track the campaign's performance, with ongoing optimization to ensure success.",
+                    "Reporting": "We provide detailed reports on the campaign's progress and results, ensuring transparency and accountability."
+                }
+            }
+        ],
+        "review": [
+            {
+                "no": 1,
+                "img": "images/r1.jpg",
+                "name": "Ron Mears",
+                "line": "Mobile Application",
+                "detail": "Shreesoftic consistently delivered high-quality, user friendly applications on time and within budget.",
+                "rating": 5
+            },
+            {
+                "no": 2,
+                "img": "images/r3.jpg",
+                "name": "Fraer Booth",
+                "line": "Web Development",
+                "detail": "Shreesoftic team is skilled in creating visually appealing and functional websites that meet the client's needs and goals on time.",
+                "rating": 5
+            },
+            {
+                "no": 3,
+                "img": "images/r2.jpg",
+                "name": "Heuy Freeman",
+                "line": "Frete Mobile Application",
+                "detail": "Frete The logistics delivery mobile app developed by Shreesoftic streamlined our operations, improved customer satisfaction and exceeded our expectations.",
+                "rating": 4.5
+            },
+            {
+                "no": 4,
+                "img": "images/r4.jpg",
+                "name": "Gabriel Musiello",
+                "line": "TrakMD - Doctor/Patient Platform",
+                "detail": "Cood communication and efficient development. Provides solutions, not problems. Very happy with the work and will continue to work with Shreesoftic",
+                "rating": 4
+            },
+            {
+                "no": 5,
+                "img": "images/r5.jpg",
+                "name": "Farrukh Atabekov",
+                "line": "Full stack Web Development",
+                "detail": "Project run smoothly and delivered on time. I would put 6 stars if the response time is better.",
+                "rating": 4.5
+            },
+            {
+                "no": 6,
+                "img": "images/header-bg.jpg",
+                "name": "Valeria Albashiti",
+                "line": "UI/UX Prototype of Website & Mobile application",
+                "detail": "The team's UI/UX prototype for our website and mobile application was intuitive, visually appealing and exceeded our expectations.",
+                "rating": 5
+            }
+        ],
+        "service_contact_header": "Do you have any requirements to share with us?",
+        "service_contact_button": "Contact Us"
+    },
+    "condition": {
+        "title": "Terms and Conditions",
+        "description": "Shreesoftic maintains this Site for information about our product and services. Please feel free to browse the Site.",
+        "steps": [
+            {
+                "title": "Information We Collect",
+                "description": "Your access and use of the Site is also subject to the following terms and conditions and future revisions if any, (“Terms and Conditions”) and all applicable laws. By accessing and browsing the Site, you accept the Terms and Conditions below.",
+                "terms": [
+                    {
+                        "id": 1,
+                        "description": "The Site, and all the content, materials, information, software, products and services provided on the Site, are provided on an “as is” and “as available” basis. NISL expressly disclaims all warranties of any kind, whether express or implied, including, but not limited to, the implied warranty of merchantability, fitness for a particular purpose and non-infringement."
+                    },
+                    {
+                        "id": 2,
+                        "description": "The Content and the projects described or depicted on the Site are subject to change without notice. Copyright may exist on any future materials. Unauthorized recording of such materials would be contrary to applicable copyright laws."
+                    },
+                    {
+                        "id": 3,
+                        "description": "NISL assumes no responsibility, and shall not be liable for, any damages to, or viruses that may infect, your computer, equipment or other property on account of your access to, use of or browsing the Site or your downloading of any materials, data, text, images, video, or audio from the Site."
+                    },
+                    {
+                        "id": 4,
+                        "description": "Materials displayed on the Site are either the property of, or used with permission by NISL. The use of these materials by you or anyone else authorized by you is prohibited unless expressly permitted by these Terms and Conditions or express written permission is obtained from NISL. Any unauthorized use of the images may violate copyright laws, trademark laws, the laws of privacy and publicity."
+                    },
+                    {
+                        "id": 5,
+                        "description": "NISL is not responsible for the content of any other site linked to or from the Site. Your linking to any other site/sites is entirely at your own risk. While NISL may provide links on the Site to other sites, the inclusion of such links is only for your convenience and should not be interpreted as an endorsement of the owner/sponsor of the site or the content on the other site/s. Subject to the Non-Excludable Rights (above), NISL disclaims all warranties, express and implied, as to the accuracy, validity, legality or otherwise of any materials or information contained on such sites."
+                    },
+                    {
+                        "id": 6,
+                        "description": "You are prohibited from posting or transmitting any unlawful, threatening, harassing, defamatory, libelous, obscene, pornographic or profane material or any material that could constitute or encourage conduct that would be considered a criminal offense or give rise to civil liability or otherwise violate any law."
+                    },
+                    {
+                        "id": 7,
+                        "description": "NISL may at any time revise these Terms and Conditions by updating this post. Since you are bound by these Terms and conditions, please visit this page regularly to learn about the revised Terms and Conditions if any."
+                    }
+                ]
+            }
+        ]
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "subtitle": "Thank you for choosing to be part of our community at Shreesoftic (“Company”, “we”, “us”, “our”). We are committed to protecting your personal information and your right to privacy.",
+        "privacy_details": "If you have any questions or concerns about this privacy notice or our practices with regards to your personal information, please contact us at ",
+        "email": "contact@shreesoftic.com",
+        "link": "When you visit our website ",
+        "shresoftic": "www.shreesoftic.com",
+        "shresoftic_after": " (the “Website”), and more generally, use any of our services (the “Services”, which include the Website), we appreciate that you are trusting us with your personal information.",
+        "p1": "We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it.",
+        "p2": "We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue the use of our services immediately.",
+        "p3": "This privacy notice applies to all information collected through our Services (which, as described above, includes our Website), as well as, any related services, sales, marketing, or events. Please read this privacy notice carefully to help you understand what we do with the information we collect.",
+        "title1": "1. What information do we collect?",
+        "description1": "The personal information you disclose to us. In Short: We collect personal information that you provide to us. We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services when you participate in activities on the Website or otherwise when you contact us.",
+        "description2": "The personal information that we collect depends on the context of your interactions with us and the Website, the choices you make, and the products and features you use. The personal information we collect may include the following:",
+        "header": "Personal Information Provided by You.",
+        "description3": "We collect names; phone numbers; email addresses; mailing addresses; and other similar information.",
+        "description4": "All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.",
+        "title2": "Automatically Collected Information",
+        "description21": "Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our website. We automatically collect certain information when you visit, use, or navigate the website. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our website, and other technical information. This information is primarily needed to maintain the security and operation of our website and for our internal analytics and reporting purposes.",
+        "description22": "Like many businesses, we also collect information through cookies and similar technologies.",
+        "header2": "The information we collect includes:",
+        "subheader2": "Log and Usage Data",
+        "description23": "Log and usage data are service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our website, which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings, and information about your activity on the website (such as the date/time stamps associated with your usage, pages, and files viewed, searches, and other actions you take, such as which features you use), device event information (such as system activity, error reports (sometimes called 'crash dumps'), and hardware settings).",
+        "title22": "Device Data",
+        "description24": "We collect device data such as information about your computer, phone, tablet, or other devices you use to access the website. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.",
+        "title23": "Location Data",
+        "description25": "We collect location data such as information about your device’s location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the website. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt-out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device.",
+        "note": "Note: however, if you choose to opt-out, you may not be able to use certain aspects of the services.",
+        "steps": [
+            {
+                "title": "2. How do we use your information?",
+                "paragraphs": [
+                    "We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent. We use personal information collected via our Website for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.",
+                    "To send administrative information to you. We may use your personal information to send you a product, service, and new feature information, and/or information about changes to our terms, conditions, and policies.",
+                    "To protect our Services. We may use your information as part of our efforts to keep our Website safe and secure (for example, for fraud monitoring and prevention).",
+                    "To enforce our terms, conditions, and policies for business purposes, comply with legal and regulatory requirements, or connect with our contract.",
+                    "To respond to legal requests and prevent harm. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.",
+                    "To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our Website, subscribing to marketing, or otherwise contacting us, we will collect personal information from you.",
+                    "You can opt out of our marketing emails at any time (see the “WHAT ARE YOUR PRIVACY RIGHTS?” below).",
+                    "Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness."
+                ]
+            },
+            {
+                "title": "3. Will your information be shared with anyone?",
+                "paragraphs": [
+                    "We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.",
+                    "We may process or share your data that we hold based on the following legal basis:",
+                    "Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.",
+                    "Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.",
+                    "Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.",
+                    "Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal processes, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).",
+                    "Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.",
+                    "More specifically, we may need to process your data or share your personal information in the following situations:",
+                    "Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company."
+                ]
+            }
+        ],
+        "steps1": [
+            {
+                "title": "4. Do we use cookies and other tracking technologies?",
+                "paragraphs": [
+                    "We may use cookies and other tracking technologies to collect and store your information.",
+                    "We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice."
+                ]
+            },
+            {
+                "title": "5. How long do we keep your information?",
+                "paragraphs": [
+                    "We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.",
+                    "We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us to keep your personal information for longer than 2 years."
+                ]
+            },
+            {
+                "title": "6. How do we keep your information safe?",
+                "paragraphs": [
+                    "We aim to protect your personal information through a system of organizational and technical security measures.",
+                    "We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security, and improperly collect, access, steal, or modify your information.",
+                    "Although we will do our best to protect your personal information, the transmission of personal information to and from our Website is at your own risk. You should only access the Website within a secure environment."
+                ]
+            },
+            {
+                "title": "7. Do we collect information from minors?",
+                "paragraphs": [
+                    "We do not knowingly solicit data from or market to children under 18 years of age. By using the Website, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Website. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at info[.at.]shreesoftic[.dot.]email."
+                ]
+            },
+            {
+                "title": "8. What are your privacy rights?",
+                "paragraphs": [
+                    "In some regions, such as the European Economic Area (EEA) and United Kingdom (UK), you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.",
+                    "In some regions (like the EEA and UK), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details provided below. We will consider and act upon any request in accordance with applicable data protection laws.",
+                    "If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.",
+                    "If you are a resident in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: National Data Protection Authorities."
+                ]
+            },
+            {
+                "title": "9. Controls for do-not-track features",
+                "paragraphs": [
+                    "Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized.",
+                    "As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice."
+                ]
+            },
+            {
+                "title": "10. Do we make updates to this notice?",
+                "paragraphs": [
+                    "Yes, we will update this notice as necessary to stay compliant with relevant laws.",
+                    "We may update this privacy notice from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information."
+                ]
+            },
+            {
+                "title": "11. How can you contact us about this notice?",
+                "paragraphs": [
+                    "If you have questions or comments about this notice, you may email us at contact@shreesoftic.com.",
+                    "Shreesoftic",
+                    "4th floor, 20, Shree Nilkanth Business hub",
+                    "Causeway Rd, opp. D-Mart,",
+                    "Katargam, Surat, Gujarat 395004."
+                ]
+            },
+            {
+                "title": "3. Will your information be shared with anyone?",
+                "paragraphs": [
+                    "We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.",
+                    "We may process or share your data that we hold based on the following legal basis:",
+                    "Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.",
+                    "Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.",
+                    "Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.",
+                    "Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal processes, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).",
+                    "Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.",
+                    "More specifically, we may need to process your data or share your personal information in the following situations:",
+                    "Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company."
+                ]
+            }
+        ]
+    }
+}

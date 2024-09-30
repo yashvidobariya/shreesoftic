@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "number": "20",
+        "plus": "+",
+        "title": "Happy Clients",
+        "description": "Our company has consistently received positive feedback from over 20 satisfied clients who have benefited from our high-quality services and results."
+    },
+    {
+        "id": 2,
+        "number": "50",
+        "plus": "+",
+        "title": "Projects",
+        "description": "With over 50 completed projects under our belt, our team has a wealth of experience and expertise in delivering best-in-class solutions for our clients."
+    },
+    {
+        "id": 3,
+        "number": "10",
+        "plus": "+",
+        "title": "Expert Team Members",
+        "description": "Our company is proud to have a team of 10+ skilled professionals who are dedicated to providing the best possible support and outcomes for our clients."
+    }
+]

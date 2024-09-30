@@ -1,0 +1,676 @@
+{
+    "shreesoftic": "shreesoftic",
+    "header": {
+        "home": "首页",
+        "about_us": "关于我们",
+        "services": "服务",
+        "career": "职业",
+        "contact_us": "联系我们"
+    },
+    "home": {
+        "title": "欢迎来到 Shreesoftic",
+        "description": "欢迎来到 Shreesoftic，一家领先的信息技术公司，专注于移动应用和网站开发。我们的开发团队经验丰富，热衷于创造创新和直观的解决方案，帮助企业成功。我们以为客户提供高质量的产品和服务而感到自豪。无论您需要定制的移动应用程序还是完整的网站，我们都有专业知识和资源来实现。请立即联系我们，了解我们如何帮助您的企业迈向新的高度。",
+        "cta_button": "立即联系我们",
+        "data": {
+            "for business": "为企业",
+            "to sell online": "在线销售",
+            "for your ideas": "为您的想法"
+        }
+    },
+    "workflow": {
+        "header": "一流的服务",
+        "subheader": "我们的流程",
+        "steps": [
+            {
+                "id": 1,
+                "number": "01",
+                "icon": "Images/w1.png",
+                "title": "概念化",
+                "description": "与我们的团队合作，开发适合您商业目标的创新想法。"
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "icon": "Images/w2.png",
+                "title": "设计与编码",
+                "description": "我们的专家设计和开发以用户为中心的解决方案，优先考虑体验和功能。"
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "icon": "Images/w3.png",
+                "title": "质量保证",
+                "description": "我们进行严格测试，以确保您的解决方案可靠、安全并无缝运行。"
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "icon": "Images/w4.png",
+                "title": "上线及后续支持",
+                "description": "我们成功启动您的项目，并提供持续支持，以确保最佳性能。"
+            }
+        ]
+    },
+    "service": {
+        "header": "我们的专长",
+        "subheader": "在 Shreesoftic，我们提供全面的数字解决方案，旨在提升您的业务。从尖端的网页开发到直观的移动应用，我们的专家团队在每个阶段都确保卓越表现。",
+        "steps": [
+            {
+                "id": 1,
+                "icon": "RiComputerLine",
+                "title": "网站开发",
+                "description": "构建动态且可扩展的网站，吸引并转化用户。我们的网站开发服务提供有影响力的在线体验。"
+            },
+            {
+                "id": 2,
+                "icon": "RiAppleFill",
+                "title": "iPhone 和 iPad 應用程式",
+                "description": "与 Shreesoftic 一起开发出色的 iOS 应用程序。我们的设计和编程专业知识确保 iPhone 和 iPad 和 iPad 上的功能无缝且视觉效果惊人。"
+            },
+            {
+                "id": 3,
+                "icon": "TiVendorAndroid",
+                "title": "安卓应用程序",
+                "description": "构建动态且可扩展的网站，吸引并转化用户。我们的网站开发服务提供有影响力的在线体验。"
+            },
+            {
+                "id": 4,
+                "icon": "SiAltiumdesigner",
+                "title": "使用者介面/使用者體驗設計",
+                "description": "通过我们的 UI/UX 设计专业知识，转变您的数字界面。我们专注于用户研究、测试和前端开发，打造直观且吸引用户的体验。"
+            }
+        ]
+    },
+    "team": {
+        "header": "为什么选择 Shreesoftic？",
+        "subheader": "通过顶级 IT 解决方案助力您的成功！",
+        "description": "我们在按时且在预算内交付高质量项目方面有着良好的记录。我们的团队精通多种编程语言和框架，包括 Java、Kotlin、Swift、React/React Native、Flutter 和 Angular。我们在数据库设计、云计算和敏捷开发方法方面拥有丰富的经验，能够处理从简单网站到复杂移动应用的任何项目。与我们合作，将您的愿景变为现实。今天就联系我们，了解我们的服务如何帮助您的企业在数字世界中蓬勃发展。",
+        "steps": [
+            {
+                "id": 1,
+                "number": "20",
+                "plus": "+",
+                "title": "满意客户",
+                "description": "我们公司已经收到了来自 20 多位满意客户的正面反馈，他们都从我们的高质量服务和成果中受益。"
+            },
+            {
+                "id": 2,
+                "number": "50",
+                "plus": "+",
+                "title": "项目",
+                "description": "我们团队已经完成了超过 50 个项目，拥有丰富的经验和专业知识，能够为客户提供一流的解决方案。"
+            },
+            {
+                "id": 3,
+                "number": "10",
+                "plus": "+",
+                "title": "专家团队成员",
+                "description": "我们公司拥有超过 10 名专业人才，他们致力于为客户提供最佳支持和成果。"
+            }
+        ]
+    },
+    "portfolio": {
+        "header": "我们的作品集",
+        "subheader": "多样化的成就",
+        "button": "了解更多",
+        "steps": [
+            {
+                "id": 1,
+                "image": "/Images/p1.svg",
+                "title": "结果健康生活方式",
+                "description": "电子商务与健身网站",
+                "info": "RWL（结果健康生活方式）是一个健身和健康平台，提供按需家庭锻炼、个性化膳食计划和专家指导。它提供各种锻炼程序，包括力量、心肺、瑜伽和舞蹈，以及可定制的营养计划和社区支持，帮助用户实现健康和健身目标。",
+                "technology": "Reactjs，Nodejs",
+                "type": ""
+            },
+            {
+                "id": 2,
+                "image": "/Images/p5.svg",
+                "title": "中国晶圆厂",
+                "description": "工作寻找移动应用程序",
+                "info": "中国晶圆厂 是一个专为艺术与娱乐领域设计的求职和招聘移动应用程序。人们可以在此找到艺术家、画家、歌手等，其他人可以通过此应用程序发布需求并与他们联系。",
+                "technology": "React native，Nodejs",
+                "type": "求职者移动应用"
+            },
+            {
+                "id": 3,
+                "image": "/Images/p3.svg",
+                "title": "五人组",
+                "description": "原生移动应用",
+                "info": "五人组 是一个平台，用户可以发现并预订另类体验，主办方可以创建并提供策划体验。",
+                "technology": "iOS-Swift，Android-JAVA",
+                "type": "票务预订平台"
+            },
+            {
+                "id": 4,
+                "image": "/Images/p4.svg",
+                "title": "好图",
+                "description": "商业增长网站",
+                "info": "好图 是一个造型和购物平台，专为个人造型师创建可购物的造型板，数字化衣橱，并管理客户网站。它提供可定制的画册、私人客户网站和从推荐产品中赚取佣金的能力。GoodPix旨在通过组织良好的专业工具和资源简化造型过程，增强客户互动。",
+                "technology": "Angular，Node",
+                "type": "电子商务"
+            },
+            {
+                "id": 5,
+                "image": "/Images/portfolio-four.png",
+                "title": "基托夫",
+                "description": "食品配送应用",
+                "info": "犹太食品和杂货、比萨、鸡肉、沙威玛、寿司等直接送到您家！KEATOV直接为您提供来自您最喜欢的犹太餐厅的犹太食品。",
+                "technology": "Flutter，Nodejs",
+                "type": ""
+            },
+            {
+                "id": 6,
+                "image": "/Images/portfolio-five.png",
+                "title": "搜索引擎优化",
+                "description": "谷歌搜索优化和元排名",
+                "type": ""
+            }
+        ]
+    },
+    "contactus": {
+        "header": "与我们联系",
+        "subheader": "我们很高兴听到您的项目。今天就与我们联系，讨论如何将您的想法变为现实。",
+        "button": "联系我们"
+    },
+    "footer": {
+        "logo": {
+            "src": "/Images/footericon.png",
+            "alt": "footer-shreesoftic",
+            "width": 190
+        },
+        "aboutUs": {
+            "header": "关于我们",
+            "description": "在 Shreesoftic，我们帮助小型和中型企业提供创新的 IT 解决方案，以推动增长并确保可持续发展。我们致力于您的成功，并致力于提供卓越。"
+        },
+        "link": {
+            "home": "首页",
+            "about": "关于我们",
+            "service": "服务",
+            "career": "职业",
+            "contact": "联系我们"
+        },
+        "socialMedia": {
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/"
+        },
+        "quickLinks": {
+            "home": "/",
+            "aboutUs": "/aboutus",
+            "services": "/services",
+            "career": "/career",
+            "contactUs": "/contactus"
+        },
+        "contactUs": {
+            "email": "contact@shreesoftic.com",
+            "phoneNumber": "+91 97242 83087",
+            "address": "4th Floor, 20, Shree Nilkanth Business Centre, Causeway Road, Opposite. D-Mart, Katargam, Surat, Gujarat 395004."
+        },
+        "privacyPolicy": {
+            "url": "/privacy",
+            "text": "隐私政策"
+        },
+        "termsAndConditions": {
+            "url": "/condition",
+            "text": "条款和条件"
+        }
+    },
+    "aboutus": {
+        "header": "关于我们",
+        "subheader": "在 Shreesoftic，我们将创意转化为数字杰作。自成立以来，我们提供高质量的网页和移动开发服务。我们的专业团队利用最新技术，创建创新和可靠的解决方案，以满足您独特的需求。加入我们，共同踏上通往数字成功和显著增长的旅程。"
+    },
+    "contact": {
+        "header": "联系我们",
+        "subheader": "准备好将您的业务提升到新的水平了吗？今天就联系我们，了解我们的专业知识如何帮助您实现目标。我们的团队随时准备回答您的问题并提供所需的支持。",
+        "detail_header": "联系方式",
+        "details_subheader": "我们随时为您服务！通过以下任意方式联系我们，我们的团队将及时回复您。无论您对我们的服务有任何疑问还是需要支持，我们都随时准备帮助您。",
+        "form_header": "保持联系",
+        "form_subheader": "有问题或想讨论您的项目？给我们留言，我们会尽快回复您。",
+        "form_button": "发送信息",
+        "steps": [
+            {
+                "icon": "IoLocationSharp",
+                "heading": "访问我们的地址",
+                "content": "4楼, 20号, Shree Nilkanth 商业中心, Causeway 路, D-Mart 对面, Katargam, 苏拉特, 古吉拉特邦 395004."
+            },
+            {
+                "icon": "BiMailSend",
+                "heading": "给我们发送电子邮件",
+                "content": "contact@shreesoftic.com"
+            },
+            {
+                "icon": "TbPhoneCall",
+                "heading": "联系我们的项目团队",
+                "content": "+91 97242 83087"
+            }
+        ],
+        "firstname": "你的名字",
+        "email": "电子邮件地址",
+        "number": "电话号码",
+        "message": "写下您的消息"
+    },
+    "career": {
+        "join_title": "加入我们的团队",
+        "join_title_parent": " 并塑造未来",
+        "join_title_description": "在 Shreesoftic，我们热衷于创新和卓越。我们正在寻找有才华的个人加入我们的动态团队并为开创性项目做出贡献。如果您受到创造力的驱动，并在协作环境中茁壮成长，让我们一起建设未来。",
+        "header": "员工关怀",
+        "subheader": "在 Shreesoftic，我们相信我们的员工是我们最大的资产。我们致力于创建一个支持和丰富的环境，以促进成长、幸福和满意。探索我们为团队成员提供的独特福利。",
+        "work_title": "想为",
+        "work_title_parent": "Shreesoftic 工作吗？",
+        "work_subheader": "加入 Shreesoftic，将您的职业生涯提升到一个新的水平。我们正在寻找有才华、充满活力的个人成为我们创新团队的一部分。在 Shreesoftic，您将享受一系列福利，包括竞争力的薪水、职业晋升机会和积极的工作环境。我们提供灵活的工作时间、尖端的技术和支持团队文化。通过我们的培训计划体验职业成长，参与有影响力的项目，并与全球客户合作。享有慷慨的假期时间，并关注工作与生活的平衡，Shreesoftic 是雄心勃勃的专业人士的理想之地。",
+        "steps": [
+            {
+                "id": "1",
+                "title": "员工优先",
+                "description": "我们的员工优先。我们优先考虑他们的需求和福祉，确保健康的工作与生活平衡和支持性的工作文化。",
+                "icon": "PiUserSwitchLight"
+            },
+            {
+                "id": "2",
+                "title": "培训项目",
+                "description": "通过我们全面的培训项目，获得持续学习和发展机会，旨在提升您的技能和职业发展。",
+                "icon": "FcProcess"
+            },
+            {
+                "id": "3",
+                "title": "积极的工作环境",
+                "description": "享受协作和积极的工作环境，在这里您的贡献受到重视，您的职业成长得到培养。",
+                "icon": "PiHandshakeLight"
+            },
+            {
+                "id": "4",
+                "title": "节日庆祝活动",
+                "description": "加入我们，一起庆祝全年各个节日和活动，增强团队精神和社区感。",
+                "icon": "MdOutlineCelebration"
+            }
+        ]
+    },
+    "servicepage": {
+        "header": "我们的服务",
+        "subheader": "在Shreesoftic，我们提供全面的数字服务，旨在满足您独特的业务需求。我们的专家团队利用最新技术提供创新和可靠的解决方案。探索我们的服务范围，了解我们如何帮助您实现数字目标。",
+        "servicetitle": "探索我们的专业",
+        "seemore": "查看更多",
+        "client_title": "客户评价",
+        "process": "过程",
+        "our": "我们的",
+        "tech": "技术与工具",
+        "steps": [
+            {
+                "id": "1",
+                "title": "安卓开发",
+                "description": "开发高性能的安卓应用程序，量身定制以满足您的业务需求。我们的团队在创建直观且用户友好的Google Play商店应用程序方面表现出色。",
+                "icon": "TiVendorAndroid",
+                "image": "/Images/anroid.png",
+                "subtitle": "为什么选择Shreesoftic进行安卓开发？",
+                "info": "在Shreesoftic，我们专注于打造优质的安卓应用程序，以满足您的业务需求。我们经验丰富的开发团队将技术熟练与创意设计相结合，交付视觉吸引力强且功能完善的应用程序。",
+                "Technology": {
+                    "语言": "Java, Kotlin",
+                    "框架": "Android SDK, Retrofit, Dagger",
+                    "工具": "Android Studio, Firebase, Google Play Console, Gradle"
+                },
+                "Features": {
+                    "定制解决方案": "我们开发的安卓应用程序专为您的独特业务需求量身定制，确保完美符合您的目标。",
+                    "以用户为中心的设计": "我们的设计理念专注于创建直观且引人入胜的用户界面，提供卓越的用户体验。",
+                    "稳健的性能e": "我们的应用程序经过优化，确保快速加载时间和流畅的操作体验。",
+                    "安全": "我们重视安全性，保护用户数据并确保您的应用程序符合Google的指南。",
+                    "持续支持t": "我们的承诺并不止于发布。我们提供持续的维护和支持，以保持应用程序的顺畅运行，并与最新的安卓功能保持同步。"
+                },
+                "DevelopmentProcess": {
+                    "发现与规划": "我们通过了解您的愿景和需求来开始。这涉及详细讨论，以定义应用程序的功能和目标。",
+                    "设计": "我们的设计团队创建线框图和模型，确保应用程序用户友好且视觉吸引力强。",
+                    "发展": "我们经验丰富的开发人员将设计付诸实践，使用最新技术和最佳实践进行编码。",
+                    "测试": "进行严格的测试，以识别和修复任何问题，确保应用程序无错误且性能完美。",
+                    "部署": "一旦获得批准，我们将在Google Play商店发布应用程序，并监测其性能以确保成功发布。",
+                    "维护与更新": "我们提供持续支持和更新，以保持您的应用程序最新并正常运行。"
+                }
+            },
+            {
+                "id": "2",
+                "title": "iPhone开发",
+                "description": "创建卓越的iOS应用程序，具有惊人的设计和无缝的功能。我们在iPhone开发方面的专业知识确保在Apple设备上的优质用户体验。",
+                "icon": "RiAppleFill",
+                "image": "/Images/iphone.png",
+                "subtitle": "为什么选择Shreesoftic进行iPhone开发？",
+                "info": "在Shreesoftic，我们专注于打造优质的iPhone应用程序，以满足您的业务需求。我们经验丰富的开发团队将技术熟练与创意设计相结合，交付视觉吸引力强且功能完善的应用程序。",
+                "Technology": {
+                    "语言": "Swift, Objective-C",
+                    "框架": "UIKit, SwiftUI, CoreData, Combine",
+                    "工具": "TestFlight, Firebase, Cocoapods, Fastlane"
+                },
+                "Features": {
+                    "定制解决方案": "我们开发的iOS应用程序专为您的独特业务需求量身定制，确保完美符合您的目标。",
+                    "以用户为中心的设计": "我们的设计理念专注于创建直观且引人入胜的用户界面，提供卓越的用户体验。",
+                    "稳健的性能": "我们的应用程序经过优化，确保在所有iPhone型号上的快速加载时间和流畅操作。",
+                    "安全": "我们重视安全性，保护用户数据并确保您的应用程序符合Apple的严格指南。",
+                    "持续支持": "我们的承诺并不止于发布。我们提供持续的维护和支持，以保持应用程序的顺畅运行，并与最新的iOS功能保持同步。"
+                },
+                "DevelopmentProcess": {
+                    "发现规划": "我们通过了解您的愿景和需求来开始。这涉及详细讨论，以定义应用程序的功能和目标。",
+                    "设计": "我们的设计团队创建线框图和模型，确保应用程序用户友好且视觉吸引力强。",
+                    "发展": "我们的经验丰富的开发人员将设计付诸实践，使用最新技术和最佳实践进行编码。",
+                    "测试": "进行严格的测试，以识别和修复任何问题，确保应用程序无错误且性能完美。",
+                    "部署": "一旦获得批准，我们将在Apple App Store发布应用程序，并监测其性能以确保成功发布。",
+                    "维护更新": "我们提供持续支持和更新，以保持您的应用程序最新并正常运行。"
+                }
+            },
+            {
+                "id": "3",
+                "title": "网站开发",
+                "description": "构建动态和可扩展的网站，吸引并转化用户。我们的网页开发服务提供量身定制的影响力在线体验，符合您的品牌。",
+                "icon": "RiComputerLine",
+                "image": "/Images/web.png",
+                "subtitle": "为什么选择Shreesoftic进行网站开发？",
+                "info": "在Shreesoftic，我们专注于打造优质的网站，以满足您的业务需求。我们经验丰富的开发团队将技术熟练与创意设计相结合，交付视觉吸引力强且功能完善的网站。",
+                "Technology": {
+                    "语言": "HTML, CSS, JavaScript, PHP, Python, Ruby",
+                    "框架": "React, Angular, Vue.js, Django, Flask, Ruby on Rails",
+                    "内容管理系统": "WordPress, Joomla, Drupal",
+                    "电子商务": "WooCommerce, Shopify, Magento",
+                    "工具": "Git, Webpack, npm, Docker, AWS, Azure, Google Cloud"
+                },
+                "Features": {
+                    "定制解决方案": "我们开发的网站专为您的独特业务需求量身定制，确保完美符合您的目标。",
+                    "以用户为中心的DES IGn": "我们的设计理念专注于创建直观且引人入胜的用户界面，提供卓越的用户体验。",
+                    "稳健的性能": "我们的网站经过优化，确保快速加载时间和流畅的操作体验。",
+                    "安全": "我们重视安全性，保护您的数据并确保您的网站符合最新标准。",
+                    "持续支持": "我们的承诺并不止于发布。我们提供持续的维护和支持，以保持网站的顺畅运行，并与最新趋势保持同步。"
+                },
+                "DevelopmentProcess": {
+                    "发现与规划": "我们通过了解您的愿景和需求来开始。这涉及详细讨论，以定义网站的功能和目标。",
+                    "设计": "我们的设计团队创建线框图和模型，确保网站用户友好且视觉吸引力强。",
+                    "发展": "我们的经验丰富的开发人员将设计付诸实践，使用最新技术和最佳实践进行编码。",
+                    "测试": "进行严格的测试，以识别和修复任何问题，确保网站无错误且性能完美。",
+                    "部署": "一旦获得批准，我们发布网站并监测其性能以确保成功发布。",
+                    "维护与更新": "我们提供持续支持和更新，以保持您的网站最新并正常运行。"
+                }
+            },
+            {
+                "id": "4",
+                "title": "UI/UX与图形设计",
+                "description": "通过我们的专家UI/UX和图形设计服务提升您的数字形象。我们专注于以用户为中心的设计，创建视觉吸引力强且直观的界面。",
+                "icon": "SiAntdesign",
+                "image": "/Images/ui-ux.png",
+                "subtitle": "为什么选择Shreesoftic进行UI/UX与图形设计？",
+                "info": "在Shreesoftic，我们专注于打造优质的UI/UX设计，以满足您的业务需求。我们经验丰富的设计团队将创意设计与以用户为中心的原则相结合，交付视觉吸引力强且功能完善的界面。",
+                "Technology": {
+                    "设计工具": "Adobe XD, Sketch, Figma, InVision, Adobe Photoshop, Adobe Illustrator",
+                    "原型制作": "Marvel, Axure RP",
+                    "测试": "UserTesting, Hotjar, Optimizely"
+                },
+                "Features": {
+                    "定制解决方案": "我们设计的界面专为您的独特业务需求量身定制，确保完美符合您的目标。",
+                    "以用户为中心的设计": "我们的设计理念专注于创建直观且引人入胜的用户界面，提供卓越的用户体验。",
+                    "视觉吸引力": "我们确保在所有平台和设备上的一致性，提供无缝的用户体验。",
+                    "一致性": "我们确保在所有平台和设备上的一致性，提供无缝的用户体验。",
+                    "持续支持": "我们的承诺并不止于发布。我们提供持续的维护和支持，以保持设计的新鲜感，并与最新趋势保持同步。"
+                },
+                "DevelopmentProcess": {
+                    "发现与规划": "我们通过了解您的愿景和需求来开始。这涉及详细讨论，以定义设计的功能和目标。",
+                    "设计": "我们的设计团队创建线框图和模型，确保设计用户友好且视觉吸引力强。",
+                    "反馈": "我们将设计展示给您并进行修改，以确保满足您的期望。",
+                    "原型制作": "创建原型以测试用户体验，并根据反馈进行调整。",
+                    "测试": "进行严格的测试，以识别和修复任何问题，确保设计无错误且性能完美。",
+                    "最终交付": "一旦获得批准，我们将交付最终设计，并提供实施支持。"
+                }
+            },
+            {
+                "id": "5",
+                "title": "搜索引擎优化与数字营销",
+                "description": "通过我们的搜索引擎优化和数字营销服务，提高您的在线可见性并吸引目标流量。我们采用最新策略，以确保您的品牌脱颖而出。",
+                "icon": "FaFileInvoiceDollar",
+                "image": "/Images/marketing.png",
+                "subtitle": "为什么选择 Shreesoftic 进行搜索引擎优化和数字营销？",
+                "info": "在Shreesoftic，我们专注于制定高质量的搜索引擎优化和数字营销策略，以满足您的业务需求。我们经验丰富的团队将技术能力与创意策略结合起来，提供不仅有效而且高度吸引人的广告活动。",
+                "Technology": {
+                    "搜索引擎优化工具": "谷歌分析、谷歌搜索控制台、SEMrush、Ahrefs、Moz",
+                    "内容管理": "WordPress、HubSpot、Joomla",
+                    "营销自动化": "Mailchimp、HubSpot、Marketo",
+                    "社交媒体管理": "Hootsuite、Buffer、Sprout Social",
+                    "广告": "谷歌广告、Facebook广告、LinkedIn广告、Twitter广告"
+                },
+                "Features": {
+                    "定制解决方案": "我们开发的搜索引擎优化和数字营销策略是针对您独特的业务需求量身定制的，确保与您的目标完美一致。",
+                    "数据驱动方法": "我们的策略基于数据和分析，确保有效且可衡量的结果。",
+                    "内容卓越": "我们创建高质量的内容，吸引您的受众并增强您品牌的在线存在感。",
+                    "技术专长": "我们的团队精通最新的搜索引擎优化技术和数字营销工具，以确保您的成功。",
+                    "持续支持": "我们的承诺不仅限于活动启动。我们提供持续的监控和优化，以保持您的策略有效且与时俱进。"
+                },
+                "DevelopmentProcess": {
+                    "发现与规划": "我们从了解您的愿景和需求开始。这涉及详细讨论，以定义活动的目标和目标受众。",
+                    "研究与分析": "我们的团队进行全面的研究和分析，以制定有效的策略。",
+                    "策略发展": "我们制定一项综合的搜索引擎优化和数字营销计划，以满足您的业务需求。",
+                    "执行": "我们的专业团队使用最新的工具和技术实施策略。",
+                    "监控与优化": "进行严格的监控，以跟踪活动的表现，并持续优化以确保成功。",
+                    "报告": "我们提供关于活动进展和结果的详细报告，以确保透明度和问责制。"
+                }
+            }
+        ],
+        "review": [
+            {
+                "no": 1,
+                "img": "images/r1.jpg",
+                "name": "Ron Mears",
+                "line": "移动应用程序",
+                "detail": "Shreesoftic 始终按时按预算交付高质量、用户友好的应用程序。",
+                "rating": 5
+            },
+            {
+                "no": 2,
+                "img": "images/r3.jpg",
+                "name": "Fraer Booth",
+                "line": "网页开发",
+                "detail": "Shreesoftic 团队擅长创建视觉吸引力和功能性兼备的网站，满足客户的需求和目标，且准时交付。",
+                "rating": 5
+            },
+            {
+                "no": 3,
+                "img": "images/r2.jpg",
+                "name": "Heuy Freeman",
+                "line": "Frete 移动应用程序",
+                "detail": "Shreesoftic 开发的物流配送移动应用程序 Frete 优化了我们的运营，提升了客户满意度，超出了我们的期望。",
+                "rating": 4.5
+            },
+            {
+                "no": 4,
+                "img": "images/r4.jpg",
+                "name": "Gabriel Musiello",
+                "line": "TrakMD - 医生/患者平台",
+                "detail": "良好的沟通和高效的开发。提供解决方案，而不是问题。对这项工作非常满意，并将继续与 Shreesoftic 合作。",
+                "rating": 4
+            },
+            {
+                "no": 5,
+                "img": "images/r5.jpg",
+                "name": "Farrukh Atabekov",
+                "line": "全栈网页开发",
+                "detail": "项目顺利进行并按时交付。如果响应时间更好，我会给 6 星。",
+                "rating": 4.5
+            },
+            {
+                "no": 6,
+                "img": "images/header-bg.jpg",
+                "name": "Valeria Albashiti",
+                "line": "网站和移动应用程序的 UI/UX 原型",
+                "detail": "团队为我们的网站和移动应用程序制作的 UI/UX 原型直观、视觉吸引力强，超出了我们的期望。",
+                "rating": 5
+            }
+        ],
+        "service_contact_header": "您有什么需求要与我们分享吗？",
+        "service_contact_button": "联系我们"
+    },
+    "condition": {
+        "title": "条款和条件",
+        "description": "Shreesoftic 保留此网站用于提供我们产品和服务的信息。请随意浏览该网站。",
+        "steps": [
+            {
+                "title": "我们收集的信息",
+                "description": "您对本网站的访问和使用还受以下条款和条件及未来可能的修订（“条款和条件”）以及所有适用法律的约束。通过访问和浏览本网站，您接受以下条款和条件。",
+                "terms": [
+                    {
+                        "id": 1,
+                        "description": "本网站以及网站上提供的所有内容、材料、信息、软件、产品和服务均以“现状”和“可用”基础提供。NISL 明确表示不提供任何类型的担保，无论是明示还是暗示的，包括但不限于适销性、特定用途的适用性和不侵犯的暗示担保。"
+                    },
+                    {
+                        "id": 2,
+                        "description": "本网站上描述或描绘的内容和项目如有更改，恕不另行通知。未来的材料可能存在版权。未经授权录制此类材料将违反适用的版权法。"
+                    },
+                    {
+                        "id": 3,
+                        "description": "NISL 对任何因您访问、使用或浏览本网站，或因您从本网站下载任何材料、数据、文本、图片、视频或音频而导致的任何损害或病毒不承担责任，且不对您的电脑、设备或其他财产造成的任何损害或病毒负责。"
+                    },
+                    {
+                        "id": 4,
+                        "description": "网站上展示的材料要么是 NISL 所有，要么是经许可使用的。除非这些条款和条件或 NISL 以书面形式明确允许，否则禁止您或任何其他授权人员使用这些材料。任何未经授权使用图像的行为可能会违反版权法、商标法、隐私和宣传法。"
+                    },
+                    {
+                        "id": 5,
+                        "description": "NISL 不对任何链接至本网站或从本网站链接的其他网站的内容负责。您链接到任何其他网站的行为完全由您自己承担风险。虽然 NISL 可能在本网站上提供指向其他网站的链接，但此类链接仅为您的方便而提供，不应被解释为对网站所有者/赞助商或其他网站内容的认可。在不排除的权利（如上所述）的前提下，NISL 对任何此类网站上包含的材料或信息的准确性、合法性或其他方面的所有明示和暗示担保不承担责任。"
+                    },
+                    {
+                        "id": 6,
+                        "description": "禁止您发布或传输任何非法、威胁、骚扰、诽谤、诋毁、淫秽、色情或亵渎的材料，或任何可能构成犯罪行为、引起民事责任或以其他方式违反任何法律的材料。"
+                    },
+                    {
+                        "id": 7,
+                        "description": "NISL 可以随时通过更新此帖子来修订这些条款和条件。由于您受这些条款和条件的约束，请定期访问此页面以了解任何修订后的条款和条件。"
+                    }
+                ]
+            }
+        ]
+    },
+    "privacy": {
+        "title": "隐私政策",
+        "subtitle": "感谢您选择成为我们Shreesoftic社区的一部分（“公司”，“我们”，“我们的”）。我们致力于保护您的个人信息和隐私权。",
+        "privacy_details": "如果您对本隐私声明或我们处理您的个人信息的做法有任何问题或担忧，请通过以下方式与我们联系：",
+        "email": "contact@shreesoftic.com",
+        "link": "当您访问我们的网站时 ",
+        "shresoftic": "www.shreesoftic.com",
+        "shresoftic_after": "（“网站”），以及更一般地使用我们的任何服务（“服务”，包括网站），我们感谢您信任我们处理您的个人信息。",
+        "p1": "我们非常重视您的隐私。在本隐私声明中，我们试图以最清晰的方式向您解释我们收集了哪些信息、如何使用这些信息以及您在这方面的权利。",
+        "p2": "我们希望您能花一些时间仔细阅读，因为这很重要。如果您不同意本隐私声明中的任何条款，请立即停止使用我们的服务。",
+        "p3": "本隐私声明适用于通过我们的服务（如上所述，包括我们的网站）收集的所有信息，以及任何相关服务、销售、营销或活动。请仔细阅读本隐私声明，以帮助您了解我们如何处理所收集的信息。",
+        "title1": "1. 我们收集哪些信息？",
+        "description1": "您向我们披露的个人信息。简而言之：我们收集您提供的个人信息。当您对获取有关我们或我们的产品和服务的信息感兴趣时、在网站上参与活动时或通过其他方式与我们联系时，我们会收集您自愿提供的个人信息。",
+        "description2": "我们收集的个人信息取决于您与我们和网站的互动背景、您做出的选择以及您使用的产品和功能。我们收集的个人信息可能包括以下内容：",
+        "header": "您提供的个人信息。",
+        "description3": "我们收集姓名、电话号码、电子邮件地址、邮寄地址及其他类似信息。",
+        "description4": "您提供的所有个人信息必须真实、完整且准确，您必须通知我们任何此类个人信息的更改。",
+        "title2": "自动收集的信息",
+        "description21": "当您访问我们的网站时，一些信息（例如您的互联网协议 (IP) 地址和/或浏览器及设备特征）会被自动收集。当您访问、使用或浏览我们的网站时，我们会自动收集某些信息。这些信息不会透露您的具体身份（例如您的姓名或联系方式），但可能包括设备和使用信息，例如您的 IP 地址、浏览器和设备特征、操作系统、语言偏好、推荐 URL、设备名称、国家/地区、位置、您如何以及何时使用我们网站的相关信息以及其他技术信息。这些信息主要用于维护我们网站的安全性和正常运行，以及用于我们内部的分析和报告。",
+        "description22": "像许多企业一样，我们也通过 cookies 和类似技术收集信息。",
+        "header2": "我们收集的信息包括：",
+        "subheader2": "日志和使用数据",
+        "description23": "日志和使用数据是我们服务器在您访问或使用我们网站时自动收集的服务相关、诊断、使用和性能信息，并记录在日志文件中。根据您与我们的互动方式，日志数据可能包括您的 IP 地址、设备信息、浏览器类型和设置、您在网站上的活动信息（例如与您使用相关的日期/时间戳、查看的页面和文件、搜索以及您采取的其他操作，例如您使用的功能）、设备事件信息（例如系统活动、错误报告（有时称为‘崩溃日志’）和硬件设置）。",
+        "title22": "设备数据",
+        "description24": "我们收集设备数据，例如您用于访问网站的计算机、手机、平板电脑或其他设备的信息。根据所使用的设备，设备数据可能包括例如您的 IP 地址（或代理服务器）、设备和应用程序标识号、位置、浏览器类型、硬件型号、互联网服务提供商和/或移动运营商、操作系统和系统配置信息。",
+        "title23": "位置数据",
+        "description25": "我们收集位置数据，例如您设备的位置信息，可以是精确的或不精确的。我们收集多少信息取决于您使用设备的类型和设置。例如，我们可能使用 GPS 和其他技术来收集地理位置信息，告知我们您的当前位置（基于您的 IP 地址）。您可以通过拒绝访问这些信息或禁用设备的位置信息设置来选择不允许我们收集这些信息。",
+        "note": "注意：如果您选择退出，您可能无法使用某些服务功能。",
+        "steps": [
+            {
+                "title": "2. 我们如何使用您的信息？",
+                "paragraphs": [
+                    "我们基于合法商业利益、履行与您的合同、遵守法律义务和/或您的同意来处理您的信息。我们通过我们的网站收集的个人信息用于以下描述的各种商业目的。我们基于合法商业利益与您签订或履行合同、您的同意和/或遵守法律义务来处理您的个人信息。我们在下面列出的每个目的旁边指明我们所依赖的具体处理依据。",
+                    "向您发送管理信息。我们可能会使用您的个人信息向您发送有关产品、服务和新功能的信息，以及/或有关我们条款、条件和政策变更的信息。",
+                    "保护我们的服务。我们可能会使用您的信息作为我们保持网站安全的一部分（例如，进行欺诈监测和预防）。",
+                    "为商业目的执行我们的条款、条件和政策，遵守法律和监管要求，或与我们的合同进行联系。",
+                    "回应法律请求并防止损害。如果我们收到传票或其他法律请求，我们可能需要检查我们持有的数据以确定如何回应。",
+                    "向您发送营销和促销通讯。我们和/或我们的第三方营销合作伙伴可能会根据您的营销偏好使用您发送给我们的个人信息。例如，当您表示对获取有关我们或我们网站的信息感兴趣、订阅营销或以其他方式联系我们时，我们将收集您的个人信息。",
+                    "您可以随时选择退出我们的营销电子邮件（请参见下面的“您的隐私权是什么？”）。",
+                    "向您提供定向广告。我们可能会使用您的信息开发和展示个性化内容和广告（并与这样做的第三方合作），根据您的兴趣和/或位置进行定制，并测量其效果。"
+                ]
+            },
+            {
+                "title": "3. 您的信息会与任何人共享吗？",
+                "paragraphs": [
+                    "我们只在您的同意下、遵守法律、为您提供服务、保护您的权利或履行商业义务时共享信息。",
+                    "我们可能根据以下法律依据处理或共享我们持有的数据：",
+                    "同意：如果您已明确同意我们为特定目的使用您的个人信息，我们可能会处理您的数据。",
+                    "合法利益：当合理必要时，我们可能会处理您的数据以实现我们的合法商业利益。",
+                    "合同履行：如果我们与您签订了合同，我们可能会处理您的个人信息以履行合同的条款。",
+                    "法律义务：我们可能在法律要求的情况下披露您的信息，以遵守适用法律、政府请求、法律程序、法庭命令或法律程序，例如响应法庭命令或传票（包括响应公共当局以满足国家安全或执法要求）。",
+                    "重大利益：我们可能在认为有必要调查、预防或采取行动以应对对我们政策的潜在违反、涉嫌欺诈、涉及对任何人安全的潜在威胁和非法活动的情况，或者作为我们参与的诉讼中的证据时披露您的信息。",
+                    "更具体地说，我们可能需要在以下情况下处理您的数据或共享您的个人信息：",
+                    "业务转让。我们可能会在与任何合并、公司资产的出售、融资或收购我们全部或部分业务的谈判中共享或转让您的信息。"
+                ]
+            }
+        ],
+        "steps1": [
+            {
+                "title": "4. Do we use cookies and other tracking technologies?",
+                "paragraphs": [
+                    "We may use cookies and other tracking technologies to collect and store your information.",
+                    "We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice."
+                ]
+            },
+            {
+                "title": "5. How long do we keep your information?",
+                "paragraphs": [
+                    "We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.",
+                    "We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us to keep your personal information for longer than 2 years."
+                ]
+            },
+            {
+                "title": "6. How do we keep your information safe?",
+                "paragraphs": [
+                    "We aim to protect your personal information through a system of organizational and technical security measures.",
+                    "We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security, and improperly collect, access, steal, or modify your information.",
+                    "Although we will do our best to protect your personal information, the transmission of personal information to and from our Website is at your own risk. You should only access the Website within a secure environment."
+                ]
+            },
+            {
+                "title": "7. Do we collect information from minors?",
+                "paragraphs": [
+                    "We do not knowingly solicit data from or market to children under 18 years of age. By using the Website, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Website. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at info[.at.]shreesoftic[.dot.]email."
+                ]
+            },
+            {
+                "title": "8. What are your privacy rights?",
+                "paragraphs": [
+                    "In some regions, such as the European Economic Area (EEA) and United Kingdom (UK), you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.",
+                    "In some regions (like the EEA and UK), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details provided below. We will consider and act upon any request in accordance with applicable data protection laws.",
+                    "If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.",
+                    "If you are a resident in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: National Data Protection Authorities."
+                ]
+            },
+            {
+                "title": "9. Controls for do-not-track features",
+                "paragraphs": [
+                    "Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized.",
+                    "As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice."
+                ]
+            },
+            {
+                "title": "10. Do we make updates to this notice?",
+                "paragraphs": [
+                    "Yes, we will update this notice as necessary to stay compliant with relevant laws.",
+                    "We may update this privacy notice from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information."
+                ]
+            },
+            {
+                "title": "11. How can you contact us about this notice?",
+                "paragraphs": [
+                    "If you have questions or comments about this notice, you may email us at contact@shreesoftic.com.",
+                    "Shreesoftic",
+                    "4th floor, 20, Shree Nilkanth Business hub",
+                    "Causeway Rd, opp. D-Mart,",
+                    "Katargam, Surat, Gujarat 395004."
+                ]
+            },
+            {
+                "title": "3. Will your information be shared with anyone?",
+                "paragraphs": [
+                    "We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.",
+                    "We may process or share your data that we hold based on the following legal basis:",
+                    "Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.",
+                    "Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.",
+                    "Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.",
+                    "Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal processes, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).",
+                    "Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.",
+                    "More specifically, we may need to process your data or share your personal information in the following situations:",
+                    "Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company."
+                ]
+            }
+        ]
+    }
+}

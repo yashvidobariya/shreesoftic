@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "RiComputerLine",
+        "title": "Web Development",
+        "description": "Build dynamic and scalable websites that captivate and convert. Our web development services deliver impactful online experiences."
+    },
+    {
+        "id": 2,
+        "icon": "RiAppleFill",
+        "title": "iPhone & iPad App",
+        "description": "Develop standout iOS apps with Shreesoftic. Our expertise in design and programming ensures seamless functionality and stunning visuals on iPhone and iPad."
+    },
+    {
+        "id": 3,
+        "icon": "TiVendorAndroid",
+        "title": "Android Application",
+        "description": "Build dynamic and scalable websites that captivate and convert. Our web development services deliver impactful online experiences."
+    },
+    {
+        "id": 4,
+        "icon": "SiAltiumdesigner",
+        "title": "UI/UX Design",
+        "description": "Transform your digital interfaces with our UI/UX design expertise. We focus on user research, testing, and front-end development to create intuitive and engaging user experiences."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "Employee Priority",
+        "description": "Our employees come first. We prioritize their needs and well-being, ensuring a healthy work-life balance and a supportive work culture.",
+        "icon": "PiUserSwitchLight"
+    },
+    {
+        "id": "2",
+        "title": "Training Programs",
+        "description": "Access continuous learning and development opportunities through our comprehensive training programs designed to enhance your skills and career progression.",
+        "icon": "FcProcess"
+    },
+    {
+        "id": "3",
+        "title": "Positive Work Environment",
+        "description": "Enjoy a collaborative and positive work environment where your contributions are valued, and your professional growth is nurtured.",
+        "icon": "PiHandshakeLight"
+    },
+    {
+        "id": "4",
+        "title": "Festive Celebrations",
+        "description": "Join us in celebrating various festivals and events throughout the year, fostering a sense of community and team spirit.",
+        "icon": "MdOutlineCelebration"
+    }
+]
