@@ -116,7 +116,7 @@
         "steps": [
             {
                 "id": 1,
-                "image": "//Images/p1.svg",
+                "image": "/Images/p1.svg",
                 "title": "结果健康生活方式",
                 "description": "电子商务与健身网站",
                 "info": "RWL（结果健康生活方式）是一个健身和健康平台，提供按需家庭锻炼、个性化膳食计划和专家指导。它提供各种锻炼程序，包括力量、心肺、瑜伽和舞蹈，以及可定制的营养计划和社区支持，帮助用户实现健康和健身目标。",
@@ -125,7 +125,7 @@
             },
             {
                 "id": 2,
-                "image": "//Images/p5.svg",
+                "image": "/Images/p5.svg",
                 "title": "中国晶圆厂",
                 "description": "工作寻找移动应用程序",
                 "info": "中国晶圆厂 是一个专为艺术与娱乐领域设计的求职和招聘移动应用程序。人们可以在此找到艺术家、画家、歌手等，其他人可以通过此应用程序发布需求并与他们联系。",
@@ -134,7 +134,7 @@
             },
             {
                 "id": 3,
-                "image": "//Images/p3.svg",
+                "image": "/Images/p3.svg",
                 "title": "五人组",
                 "description": "原生移动应用",
                 "info": "五人组 是一个平台，用户可以发现并预订另类体验，主办方可以创建并提供策划体验。",
@@ -143,7 +143,7 @@
             },
             {
                 "id": 4,
-                "image": "//Images/p4.svg",
+                "image": "/Images/p4.svg",
                 "title": "好图",
                 "description": "商业增长网站",
                 "info": "好图 是一个造型和购物平台，专为个人造型师创建可购物的造型板，数字化衣橱，并管理客户网站。它提供可定制的画册、私人客户网站和从推荐产品中赚取佣金的能力。GoodPix旨在通过组织良好的专业工具和资源简化造型过程，增强客户互动。",
@@ -152,7 +152,7 @@
             },
             {
                 "id": 5,
-                "image": "//Images/portfolio-four.png",
+                "image": "/Images/portfolio-four.png",
                 "title": "基托夫",
                 "description": "食品配送应用",
                 "info": "犹太食品和杂货、比萨、鸡肉、沙威玛、寿司等直接送到您家！KEATOV直接为您提供来自您最喜欢的犹太餐厅的犹太食品。",
@@ -161,7 +161,7 @@
             },
             {
                 "id": 6,
-                "image": "//Images/portfolio-five.png",
+                "image": "/Images/portfolio-five.png",
                 "title": "搜索引擎优化",
                 "description": "谷歌搜索优化和元排名",
                 "type": ""
@@ -175,7 +175,7 @@
     },
     "footer": {
         "logo": {
-            "src": "//Images/footericon.png",
+            "src": "/Images/footericon.png",
             "alt": "footer-shreesoftic",
             "width": 190
         },
@@ -300,7 +300,7 @@
                 "title": "安卓开发",
                 "description": "开发高性能的安卓应用程序，量身定制以满足您的业务需求。我们的团队在创建直观且用户友好的Google Play商店应用程序方面表现出色。",
                 "icon": "TiVendorAndroid",
-                "image": "//Images/anroid.png",
+                "image": "/Images/anroid.png",
                 "subtitle": "为什么选择Shreesoftic进行安卓开发？",
                 "info": "在Shreesoftic，我们专注于打造优质的安卓应用程序，以满足您的业务需求。我们经验丰富的开发团队将技术熟练与创意设计相结合，交付视觉吸引力强且功能完善的应用程序。",
                 "Technology": {
@@ -329,7 +329,7 @@
                 "title": "iPhone开发",
                 "description": "创建卓越的iOS应用程序，具有惊人的设计和无缝的功能。我们在iPhone开发方面的专业知识确保在Apple设备上的优质用户体验。",
                 "icon": "RiAppleFill",
-                "image": "//Images/iphone.png",
+                "image": "/Images/iphone.png",
                 "subtitle": "为什么选择Shreesoftic进行iPhone开发？",
                 "info": "在Shreesoftic，我们专注于打造优质的iPhone应用程序，以满足您的业务需求。我们经验丰富的开发团队将技术熟练与创意设计相结合，交付视觉吸引力强且功能完善的应用程序。",
                 "Technology": {
@@ -358,7 +358,7 @@
                 "title": "网站开发",
                 "description": "构建动态和可扩展的网站，吸引并转化用户。我们的网页开发服务提供量身定制的影响力在线体验，符合您的品牌。",
                 "icon": "RiComputerLine",
-                "image": "//Images/web.png",
+                "image": "/Images/web.png",
                 "subtitle": "为什么选择Shreesoftic进行网站开发？",
                 "info": "在Shreesoftic，我们专注于打造优质的网站，以满足您的业务需求。我们经验丰富的开发团队将技术熟练与创意设计相结合，交付视觉吸引力强且功能完善的网站。",
                 "Technology": {
@@ -389,7 +389,7 @@
                 "title": "UI/UX与图形设计",
                 "description": "通过我们的专家UI/UX和图形设计服务提升您的数字形象。我们专注于以用户为中心的设计，创建视觉吸引力强且直观的界面。",
                 "icon": "SiAntdesign",
-                "image": "//Images/ui-ux.png",
+                "image": "/Images/ui-ux.png",
                 "subtitle": "为什么选择Shreesoftic进行UI/UX与图形设计？",
                 "info": "在Shreesoftic，我们专注于打造优质的UI/UX设计，以满足您的业务需求。我们经验丰富的设计团队将创意设计与以用户为中心的原则相结合，交付视觉吸引力强且功能完善的界面。",
                 "Technology": {
@@ -418,7 +418,7 @@
                 "title": "搜索引擎优化与数字营销",
                 "description": "通过我们的搜索引擎优化和数字营销服务，提高您的在线可见性并吸引目标流量。我们采用最新策略，以确保您的品牌脱颖而出。",
                 "icon": "FaFileInvoiceDollar",
-                "image": "//Images/marketing.png",
+                "image": "/Images/marketing.png",
                 "subtitle": "为什么选择 Shreesoftic 进行搜索引擎优化和数字营销？",
                 "info": "在Shreesoftic，我们专注于制定高质量的搜索引擎优化和数字营销策略，以满足您的业务需求。我们经验丰富的团队将技术能力与创意策略结合起来，提供不仅有效而且高度吸引人的广告活动。",
                 "Technology": {

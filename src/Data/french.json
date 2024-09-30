@@ -116,7 +116,7 @@
         "steps": [
             {
                 "id": 1,
-                "image": "//Images/p1.svg",
+                "image": "/Images/p1.svg",
                 "title": "Résultats Wellness Lifestyle",
                 "description": "Site Web de E-Commerce & Fitness",
                 "info": "RWL (Résultats Wellness Lifestyle) est une plateforme de fitness et de bien-être offrant des entraînements à domicile à la demande, des plans de repas personnalisés et des conseils d'experts. Elle propose divers programmes d'entraînement, y compris la musculation, le cardio, le yoga et la danse, ainsi que des plans de nutrition personnalisables et un soutien communautaire pour aider les utilisateurs à atteindre leurs objectifs de santé et de remise en forme.",
@@ -125,7 +125,7 @@
             },
             {
                 "id": 2,
-                "image": "//Images/p5.svg",
+                "image": "/Images/p5.svg",
                 "title": "Fabrique de Chine",
                 "description": "Application Mobile de Recherche d'Emploi",
                 "info": "Fabrique de Chine est une application mobile pour chercheurs et offreurs d'emploi, spécifiquement conçue pour le secteur de l'art et du divertissement. Les utilisateurs peuvent y trouver des artistes, des peintres, des chanteurs, etc., et d'autres peuvent publier leurs besoins tandis que d'autres les contactent via cette application.",
@@ -134,7 +134,7 @@
             },
             {
                 "id": 3,
-                "image": "//Images/p3.svg",
+                "image": "/Images/p3.svg",
                 "title": "TousCinq",
                 "description": "Application Mobile Native",
                 "info": "TousCinq est une plateforme où les utilisateurs peuvent découvrir et réserver des expériences atypiques et où les hôtes peuvent créer et offrir des expériences personnalisées.",
@@ -143,7 +143,7 @@
             },
             {
                 "id": 4,
-                "image": "//Images/p4.svg",
+                "image": "/Images/p4.svg",
                 "title": "Bonpix",
                 "description": "Site Web de Croissance Commerciale",
                 "info": "Bonpix est une plateforme de style et de shopping conçue pour que les stylistes personnels créent des planches de style achetables, numérisent des garde-robes et gèrent des sites clients. Elle propose des fonctionnalités telles que des lookbooks personnalisables, des sites clients privés et la possibilité de gagner des commissions sur les produits recommandés. Bonpix vise à rationaliser le processus de stylisme et à améliorer l'engagement des clients grâce à des outils et des ressources professionnels organisés.",
@@ -152,7 +152,7 @@
             },
             {
                 "id": 5,
-                "image": "//Images/portfolio-four.png",
+                "image": "/Images/portfolio-four.png",
                 "title": "Keatov",
                 "description": "Application de Livraison de Nourriture",
                 "info": "Des aliments casher et des courses, de la pizza, du poulet, du shawarma, des sushis et plus encore livrés directement chez vous ! KEATOV vous offre des aliments casher directement de vos restaurants casher préférés.",
@@ -161,7 +161,7 @@
             },
             {
                 "id": 6,
-                "image": "//Images/portfolio-five.png",
+                "image": "/Images/portfolio-five.png",
                 "title": "Optimisation SEO",
                 "description": "Optimisation de Recherche Google & Classement Meta",
                 "type": ""
@@ -175,7 +175,7 @@
     },
     "footer": {
         "logo": {
-            "src": "//Images/footericon.png",
+            "src": "/Images/footericon.png",
             "alt": "footer-Shreesoftic",
             "width": 190
         },
@@ -300,7 +300,7 @@
                 "title": "Développement Android",
                 "description": "Développez des applications Android performantes adaptées à vos besoins commerciaux. Notre équipe excelle dans la création d'applications intuitives et conviviales pour le Google Play Store.",
                 "icon": "TiVendorAndroid",
-                "image": "//Images/anroid.png",
+                "image": "/Images/anroid.png",
                 "subtitle": "Pourquoi choisir Shreesofticpour le développement Android ?",
                 "info": "Chez Shreesoftic, nous sommes spécialisés dans la création d'applications Android de premier ordre adaptées à vos besoins commerciaux. Notre équipe expérimentée de développeurs allie compétence technique et design créatif pour livrer des applications non seulement esthétiques mais aussi très fonctionnelles.",
                 "Technology": {
@@ -329,7 +329,7 @@
                 "title": "Développement iPhone",
                 "description": "Créez des applications iOS exceptionnelles avec un design époustouflant et une fonctionnalité fluide. Notre expertise en développement iPhone garantit une expérience utilisateur premium sur les appareils Apple.",
                 "icon": "RiAppleFill",
-                "image": "//Images/iphone.png",
+                "image": "/Images/iphone.png",
                 "subtitle": "Pourquoi choisir Shreesofticpour le développement iPhone ?",
                 "info": "Chez Shreesoftic, nous sommes spécialisés dans la création d'applications iPhone de premier ordre adaptées à vos besoins commerciaux. Notre équipe expérimentée de développeurs allie compétence technique et design créatif pour livrer des applications non seulement esthétiques mais aussi très fonctionnelles.",
                 "Technology": {
@@ -358,7 +358,7 @@
                 "title": "Développement Web",
                 "description": "Construisez des sites Web dynamiques et évolutifs qui captivent et convertissent. Nos services de développement Web offrent des expériences en ligne percutantes adaptées à votre marque.",
                 "icon": "RiComputerLine",
-                "image": "//Images/web.png",
+                "image": "/Images/web.png",
                 "subtitle": "Pourquoi choisir Shreesofticpour le développement Web ?",
                 "info": "Chez Shreesoftic, nous sommes spécialisés dans la création de sites Web de premier ordre adaptés à vos besoins commerciaux. Notre équipe expérimentée de développeurs allie compétence technique et design créatif pour livrer des sites Web non seulement esthétiques mais aussi très fonctionnels.",
                 "Technology": {
@@ -389,7 +389,7 @@
                 "title": "UI/UX & Conception Graphique",
                 "description": "Améliorez votre présence numérique avec nos services experts en conception UI/UX et graphique. Nous nous concentrons sur une conception centrée sur l'utilisateur pour créer des interfaces visuellement attrayantes et intuitives.",
                 "icon": "SiAntdesign",
-                "image": "//Images/ui-ux.png",
+                "image": "/Images/ui-ux.png",
                 "subtitle": "Pourquoi Choisir Shreesofticpour la Conception UI/UX & Graphique ?",
                 "info": "Chez Shreesoftic, nous sommes spécialisés dans la création de conceptions UI/UX de premier ordre adaptées aux besoins de votre entreprise. Notre équipe de designers expérimentés combine créativité et principes centrés sur l'utilisateur pour offrir des interfaces à la fois esthétiquement agréables et très fonctionnelles.",
                 "Technology": {
@@ -419,7 +419,7 @@
                 "title": "SEO & Marketing Digital",
                 "description": "Améliorez votre visibilité en ligne et générez du trafic ciblé avec nos services de SEO et de marketing digital. Nous utilisons les dernières stratégies pour garantir que votre marque se distingue.",
                 "icon": "FaFileInvoiceDollar",
-                "image": "//Images/marketing.png",
+                "image": "/Images/marketing.png",
                 "subtitle": "Pourquoi choisir Shreesofticpour le SEO & le Marketing Digital ?",
                 "info": "Chez Shreesoftic, nous sommes spécialisés dans l'élaboration de stratégies de SEO et de marketing digital de premier ordre adaptées aux besoins de votre entreprise. Notre équipe expérimentée combine compétence technique et stratégies créatives pour fournir des campagnes non seulement efficaces, mais aussi très engageantes.",
                 "Technology": {

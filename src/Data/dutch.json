@@ -116,7 +116,7 @@
         "steps": [
             {
                 "id": 1,
-                "image": "//Images/p1.svg",
+                "image": "/Images/p1.svg",
                 "title": "Resultaten Wellness Levensstijl",
                 "description": "E-Commerce & Fitness Website",
                 "info": "RWL (Resultaten Wellness Levensstijl) is een fitness- en wellnessplatform dat on-demand thuistrainingen, gepersonaliseerde maaltijdplannen en deskundige begeleiding biedt. Het biedt verschillende trainingsprogramma's, waaronder krachttraining, cardio, yoga en dans, samen met aanpasbare voedingsplannen en gemeenschapsondersteuning om gebruikers te helpen hun gezondheids- en fitnessdoelen te bereiken.",
@@ -125,7 +125,7 @@
             },
             {
                 "id": 2,
-                "image": "//Images/p5.svg",
+                "image": "/Images/p5.svg",
                 "title": "China Fab",
                 "description": "Werk Zoek Mobiele Applicatie",
                 "info": "China Fab is een mobiele applicatie voor werkzoekenden en aanbieders, speciaal ontworpen voor de kunst- en entertainmentsector. Mensen kunnen kunstenaars, schilders, zangers, enz. vinden, terwijl anderen hun vereisten kunnen plaatsen en contact met hen kunnen opnemen via deze app.",
@@ -134,7 +134,7 @@
             },
             {
                 "id": 3,
-                "image": "//Images/p3.svg",
+                "image": "/Images/p3.svg",
                 "title": "Alle Vijf",
                 "description": "Native Mobiele Applicatie",
                 "info": "Alle Vijf is een platform waar gebruikers alternatieve ervaringen kunnen ontdekken en boeken, en gastgevers curated ervaringen kunnen creëren en aanbieden.",
@@ -143,7 +143,7 @@
             },
             {
                 "id": 4,
-                "image": "//Images/p4.svg",
+                "image": "/Images/p4.svg",
                 "title": "Goedepix",
                 "description": "Website voor Bedrijfsgroei",
                 "info": "Goedepix is een styling- en winkelplatform dat is ontworpen voor persoonlijke stylisten om shopbare stijlboards te maken, garderobes te digitaliseren en klantensites te beheren. Het biedt functies zoals aanpasbare lookbooks, privé klantensites en de mogelijkheid om commissies te verdienen op aanbevolen producten. Goedepix heeft als doel het stylingproces te stroomlijnen en de betrokkenheid van klanten te verbeteren met georganiseerde, professionele tools en middelen.",
@@ -152,7 +152,7 @@
             },
             {
                 "id": 5,
-                "image": "//Images/portfolio-four.png",
+                "image": "/Images/portfolio-four.png",
                 "title": "Keatov",
                 "description": "Voedselbezorg App",
                 "info": "Kosher voedsel & boodschappen, pizza, kip, shawarma, sushi en meer, rechtstreeks bij u thuisbezorgd! KEATOV brengt u kosher voedsel rechtstreeks van uw favoriete kosher restaurants.",
@@ -161,7 +161,7 @@
             },
             {
                 "id": 6,
-                "image": "//Images/portfolio-five.png",
+                "image": "/Images/portfolio-five.png",
                 "title": "SEO-optimalisatie",
                 "description": "Google Zoekoptimalisatie & Meta Ranking",
                 "type": ""
@@ -175,7 +175,7 @@
     },
     "footer": {
         "logo": {
-            "src": "//Images/footericon.png",
+            "src": "/Images/footericon.png",
             "alt": "footer-shreesoftic",
             "width": 190
         },
@@ -300,7 +300,7 @@
                 "title": "Android Ontwikkeling",
                 "description": "Ontwikkel krachtige Android-apps die zijn afgestemd op uw zakelijke behoeften. Ons team blinkt uit in het creëren van intuïtieve en gebruiksvriendelijke applicaties voor de Google Play Store.",
                 "icon": "TiVendorAndroid",
-                "image": "//Images/anroid.png",
+                "image": "/Images/anroid.png",
                 "subtitle": "Waarom kiezen voor Shreesoftic voor Android Ontwikkeling?",
                 "info": "Bij Shreesoftic zijn we gespecialiseerd in het maken van hoogwaardige Android-applicaties die zijn afgestemd op uw zakelijke behoeften. Ons ervaren team van ontwikkelaars combineert technische deskundigheid met creatief ontwerp om apps te leveren die niet alleen visueel aantrekkelijk zijn, maar ook zeer functioneel.",
                 "Technology": {
@@ -329,7 +329,7 @@
                 "title": "iPhone Ontwikkeling",
                 "description": "Creëer uitzonderlijke iOS-apps met verbluffend ontwerp en naadloze functionaliteit. Onze expertise in iPhone-ontwikkeling zorgt voor een premium gebruikerservaring op Apple-apparaten.",
                 "icon": "RiAppleFill",
-                "image": "//Images/iphone.png",
+                "image": "/Images/iphone.png",
                 "subtitle": "Waarom kiezen voor Shreesoftic voor iPhone Ontwikkeling?",
                 "info": "Bij Shreesoftic zijn we gespecialiseerd in het maken van hoogwaardige iPhone-applicaties die zijn afgestemd op uw zakelijke behoeften. Ons ervaren team van ontwikkelaars combineert technische deskundigheid met creatief ontwerp om apps te leveren die niet alleen visueel aantrekkelijk zijn, maar ook zeer functioneel.",
                 "Technology": {
@@ -358,7 +358,7 @@
                 "title": "Web Ontwikkeling",
                 "description": "Bouw dynamische en schaalbare websites die boeien en converteren. Onze webontwikkelingsdiensten leveren impactvolle online ervaringen die zijn afgestemd op uw merk.",
                 "icon": "RiComputerLine",
-                "image": "//Images/web.png",
+                "image": "/Images/web.png",
                 "subtitle": "Waarom kiezen voor Shreesoftic voor Web Ontwikkeling?",
                 "info": "Bij Shreesoftic zijn we gespecialiseerd in het maken van hoogwaardige websites die zijn afgestemd op uw zakelijke behoeften. Ons ervaren team van ontwikkelaars combineert technische deskundigheid met creatief ontwerp om websites te leveren die niet alleen visueel aantrekkelijk zijn, maar ook zeer functioneel.",
                 "Technology": {
@@ -389,7 +389,7 @@
                 "title": "UI/UX & Grafisch Ontwerp",
                 "description": "Versterk uw digitale aanwezigheid met onze deskundige UI/UX- en grafisch ontwerpdiensten. We richten ons op gebruiksgericht ontwerp om visueel aantrekkelijke en intuïtieve interfaces te creëren.",
                 "icon": "SiAntdesign",
-                "image": "//Images/ui-ux.png",
+                "image": "/Images/ui-ux.png",
                 "subtitle": "Waarom kiezen voor Shreesoftic voor UI/UX & Grafisch Ontwerp?",
                 "info": "Bij Shreesoftic zijn we gespecialiseerd in het maken van hoogwaardige UI/UX-ontwerpen die zijn afgestemd op uw zakelijke behoeften. Ons ervaren team van ontwerpers combineert creatief ontwerp met gebruiksgerichte principes om interfaces te leveren die niet alleen visueel aantrekkelijk zijn, maar ook zeer functioneel.",
                 "Technology": {
@@ -419,7 +419,7 @@
                 "title": "SEO & Digitale Marketing",
                 "description": "Verhoog uw online zichtbaarheid en genereer gerichte verkeer met onze SEO- en digitale marketingdiensten. We maken gebruik van de nieuwste strategieën om ervoor te zorgen dat uw merk opvalt.",
                 "icon": "FaFileInvoiceDollar",
-                "image": "//Images/marketing.png",
+                "image": "/Images/marketing.png",
                 "subtitle": "Waarom kiezen voor Shreesoftic voor SEO & Digitale Marketing?",
                 "info": "Bij Shreesoftic zijn we gespecialiseerd in het opstellen van eersteklas SEO- en digitale marketingstrategieën die zijn afgestemd op uw bedrijfsbehoeften. Ons ervaren team combineert technische deskundigheid met creatieve strategieën om campagnes te leveren die niet alleen effectief zijn, maar ook zeer boeiend.",
                 "Technology": {
