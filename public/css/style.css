@@ -2300,7 +2300,7 @@ body {
     .togglenavbar {
         display: block;
         position: absolute;
-        top: 20px;
+        top: 35px;
         right: 20px;
         z-index: 11;
     }
@@ -2308,14 +2308,14 @@ body {
     .closenavbar {
         display: block;
         position: absolute;
-        top: 20px;
+        top: 35px;
         right: 20px;
         z-index: 11;
     }
 
     .left.activeleft {
         display: flex;
-        margin-top: 70px;
+        margin-top: 80px;
         transition: 2s ease;
         background-color: var(--text-white);
         box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
