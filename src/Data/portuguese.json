@@ -24,28 +24,28 @@
             {
                 "id": 1,
                 "number": "01",
-                "icon": "Images/w1.png",
+                "icon": "/Images/w1.png",
                 "title": "Conceituação",
                 "description": "Colabore com nossa equipe para desenvolver ideias inovadoras adaptadas às suas metas de negócios."
             },
             {
                 "id": 2,
                 "number": "02",
-                "icon": "Images/w2.png",
+                "icon": "/Images/w2.png",
                 "title": "Criação e Codificação",
                 "description": "Nossos especialistas projetam e desenvolvem soluções amigáveis que priorizam a experiência e a funcionalidade."
             },
             {
                 "id": 3,
                 "number": "03",
-                "icon": "Images/w3.png",
+                "icon": "/Images/w3.png",
                 "title": "Garantia de Qualidade",
                 "description": "Testamos rigorosamente para garantir que sua solução seja confiável, segura e funcione perfeitamente."
             },
             {
                 "id": 4,
                 "number": "04",
-                "icon": "Images/w4.png",
+                "icon": "/Images/w4.png",
                 "title": "Lançamento e Além",
                 "description": "Lançamos seu projeto com sucesso e fornecemos suporte contínuo para desempenho ideal."
             }
@@ -116,7 +116,7 @@
         "steps": [
             {
                 "id": 1,
-                "image": "/Images/p1.svg",
+                "image": "//Images/p1.svg",
                 "title": "Resultados Wellness Lifestyle",
                 "description": "Site de Comércio eletrônico & Fitness",
                 "info": "RWL (Resultados Wellness Lifestyle) é uma plataforma de fitness e bem-estar que oferece treinos em casa sob demanda, planos de refeições personalizados e orientação de especialistas. Oferece vários programas de treino, incluindo força, cardio, yoga e dança, juntamente com planos de nutrição personalizáveis e suporte da comunidade para ajudar os usuários a alcançar seus objetivos de saúde e fitness.",
@@ -125,7 +125,7 @@
             },
             {
                 "id": 2,
-                "image": "/Images/p5.svg",
+                "image": "//Images/p5.svg",
                 "title": "China Fabuloso",
                 "description": "Aplicativo Móvel de Busca de Emprego",
                 "info": "China Fabuloso é um aplicativo móvel para buscadores e oferecedores de emprego, especificamente projetado para o setor de Arte e Entretenimento. Onde as pessoas podem encontrar artistas, pintores, cantores, etc., e algumas pessoas podem postar suas necessidades, enquanto outras podem contatá-las via este aplicativo.",
@@ -134,7 +134,7 @@
             },
             {
                 "id": 3,
-                "image": "/Images/p3.svg",
+                "image": "//Images/p3.svg",
                 "title": "Todos os cinco",
                 "description": "Aplicativo Móvel Nativo",
                 "info": "Todos os cinco é uma plataforma onde os usuários podem descobrir e reservar experiências alternativas e parceiros anfitriões podem criar e oferecer experiências curadas.",
@@ -143,7 +143,7 @@
             },
             {
                 "id": 4,
-                "image": "/Images/p4.svg",
+                "image": "//Images/p4.svg",
                 "title": "Goodpix",
                 "description": "Site de Crescimento Empresarial",
                 "info": "Goodpix é uma plataforma de estilo e compras projetada para estilistas pessoais criarem painéis de estilo compráveis, digitalizarem guarda-roupas e gerenciarem sites de clientes. Oferece recursos como lookbooks personalizáveis, sites de clientes privados e a capacidade de ganhar comissões sobre produtos recomendados. GoodPix visa agilizar o processo de estilo e melhorar o engajamento do cliente por meio de ferramentas e recursos organizados e profissionais.",
@@ -152,7 +152,7 @@
             },
             {
                 "id": 5,
-                "image": "/Images/portfolio-four.png",
+                "image": "//Images/portfolio-four.png",
                 "title": "Keatov",
                 "description": "Aplicativo de Entrega de Comida",
                 "info": "Alimentos e produtos kosher, pizza, frango, shawarma, sushi e mais entregues diretamente à sua porta! KEATOV traz comida kosher diretamente de seus restaurantes kosher favoritos.",
@@ -161,7 +161,7 @@
             },
             {
                 "id": 6,
-                "image": "/Images/portfolio-five.png",
+                "image": "//Images/portfolio-five.png",
                 "title": "Otimização SEO",
                 "description": "Otimização de Pesquisa Google & Ranking Meta",
                 "type": ""
@@ -175,7 +175,7 @@
     },
     "footer": {
         "logo": {
-            "src": "/Images/footericon.png",
+            "src": "//Images/footericon.png",
             "alt": "footer-shreesoftic",
             "width": 190
         },
@@ -300,7 +300,7 @@
                 "title": "Desenvolvimento Android",
                 "description": "Desenvolva aplicativos Android de alto desempenho adaptados às necessidades do seu negócio. Nossa equipe se destaca na criação de aplicativos intuitivos e fáceis de usar para a Google Play Store.",
                 "icon": "TiVendorAndroid",
-                "image": "/Images/anroid.png",
+                "image": "//Images/anroid.png",
                 "subtitle": "Por que escolher a Shreesoftic para Desenvolvimento Android?",
                 "info": "Na Shreesoftic, somos especializados em criar aplicativos Android de primeira linha adaptados às suas necessidades de negócio. Nossa equipe experiente de desenvolvedores combina proficiência técnica com design criativo para entregar aplicativos que não são apenas visualmente atraentes, mas também altamente funcionais.",
                 "Technology": {
@@ -329,7 +329,7 @@
                 "title": "Desenvolvimento para iPhone",
                 "description": "Crie aplicativos iOS excepcionais com design deslumbrante e funcionalidade perfeita. Nossa experiência em desenvolvimento para iPhone garante uma experiência de usuário premium em dispositivos Apple.",
                 "icon": "RiAppleFill",
-                "image": "/Images/iphone.png",
+                "image": "//Images/iphone.png",
                 "subtitle": "Por que escolher a Shreesoftic para Desenvolvimento para iPhone?",
                 "info": "Na Shreesoftic, somos especializados em criar aplicativos para iPhone de primeira linha adaptados às suas necessidades de negócio. Nossa equipe experiente de desenvolvedores combina proficiência técnica com design criativo para entregar aplicativos que não são apenas visualmente atraentes, mas também altamente funcionais.",
                 "Technology": {
@@ -358,7 +358,7 @@
                 "title": "Desenvolvimento Web",
                 "description": "Construa sites dinâmicos e escaláveis que cativem e convertam. Nossos serviços de desenvolvimento web entregam experiências online impactantes adaptadas à sua marca.",
                 "icon": "RiComputerLine",
-                "image": "/Images/web.png",
+                "image": "//Images/web.png",
                 "subtitle": "Por que escolher a Shreesoftic para Desenvolvimento Web?",
                 "info": "Na Shreesoftic, somos especializados em criar sites de primeira linha adaptados às suas necessidades de negócio. Nossa equipe experiente de desenvolvedores combina proficiência técnica com design criativo para entregar sites que não são apenas visualmente atraentes, mas também altamente funcionais.",
                 "Technology": {
@@ -389,7 +389,7 @@
                 "title": "UI/UX & Design Gráfico",
                 "description": "Melhore sua presença digital com nossos serviços especializados de UI/UX e design gráfico. Focamos em design centrado no usuário para criar interfaces visualmente atraentes e intuitivas.",
                 "icon": "SiAntdesign",
-                "image": "/Images/ui-ux.png",
+                "image": "//Images/ui-ux.png",
                 "subtitle": "Por que escolher a Shreesoftic para UI/UX & Design Gráfico?",
                 "info": "Na Shreesoftic, somos especializados em criar designs de UI/UX de primeira linha adaptados às suas necessidades de negócio. Nossa equipe experiente de designers combina design criativo com princípios centrados no usuário para entregar interfaces que não são apenas visualmente atraentes, mas também altamente funcionais.",
                 "Technology": {
@@ -419,7 +419,7 @@
                 "title": "SEO e marketing digital",
                 "description": "Aumente sua visibilidade online e gere tráfego direcionado com nossos serviços de SEO e marketing digital. Utilizamos as estratégias mais recentes para garantir que sua marca se destaque.",
                 "icon": "FaFileInvoiceDollar",
-                "image": "/Images/marketing.png",
+                "image": "//Images/marketing.png",
                 "subtitle": "Por que escolher a Shreesoftic para SEO e marketing digital?",
                 "info": "Na Shreesoftic, somos especializados em criar estratégias de SEO e marketing digital de alta qualidade adaptadas às necessidades do seu negócio. Nossa equipe experiente combina competência técnica com estratégias criativas para fornecer campanhas que são não apenas eficazes, mas também muito envolventes.",
                 "Technology": {
@@ -449,7 +449,7 @@
         "review": [
             {
                 "no": 1,
-                "img": "images/r1.jpg",
+                "img": "/Images/r1.jpg",
                 "name": "Ron Mears",
                 "line": "Aplicação Móvel",
                 "detail": "A Shreesoftic consistentemente entregou aplicações de alta qualidade, amigáveis ao usuário, no prazo e dentro do orçamento.",
@@ -457,7 +457,7 @@
             },
             {
                 "no": 2,
-                "img": "images/r3.jpg",
+                "img": "/Images/r3.jpg",
                 "name": "Fraer Booth",
                 "line": "Desenvolvimento Web",
                 "detail": "A equipe da Shreesoftic é especializada em criar sites visuais atraentes e funcionais que atendem às necessidades e objetivos do cliente e são entregues no prazo.",
@@ -465,7 +465,7 @@
             },
             {
                 "no": 3,
-                "img": "images/r2.jpg",
+                "img": "/Images/r2.jpg",
                 "name": "Heuy Freeman",
                 "line": "Aplicação Móvel Frete",
                 "detail": "A aplicação móvel de entrega logística Frete desenvolvida pela Shreesoftic otimizou nossas operações, melhorou a satisfação do cliente e superou nossas expectativas.",
@@ -473,7 +473,7 @@
             },
             {
                 "no": 4,
-                "img": "images/r4.jpg",
+                "img": "/Images/r4.jpg",
                 "name": "Gabriel Musiello",
                 "line": "TrakMD - Plataforma Médico/Paciente",
                 "detail": "Comunicação eficaz e desenvolvimento eficiente. Oferece soluções, não problemas. Muito satisfeito com o trabalho e continuarei a trabalhar com a Shreesoftic",
@@ -481,7 +481,7 @@
             },
             {
                 "no": 5,
-                "img": "images/r5.jpg",
+                "img": "/Images/r5.jpg",
                 "name": "Farrukh Atabekov",
                 "line": "Desenvolvimento Web Full Stack",
                 "detail": "O projeto foi executado suavemente e entregue no prazo. Eu daria 6 estrelas se o tempo de resposta fosse melhor.",
@@ -489,7 +489,7 @@
             },
             {
                 "no": 6,
-                "img": "images/header-bg.jpg",
+                "img": "/Images/header-bg.jpg",
                 "name": "Valeria Albashiti",
                 "line": "Protótipo de UI/UX do Site & Aplicação Móvel",
                 "detail": "O protótipo de UI/UX da equipe para nosso site e aplicação móvel foi intuitivo, visualmente atraente e superou nossas expectativas.",

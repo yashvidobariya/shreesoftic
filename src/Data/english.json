@@ -449,7 +449,7 @@
         "review": [
             {
                 "no": 1,
-                "img": "images/r1.jpg",
+                "img": "/Images/r1.jpg",
                 "name": "Ron Mears",
                 "line": "Mobile Application",
                 "detail": "Shreesoftic consistently delivered high-quality, user friendly applications on time and within budget.",
@@ -457,7 +457,7 @@
             },
             {
                 "no": 2,
-                "img": "images/r3.jpg",
+                "img": "/Images/r3.jpg",
                 "name": "Fraer Booth",
                 "line": "Web Development",
                 "detail": "Shreesoftic team is skilled in creating visually appealing and functional websites that meet the client's needs and goals on time.",
@@ -465,7 +465,7 @@
             },
             {
                 "no": 3,
-                "img": "images/r2.jpg",
+                "img": "/Images/r2.jpg",
                 "name": "Heuy Freeman",
                 "line": "Frete Mobile Application",
                 "detail": "Frete The logistics delivery mobile app developed by Shreesoftic streamlined our operations, improved customer satisfaction and exceeded our expectations.",
@@ -473,7 +473,7 @@
             },
             {
                 "no": 4,
-                "img": "images/r4.jpg",
+                "img": "/Images/r4.jpg",
                 "name": "Gabriel Musiello",
                 "line": "TrakMD - Doctor/Patient Platform",
                 "detail": "Cood communication and efficient development. Provides solutions, not problems. Very happy with the work and will continue to work with Shreesoftic",
@@ -481,7 +481,7 @@
             },
             {
                 "no": 5,
-                "img": "images/r5.jpg",
+                "img": "/Images/r5.jpg",
                 "name": "Farrukh Atabekov",
                 "line": "Full stack Web Development",
                 "detail": "Project run smoothly and delivered on time. I would put 6 stars if the response time is better.",
@@ -489,7 +489,7 @@
             },
             {
                 "no": 6,
-                "img": "images/header-bg.jpg",
+                "img": "/Images/header-bg.jpg",
                 "name": "Valeria Albashiti",
                 "line": "UI/UX Prototype of Website & Mobile application",
                 "detail": "The team's UI/UX prototype for our website and mobile application was intuitive, visually appealing and exceeded our expectations.",
