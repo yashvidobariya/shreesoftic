@@ -207,6 +207,7 @@ body {
 .footer-info a {
     color: var(--text-white);
     text-decoration: none;
+    width: 250px;
     padding-left: 5px;
     float: left;
 }
