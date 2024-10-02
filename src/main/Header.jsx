@@ -3,6 +3,7 @@ import { Link, useLocation } from 'react-router-dom';
 import { GrFormClose } from 'react-icons/gr';
 import { HiMenu } from 'react-icons/hi';
 import { useTranslation } from 'react-i18next';
+import axios from 'axios';
 
 const Header = () => {
     const { t, i18n } = useTranslation();
@@ -14,6 +15,33 @@ const Header = () => {
     useEffect(() => {
         setActiveLink(location.pathname);
     }, [location]);
+
+    useEffect(() => {
+        axios.get('https://ipapi.co/json/')
+            .then(response => {
+                const countryCode = response.data.country_code;
+                setDefaultLanguageByCountry(countryCode);
+            })
+            .catch(error => {
+                console.error('Error fetching country info:', error);
+            });
+    }, []);
+
+    const setDefaultLanguageByCountry = (countryCode) => {
+        const countryLangMap = {
+            US: 'en',
+            FR: 'fr',
+            NL: 'dh', // Netherlands - Dutch
+            AE: 'ar', // UAE - Arabic
+            CN: 'ch', // China - Mandarin Chinese
+            ES: 'sp', // Spain - Spanish
+            BR: 'pr', // Brazil - Portuguese
+            RU: 'rs', // Russia - Russian
+        };
+
+        const defaultLang = countryLangMap[countryCode] || 'en';
+        i18n.changeLanguage(defaultLang);
+    };
 
     const showNavbar = () => {
         setNavbarActive(true);
@@ -51,7 +79,6 @@ const Header = () => {
         const selectedLanguage = e.target.value;
         i18n.changeLanguage(selectedLanguage.toLowerCase());
     };
-
     return (
         <div className='header-container'>
             <div className={headerClass}>
