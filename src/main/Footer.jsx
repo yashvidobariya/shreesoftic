@@ -5,7 +5,6 @@ import { FaRegMap } from "react-icons/fa";
 import { BiLogoLinkedin } from "react-icons/bi";
 import { IoLogoInstagram } from "react-icons/io";
 import { useTranslation } from 'react-i18next';
-
 import footeraenglish from '../Data/english.json';
 import footerfrench from '../Data/french.json';
 import footerdutch from '../Data/dutch.json';
@@ -31,6 +30,11 @@ function Footer() {
     useEffect(() => {
         setActiveLink(location.pathname);
     }, [location]);
+
+    const changeLanguage = (e) => {
+        const selectedLanguage = e.target.value;
+        i18n.changeLanguage(selectedLanguage.toLowerCase());
+    };
 
     return (
         <div className='footer'>
@@ -129,6 +133,18 @@ function Footer() {
                             <div className="footer-term">
                                 <Link className={activeLink === teamdata.footer.termsAndConditions.url ? 'active' : ''} to={teamdata.footer.termsAndConditions.url}>{teamdata.footer.termsAndConditions.text}</Link>
                             </div>
+                        </div>
+                        <div className='langauge-header'>
+                            <select className='language-dropdown' onChange={changeLanguage} aria-label='Select Option'>
+                                <option value='en'>English</option>
+                                <option value='fr'>French</option>
+                                <option value='dh'>Dutch</option>
+                                <option value='ar'>Arabic</option>
+                                <option value='ch'>Mandarin Chinese</option>
+                                <option value='sp'>Spanish</option>
+                                <option value='pr'>Portuguese</option>
+                                <option value='rs'>Russian</option>
+                            </select>
                         </div>
                     </div>
                 </div>

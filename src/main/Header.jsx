@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
+import axios from 'axios';
 import { Link, useLocation } from 'react-router-dom';
 import { GrFormClose } from 'react-icons/gr';
 import { HiMenu } from 'react-icons/hi';
 import { useTranslation } from 'react-i18next';
-import axios from 'axios';
 
 const Header = () => {
     const { t, i18n } = useTranslation();
@@ -15,33 +15,6 @@ const Header = () => {
     useEffect(() => {
         setActiveLink(location.pathname);
     }, [location]);
-
-    useEffect(() => {
-        axios.get('https://ipapi.co/json/')
-            .then(response => {
-                const countryCode = response.data.country_code;
-                setDefaultLanguageByCountry(countryCode);
-            })
-            .catch(error => {
-                console.error('Error fetching country info:', error);
-            });
-    }, []);
-
-    const setDefaultLanguageByCountry = (countryCode) => {
-        const countryLangMap = {
-            US: 'en',
-            FR: 'fr',
-            NL: 'dh', // Netherlands - Dutch
-            AE: 'ar', // UAE - Arabic
-            CN: 'ch', // China - Mandarin Chinese
-            ES: 'sp', // Spain - Spanish
-            BR: 'pr', // Brazil - Portuguese
-            RU: 'rs', // Russia - Russian
-        };
-
-        const defaultLang = countryLangMap[countryCode] || 'en';
-        i18n.changeLanguage(defaultLang);
-    };
 
     const showNavbar = () => {
         setNavbarActive(true);
@@ -75,10 +48,34 @@ const Header = () => {
         return false;
     };
 
-    const changeLanguage = (e) => {
-        const selectedLanguage = e.target.value;
-        i18n.changeLanguage(selectedLanguage.toLowerCase());
+    const setDefaultLanguageBasedOnIP = async () => {
+        try {
+            const response = await axios.get('https://ipapi.co/json/');
+            const countryCode = response.data.country_code.toLowerCase();
+
+            const countryLangMap = {
+                us: 'en',
+                fr: 'fr',
+                nl: 'dh',
+                ar: 'ar',
+                cn: 'ch',
+                es: 'sp',
+                pt: 'pr',
+                ru: 'rs',
+            };
+
+            const lang = countryLangMap[countryCode] || 'en';
+            i18n.changeLanguage(lang);
+        } catch (error) {
+            console.error('Error fetching IP info:', error);
+            i18n.changeLanguage('en');
+        }
     };
+
+    useEffect(() => {
+        setDefaultLanguageBasedOnIP();
+    }, []);
+
     return (
         <div className='header-container'>
             <div className={headerClass}>
@@ -86,20 +83,7 @@ const Header = () => {
                     <div className='logo'>
                         <img src='/Images/logo.png' alt='header-shreesoftic' aria-hidden='true' style={{ width: 190 }} />
                     </div>
-                    <div className='langauge-header'>
-                        <select className='language-dropdown' onChange={changeLanguage} aria-label='Select Option'>
-                            <option value='en'>English</option>
-                            <option value='fr'>French</option>
-                            <option value='dh'>Dutch</option>
-                            <option value='ar'>Arabic</option>
-                            <option value='ch'>Mandarin Chinese</option>
-                            <option value='sp'>Spanish</option>
-                            <option value='pr'>Portuguese</option>
-                            <option value='rs'>Russian</option>
-                        </select>
-                    </div>
                 </div>
-
                 <div className='main-header'>
                     <div className={`left ${navbarActive ? 'activeleft' : ''}`}>
                         <Link
