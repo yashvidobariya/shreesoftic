@@ -50,10 +50,12 @@ const Header = () => {
 
     const setDefaultLanguageBasedOnIP = async () => {
         try {
-            const response = await axios.get('https://ipapi.co/json/');
-            const countryCode = response.data.country_code.toLowerCase();
+            const apiKey = '5cb9aba45868448db71086ee93d18d1f';
+            const response = await axios.get(`https://api.ipgeolocation.io/ipgeo?apiKey=${apiKey}`);
+            const countryCode = response.data.country_code2.toLowerCase();
+            console.log("countrycode", countryCode);
 
-            const countryLangMap = {
+            const countryLanguage = {
                 us: 'en',
                 fr: 'fr',
                 nl: 'dh',
@@ -64,13 +66,18 @@ const Header = () => {
                 ru: 'rs',
             };
 
-            const lang = countryLangMap[countryCode] || 'en';
+            const lang = countryLanguage[countryCode] || 'en';
             i18n.changeLanguage(lang);
         } catch (error) {
             console.error('Error fetching IP info:', error);
             i18n.changeLanguage('en');
         }
     };
+
+    useEffect(() => {
+        setDefaultLanguageBasedOnIP();
+    }, []);
+
 
     useEffect(() => {
         setDefaultLanguageBasedOnIP();
