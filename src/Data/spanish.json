@@ -12,9 +12,9 @@
         "description": "Bienvenido a Shreesoftic, una empresa líder en el campo de la tecnología de la información, especializada en el desarrollo de aplicaciones móviles y sitios web. Nuestro equipo de desarrolladores experimentados está apasionado por crear soluciones innovadoras e intuitivas que ayudan a las empresas a tener éxito. Nos enorgullecemos de ofrecer productos y servicios de alta calidad a nuestros clientes. Ya sea que necesite una aplicación móvil personalizada o un sitio web completo, tenemos la experiencia y los recursos para hacerlo realidad. Contáctenos hoy para aprender más sobre cómo podemos ayudar a llevar su negocio al siguiente nivel.",
         "cta_button": "Contáctenos hoy",
         "data": {
-            "for business": "para negocios",
-            "to sell online": "para vender en línea",
-            "for your ideas": "para tus ideas"
+            "forbusiness": "para negocios",
+            "tosellonline": "para vender en línea",
+            "foryourideas": "para tus ideas"
         }
     },
     "workflow": {

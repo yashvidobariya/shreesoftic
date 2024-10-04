@@ -12,9 +12,9 @@
         "description": "Welkom bij Shreesoftic, een toonaangevend bedrijf op het gebied van informatietechnologie, gespecialiseerd in de ontwikkeling van mobiele applicaties en websites. Ons team van ervaren ontwikkelaars is gepassioneerd over het creëren van innovatieve en intuïtieve oplossingen die bedrijven helpen slagen. We zijn er trots op producten en diensten van hoge kwaliteit aan onze klanten te leveren. Of u nu een op maat gemaakte mobiele applicatie of een complete website nodig heeft, wij hebben de expertise en middelen om dit te realiseren. Neem vandaag nog contact met ons op om te ontdekken hoe wij uw bedrijf naar nieuwe hoogten kunnen brengen.",
         "cta_button": "Neem vandaag nog contact met ons op",
         "data": {
-            "for business": "voor bedrijven",
-            "to sell online": "om online te verkopen",
-            "for your ideas": "voor uw ideeën"
+            "forbusiness": "voor bedrijven",
+            "tosellonline": "om online te verkopen",
+            "foryourideas": "voor uw ideeën"
         }
     },
     "workflow": {

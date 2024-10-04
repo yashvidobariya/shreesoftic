@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
@@ -8,11 +9,34 @@ import Homeportfolio from '../home-component/Homeportfolio';
 import Homeservice from '../home-component/Homeservice';
 import { Wave } from "react-animated-text";
 import { useTranslation } from 'react-i18next';
+import headerenglish from '../Data/english.json';
+import headerfrench from '../Data/french.json';
+import headerdutch from '../Data/dutch.json';
+import headerarbic from '../Data/arabic.json';
+import headerchines from '../Data/chinese.json';
+import headerspanich from '../Data/spanish.json';
+import headerportuguese from '../Data/portuguese.json'
+import headerrussian from '../Data/russian.json';
 
 const Home = () => {
-    const { t } = useTranslation();
+    const { t, i18n } = useTranslation();
     const [currentDataIndex, setCurrentDataIndex] = useState(0);
-    const data = [t("home.data.for business"), t("home.data.to sell online"), t("home.data.for your ideas")];
+
+
+    const headerdata = i18n.language === 'fr' ? headerfrench :
+        i18n.language === 'dh' ? headerdutch :
+            i18n.language === 'ar' ? headerarbic :
+                i18n.language === 'ch' ? headerchines :
+                    i18n.language === 'sp' ? headerspanich :
+                        i18n.language === 'pr' ? headerportuguese :
+                            i18n.language === 'ru' ? headerrussian :
+                                headerenglish;
+
+    const data = [
+        headerdata.home.data.forbusiness,
+        headerdata.home.data.tosellonline,
+        headerdata.home.data.foryourideas
+    ];
     let timer = null;
 
     const changeDataIndex = (currentIndex) => {
@@ -45,11 +69,11 @@ const Home = () => {
                                 <p><Wave text={data[currentDataIndex]} effect="fadeOut" /></p></h1>
                         </div>
                         <div className='home-description'>
-                            <p>{t("home.description")}</p>
+                            {headerdata.home.description}
                         </div>
                         <div className="home-button">
                             <Link to='/contactus'>
-                                <button>{t("home.cta_button")}</button>
+                                <button>  {headerdata.home.cta_button}</button>
                             </Link>
                         </div>
                     </motion.div>

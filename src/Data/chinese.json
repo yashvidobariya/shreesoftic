@@ -12,9 +12,9 @@
         "description": "欢迎来到 Shreesoftic，一家领先的信息技术公司，专注于移动应用和网站开发。我们的开发团队经验丰富，热衷于创造创新和直观的解决方案，帮助企业成功。我们以为客户提供高质量的产品和服务而感到自豪。无论您需要定制的移动应用程序还是完整的网站，我们都有专业知识和资源来实现。请立即联系我们，了解我们如何帮助您的企业迈向新的高度。",
         "cta_button": "立即联系我们",
         "data": {
-            "for business": "为企业",
-            "to sell online": "在线销售",
-            "for your ideas": "为您的想法"
+            "forbusiness": "为企业",
+            "tosellonline": "在线销售",
+            "foryourideas": "为您的想法"
         }
     },
     "workflow": {

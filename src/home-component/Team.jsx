@@ -34,7 +34,7 @@ const Team = () => {
                         : i18n.language === 'pr'
                             ? teamdataportuguese
 
-                            : i18n.language === 'rs'
+                            : i18n.language === 'ru'
                                 ? teamdatarussian
 
                                 : teamdataenglish;

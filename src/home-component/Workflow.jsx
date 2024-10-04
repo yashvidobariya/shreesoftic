@@ -30,7 +30,7 @@ const Workflow = () => {
                         : i18n.language === 'pr'
                             ? workflowDatapr
 
-                            : i18n.language === 'rs'
+                            : i18n.language === 'ru'
                                 ? workflowDatars
 
                                 : workflowDataEn;

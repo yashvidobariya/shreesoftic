@@ -45,7 +45,7 @@ const Contactus = () => {
                             : i18n.language === 'pr'
                                 ? contactportuguese
 
-                                : i18n.language === 'rs'
+                                : i18n.language === 'ru'
                                     ? contactrussian
 
                                     : contactenglish;

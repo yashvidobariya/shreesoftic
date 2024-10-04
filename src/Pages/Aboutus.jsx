@@ -34,7 +34,7 @@ const Aboutus = () => {
                         : i18n.language === 'pr'
                             ? aboutportuguese
 
-                            : i18n.language === 'rs'
+                            : i18n.language === 'ru'
                                 ? aboutrussian
 
                                 : aboutenglish;

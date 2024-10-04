@@ -13,6 +13,7 @@ import footerchines from '../Data/chinese.json';
 import footerspanich from '../Data/spanish.json';
 import footerportuguese from '../Data/portuguese.json'
 import footerrussian from '../Data/russian.json';
+
 function Footer() {
     const { t, i18n } = useTranslation();
     const location = useLocation();
@@ -24,7 +25,7 @@ function Footer() {
                 i18n.language === 'ch' ? footerchines :
                     i18n.language === 'sp' ? footerspanich :
                         i18n.language === 'pr' ? footerportuguese :
-                            i18n.language === 'rs' ? footerrussian :
+                            i18n.language === 'ru' ? footerrussian :
                                 footeraenglish;
 
     useEffect(() => {
@@ -143,7 +144,7 @@ function Footer() {
                                 <option value='ch'>Mandarin Chinese</option>
                                 <option value='sp'>Spanish</option>
                                 <option value='pr'>Portuguese</option>
-                                <option value='rs'>Russian</option>
+                                <option value='ru'>Russian</option>
                             </select>
                         </div>
                     </div>

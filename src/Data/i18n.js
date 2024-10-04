@@ -30,7 +30,7 @@ const resources = {
     pr: {
         translation: portuguese
     },
-    rs: {
+    ru: {
         translation: russian
     }
 

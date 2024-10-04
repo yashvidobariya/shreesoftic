@@ -41,7 +41,7 @@ const Career = () => {
                         : i18n.language === 'pr'
                             ? careerportuguese
 
-                            : i18n.language === 'rs'
+                            : i18n.language === 'ru'
                                 ? careerrussian
 
                                 : careerenglish;

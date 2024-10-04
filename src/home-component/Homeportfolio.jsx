@@ -27,7 +27,7 @@ const Homeportfolio = () => {
                 i18n.language === 'ch' ? homeportfoliochines :
                     i18n.language === 'sp' ? homeportfoliospanich :
                         i18n.language === 'pr' ? homeportfolioportuguese :
-                            i18n.language === 'rs' ? homeportfoliorussian :
+                            i18n.language === 'ru' ? homeportfoliorussian :
                                 homeportfolioenglish;
 
     const homeporfoliosteps = portfoliodata.portfolio.steps;

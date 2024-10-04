@@ -4,6 +4,15 @@ import { Link, useLocation } from 'react-router-dom';
 import { GrFormClose } from 'react-icons/gr';
 import { HiMenu } from 'react-icons/hi';
 import { useTranslation } from 'react-i18next';
+import headerenglish from '../Data/english.json';
+import headerfrench from '../Data/french.json';
+import headerdutch from '../Data/dutch.json';
+import headerarbic from '../Data/arabic.json';
+import headerchines from '../Data/chinese.json';
+import headerspanich from '../Data/spanish.json';
+import headerportuguese from '../Data/portuguese.json'
+import headerrussian from '../Data/russian.json';
+
 
 const Header = () => {
     const { t, i18n } = useTranslation();
@@ -11,6 +20,26 @@ const Header = () => {
     const [headerClass, setHeaderClass] = useState('header');
     const location = useLocation();
     const [activeLink, setActiveLink] = useState(location.pathname);
+
+    const headerdata = i18n.language === 'fr' ? headerfrench :
+        i18n.language === 'dh' ? headerdutch :
+            i18n.language === 'ar' ? headerarbic :
+                i18n.language === 'ch' ? headerchines :
+                    i18n.language === 'sp' ? headerspanich :
+                        i18n.language === 'pr' ? headerportuguese :
+                            i18n.language === 'ru' ? headerrussian :
+                                headerenglish;
+
+    useEffect(() => {
+        setActiveLink(location.pathname);
+    }, [location]);
+
+    const changeLanguage = (e) => {
+        const selectedLanguage = e.target.value;
+        i18n.changeLanguage(selectedLanguage.toLowerCase());
+    };
+
+
 
     useEffect(() => {
         setActiveLink(location.pathname);
@@ -98,35 +127,35 @@ const Header = () => {
                             onClick={removeNavbar}
                             className={isActive('/') ? 'active' : ''}
                         >
-                            {t('header.home')}
+                            {headerdata.header.home}
                         </Link>
                         <Link
                             to="/aboutus"
                             onClick={removeNavbar}
                             className={isActive('/aboutus') ? 'active' : ''}
                         >
-                            {t('header.about_us')}
+                            {headerdata.header.about_us}
                         </Link>
                         <Link
                             to="/services"
                             onClick={removeNavbar}
                             className={isActive('/services') ? 'active' : ''}
                         >
-                            {t('header.services')}
+                            {headerdata.header.services}
                         </Link>
                         <Link
                             to="/career"
                             onClick={removeNavbar}
                             className={isActive('/career') ? 'active' : ''}
                         >
-                            {t('header.career')}
+                            {headerdata.header.career}
                         </Link>
                         <Link
                             to="/contactus"
                             onClick={removeNavbar}
                             className={isActive('/contactus') ? 'active' : ''}
                         >
-                            {t('header.contact_us')}
+                            {headerdata.header.contact_us}
                         </Link>
                     </div>
                     <div className={`closenavbar ${navbarActive ? 'visible' : 'hidden'}`} onClick={removeNavbar}>
