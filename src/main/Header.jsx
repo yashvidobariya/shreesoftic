@@ -15,7 +15,7 @@ import headerrussian from '../Data/russian.json';
 
 
 const Header = () => {
-    const { t, i18n } = useTranslation();
+    const { i18n } = useTranslation();
     const [navbarActive, setNavbarActive] = useState(false);
     const [headerClass, setHeaderClass] = useState('header');
     const location = useLocation();
@@ -33,13 +33,6 @@ const Header = () => {
     useEffect(() => {
         setActiveLink(location.pathname);
     }, [location]);
-
-    const changeLanguage = (e) => {
-        const selectedLanguage = e.target.value;
-        i18n.changeLanguage(selectedLanguage.toLowerCase());
-    };
-
-
 
     useEffect(() => {
         setActiveLink(location.pathname);
@@ -77,40 +70,6 @@ const Header = () => {
         return false;
     };
 
-    const setDefaultLanguageBasedOnIP = async () => {
-        try {
-            const apiKey = '5cb9aba45868448db71086ee93d18d1f';
-            const response = await axios.get(`https://api.ipgeolocation.io/ipgeo?apiKey=${apiKey}`);
-            const countryCode = response.data.country_code2.toLowerCase();
-            console.log("countrycode", countryCode);
-
-            const countryLanguage = {
-                us: 'en',
-                fr: 'fr',
-                nl: 'dh',
-                ar: 'ar',
-                cn: 'ch',
-                es: 'sp',
-                pt: 'pr',
-                ru: 'rs',
-            };
-
-            const lang = countryLanguage[countryCode] || 'en';
-            i18n.changeLanguage(lang);
-        } catch (error) {
-            console.error('Error fetching IP info:', error);
-            i18n.changeLanguage('en');
-        }
-    };
-
-    useEffect(() => {
-        setDefaultLanguageBasedOnIP();
-    }, []);
-
-
-    useEffect(() => {
-        setDefaultLanguageBasedOnIP();
-    }, []);
 
     return (
         <div className='header-container'>

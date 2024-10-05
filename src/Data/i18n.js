@@ -8,6 +8,7 @@ import chines from '../Data/chinese.json'
 import spanish from '../Data/spanish.json';
 import portuguese from '../Data/portuguese.json';
 import russian from '../Data/spanish.json'
+
 const resources = {
     en: {
         translation: english

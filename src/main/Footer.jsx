@@ -13,11 +13,13 @@ import footerchines from '../Data/chinese.json';
 import footerspanich from '../Data/spanish.json';
 import footerportuguese from '../Data/portuguese.json'
 import footerrussian from '../Data/russian.json';
+import axios from 'axios';
 
 function Footer() {
     const { t, i18n } = useTranslation();
     const location = useLocation();
     const [activeLink, setActiveLink] = useState(location.pathname);
+    const [selectedLanguage, setSelectedLanguage] = useState(i18n.language);
 
     const teamdata = i18n.language === 'fr' ? footerfrench :
         i18n.language === 'dh' ? footerdutch :
@@ -28,6 +30,38 @@ function Footer() {
                             i18n.language === 'ru' ? footerrussian :
                                 footeraenglish;
 
+    const setDefaultLanguageBasedOnIP = async () => {
+        try {
+            const apiKey = '5cb9aba45868448db71086ee93d18d1f';
+            const response = await axios.get(`https://api.ipgeolocation.io/ipgeo?apiKey=${apiKey}`);
+            const countryCode = response.data.country_code2.toLowerCase();
+            console.log("countrycode", countryCode);
+
+            const countryLanguage = {
+                us: 'en',
+                fr: 'fr',
+                nl: 'dh',
+                ar: 'ar',
+                cn: 'ch',
+                es: 'sp',
+                pt: 'pr',
+                ru: 'rs',
+            };
+
+            const lang = countryLanguage[countryCode] || 'en';
+            i18n.changeLanguage(lang);
+            setSelectedLanguage(lang);
+        } catch (error) {
+            console.error('Error fetching IP info:', error);
+            i18n.changeLanguage('en');
+            setSelectedLanguage('en');
+        }
+    };
+
+    useEffect(() => {
+        setDefaultLanguageBasedOnIP();
+    }, []);
+
     useEffect(() => {
         setActiveLink(location.pathname);
     }, [location]);
@@ -35,6 +69,7 @@ function Footer() {
     const changeLanguage = (e) => {
         const selectedLanguage = e.target.value;
         i18n.changeLanguage(selectedLanguage.toLowerCase());
+        setSelectedLanguage(selectedLanguage);
     };
 
     return (
@@ -136,7 +171,7 @@ function Footer() {
                             </div>
                         </div>
                         <div className='langauge-header'>
-                            <select className='language-dropdown' onChange={changeLanguage} aria-label='Select Option'>
+                            <select className='language-dropdown' value={selectedLanguage} onChange={changeLanguage} aria-label='Select Option'>
                                 <option value='en'>English</option>
                                 <option value='fr'>French</option>
                                 <option value='dh'>Dutch</option>
